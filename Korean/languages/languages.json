@@ -1,0 +1,11 @@
+[
+    { "name": "English", "bundle": "system.en", "alias": "en" },
+    { "name": "French", "bundle": "system.fr", "alias": "fr" },
+    { "name": "German", "bundle": "system.de", "alias": "de" },
+    { "name": "Spanish", "bundle": "system.es", "alias": "es" },
+    { "name": "Russian", "bundle": "system.ru", "alias": "ru" },
+    { "name": "Portugal / Brazil", "bundle": "system.pt", "alias": "pt" },
+    { "name": "Traditional Chinese", "bundle": "system.zh_tw", "alias": "zh_tw" },
+    { "name": "Simplified Chinese", "bundle": "system.zh_cn", "alias": "zh_cn" },
+	{ "name": "한국어", "bundle": "system.ko", "alias": "ko" }    
+]
