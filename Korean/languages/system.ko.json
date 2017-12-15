@@ -572,7 +572,7 @@
         "info": ""
     },
     "P187": {
-        "t": "에(to)",
+        "t": "~",
         "info": ""
     },
     "P188": {
@@ -588,7 +588,7 @@
         "info": ""
     },
     "P191": {
-        "t": "제거 >",
+        "t": "삭제 >",
         "info": ""
     },
     "P192": {
@@ -648,11 +648,11 @@
         "info": ""
     },
     "P206": {
-        "t": "com.example.SampleExtension",
-        "info": ""
+        "t": "",
+        "info": "DO NOT TRANSLATE"
     },
     "P207": {
-        "t": "Sample Extension",
+        "t": "샘플 익스텐션",
         "info": ""
     },
     "P208": {
@@ -900,19 +900,20 @@
         "info": ""
     },
     "D1ADDA07K2478A4764SAB13E044C26BFE919": {
-        "t": "Aristo",
-        "info": ""
+        "t": "",
+        "info": "DO NOT TRANSLATE"
     },
     "6108021BKFDEFA400BSADA0EA7E3C3502B4B": {
-        "t": "Aristo 2",
-        "info": ""
+
+        "t": "",
+        "info": "DO NOT TRANSLATE"
     },
     "F326C8CEK9714A487AS9C72E0DC655D94BC5": {
         "t": "Futura",
         "info": ""
     },
     "5931785CK8C7AA4EECSA748E98D1C6F6A8A6": {
-        "t": "눈금으로 보기",
+        "t": "그리드 표시",
         "info": ""
     },
     "31543966K66C6A4ACBSAF82E5BFFA066CCD2": {
@@ -2028,8 +2029,8 @@
         "info": ""
     },
     "16ADE8C7KC29BA4DDESA1DFE575A7C625D41": {
-        "t": "\"(없음)",
-        "info": ""
+        "t": "",
+        "info": "DO NOT TRANSLATE"
     },
     "383D360CKC55EA44A5SA14CE03ED5E38C028": {
         "t": "그래픽",
@@ -3852,11 +3853,11 @@
         "info": ""
     },
     "ED0E4CA1976D854C5F8AC810864A28AF3E22": {
-        "t": "비틀거리는 효과(Wobble)",
+        "t": "흔들림",
         "info": ""
     },
     "DA61190939963742963810216A7BCE496C1B": {
-        "t": "블러 효과(Blur)",
+        "t": "블러",
         "info": ""
     },
     "C67866508B31F64A514B34A7F142277359CC": {
@@ -4092,7 +4093,7 @@
         "info": ""
     },
     "322A2B56554536445E5ABA130AB588F93809": {
-        "t": "표현식 선택",
+        "t": "표정 선택",
         "info": ""
     },
     "93B9D3A6536FB14D0F68D9A142B99F56D8C7": {
@@ -4100,7 +4101,7 @@
         "info": ""
     },
     "C167CCAE6B95034BD0686DE82A7E61ABE04F": {
-        "t": "순서가 지정된",
+        "t": "차례",
         "info": ""
     },
     "6679473022042043F64B6300B002D51638F9": {
@@ -4200,7 +4201,7 @@
         "info": ""
     },
     "E8475D0A2036664E5A08DA31E4512A1ED63B": {
-        "t": "대화 표현 (다중 애니메이션)",
+        "t": "대화 시의 표정 (애니메이션은 복수)",
         "info": ""
     },
     "0E80B1833C3F0548517BD5B87CA6E9BB8EB3": {
@@ -5176,24 +5177,24 @@
         "info": ""
     },
     "1918AB8650AE3747ED298751EE5F87D42AEE": {
-        "t": "Code Sign Identity:",
-        "info": ""
+        "t": "코드 서명 ID:",
+        "info": "iOS Development"
     },
     "424C37B7414407472D5AEA6734AB7766958F": {
-        "t": "Provisioning Profile:",
-        "info": ""
+        "t": "프로비저닝 프로필:",
+        "info": "iOS Development"
     },
     "86CFD16D4BF4A34D04189BE23C59609692B3": {
-        "t": "Development Team:",
-        "info": ""
+        "t": "개발 팀:",
+        "info": "iOS Development"
     },
     "92E34FBA9D041446201B000727A2DF70BDD9": {
-        "t": "Package Type:",
-        "info": ""
+        "t": "패키지 타입:",
+        "info": "iOS Development"
     },
     "8AAC055278D9C541EB09C2B6C92E7693D859": {
         "t": "쉘 실행 중에 오류가 발생했습니다.",
-        "info": ""
+        "info": "Shell/Terminal/Command Line"
     },
     
     "5E58890085D0624D8389EB714D5134C83200": { "t": "다음 찾기", "info": "" },
@@ -5208,8 +5209,8 @@
 	"FC5097693BBA794A971B1A079FAE447E97B0": { "t": "플랫폼 별 빌드", "info": "" },
 	"EB0496293CB3F141BC8B1BB9A11F432CA376": { "t": "플랫폼 별 플레이", "info": "" },
 	"7CCA5418036F134C4579A7F2F371BDFA6CCE": { "t": "게임 폴더 열기", "info": "" },
-	"B762368E5C99C44A13693586425214FE0963": { "t": "Shape", "info": "" },
-	"4B66B19661918348F378CEB12A44A8B0A94D": { "t": "클릭할 때", "info": "" },
+	"B762368E5C99C44A13693586425214FE0963": { "t": "형상", "info": "Graphical Shape" },
+	"4B66B19661918348F378CEB12A44A8B0A94D": { "t": "클릭 시", "info": "" },
 	"EB52AD8F824AA44DFE0B876477FCA0D890F0": { "t": "입력 시", "info": "" },
 	"DEC9A1F06B931544AC28D3F1A327A51F79DE": { "t": "선택 해제 시", "info": "" },
 	"655949B6180C4343C22AB0E6A1D358CA005B": { "t": "나갈 때", "info": "" },
@@ -5360,10 +5361,10 @@
     "6465C5F65A78A941631890B4630EC1921B4F": { "t": "장면 처리", "info": "" },
     "B81D706E0357244D86489CA4E9FE2D066A63": { "t": "%s 을/를 처리하는 중...", "info": "" },
     "A728D646787FF34C3248979130E929CFCBEA": { "t": "안드로이드", "info": "" },
-    "C746AB6B64828049C559F8166BE46DB1B2D8": { "t": "Key Store:", "info": "" },
-    "AB1892CF24E06348542B34C92F67C6565EBB": { "t": "Key Store Password:", "info": "" },
-    "00101D823696B044E05B3F8405A97A32B146": { "t": "Key Alias:", "info": "" },
-    "789020F53FCF5247287975C25C67526614EA": { "t": "Key Password:", "info": "" },
+    "C746AB6B64828049C559F8166BE46DB1B2D8": { "t": "키 스토어:", "info": "" },
+    "AB1892CF24E06348542B34C92F67C6565EBB": { "t": "키 스토어 패스워드", "info": "" },
+    "00101D823696B044E05B3F8405A97A32B146": { "t": "키 앨리어스:", "info": "" },
+    "789020F53FCF5247287975C25C67526614EA": { "t": "키 패스워드:", "info": "" },
     "E933A0452063474A6E7AE961970EB98B09C9": { "t": "라이센스 키:", "info": "" },
     "A365FDA678489046CE4A9F767682E8CF21BD": { "t": "플레이 스토어 라이센스 키:", "info": "" },
     "336451503CA173443F98FC81D2E5D8C91B9B": { "t": "APK 확장 파일 사용", "info": "" },
@@ -5372,19 +5373,19 @@
     "6E0E9D13035F054AAC699D245D477F6645DC": { "t": "Live2D 설정", "info": "" },
     "7B137A744F7C174D5B193598362C66DDBB84": { "t": "Live2D 매개변수", "info": "" },
     "F4BFA4C84CD22442948A4E97B8F2704F7521": { "t": "캐릭터 기본 값", "info": "" },
-    "E6937E90514C37424D7B636147FDDEFB1CBB": { "t": "호흡 모션 강도", "info": "" },
-	"40EA095D062F9546FD4B42253E2CCCA666D7": { "t": "대기 모션(Idle) 강도", "info": "" },
-    "90791FCC34EDE440309BC978DC6D67A038F0": { "t": "립싱크 민감도", "info": "" },
+    "E6937E90514C37424D7B636147FDDEFB1CBB": { "t": "호흡의 정도", "info": "" },
+	"40EA095D062F9546FD4B42253E2CCCA666D7": { "t": "대기 정도", "info": "" },
+    "90791FCC34EDE440309BC978DC6D67A038F0": { "t": "립싱크 감도", "info": "" },
     "CCF9701A250AA748B74ACF9186F86CE54DFA": { "t": "눈 깜빡임", "info": "" },
-    "49D635AA7F533945031961C84E53DA47FC4A": { "t": "눈을 감고 있는 시간", "info": "" },
-    "80666DBD4B6550418F2ABD277A1D721274A3": { "t": "눈을 감는데 걸리는 시간", "info": "" },
-    "AAC691DE7A7AA744C07987D1895C7BA401DC": { "t": "눈을 뜨는데 걸리는 시간", "info": "" },
+    "49D635AA7F533945031961C84E53DA47FC4A": { "t": "눈 감은 모션", "info": "" },
+    "80666DBD4B6550418F2ABD277A1D721274A3": { "t": "눈을 감고 있는 모션", "info": "" },
+    "AAC691DE7A7AA744C07987D1895C7BA401DC": { "t": "눈을 뜨고 있는 모션", "info": "" },
     "C76658282586E94FE9295E495AD4C284D70E": { "t": "디버그 뷰", "info": "" },
     "79D2B99A737436464D8AE23194A70844086A": { "t": "모든 참조 이름 바꾸기", "info": "" },
-    "BCADE71C53EDB140D85A762489B00A37730C": { "t": "대기 모션(idle) 강도:", "info": "" },
-    "7197F01A8B70D642125A03467866A7B3BE63": { "t": "호흡 강도:", "info": "" },
-    "289719097B8337459D08BAF48EE642483968": { "t": "립싱크 민감도:", "info": "" },
-    "B03973C66D0CD7419A49B52082C0791903A3": { "t": "단일 인스턴스", "info": "" },
+    "BCADE71C53EDB140D85A762489B00A37730C": { "t": "대기 정도:", "info": "" },
+    "7197F01A8B70D642125A03467866A7B3BE63": { "t": "호흡의 정도:", "info": "" },
+    "289719097B8337459D08BAF48EE642483968": { "t": "립싱크 감도:", "info": "" },
+    "B03973C66D0CD7419A49B52082C0791903A3": { "t": "단일 인스턴스", "info": "For common events to let them run as single instance, means they only create one instance of a command interpreter at a time." },
     "B25B5E9D4ABED04A23699C871A5205FCAE31": { "t": "접두사:", "info": "" },
     "5590382131361846FE4BB554CD186CDCADE1": { "t": "접미사:", "info": "" },
     "AD4572E7600DE6411B681756AEA87A33C9A4": { "t": "위치 고정", "info": "" },
@@ -5395,7 +5396,7 @@
     "3E0C4FA07623E34F3908D417D8F8B4FD63D3": { "t": "이미지", "info": "" },
     "2586E6655FB193421B6A3E43620E3ADB0D93": { "t": "타일링 이미지", "info": "" },
     "43AB4A768C7E8447B41AF3275AB85714F14D": { "t": "프레임", "info": "" },
-    "FD7EF6A29DCE65415D6B8733997391E98142": { "t": "Three-Part 이미지", "info": "" },
+    "FD7EF6A29DCE65415D6B8733997391E98142": { "t": "3-파트 이미지", "info": "" },
     "892EDC432CBA6542A64A3E266BAC9C430DD1": { "t": "쿼드", "info": "" },
     "944E53CE38010343CF28707302BA2FF54ABD": { "t": "장면에 캐릭터 추가", "info": "" },
     "9A85901717E9C14C952955616EA96882EF43": { "t": "페이드-인", "info": "" },
@@ -5403,7 +5404,7 @@
     "BC4DFF3B1A9953463A7BE1E9FA84DF33D265": { "t": "흐름 제어", "info": "" },
     "0982629273001344698BD7512598CADED0B4": { "t": "조건 분기", "info": "" },
     "F891A99C6C33364D583BBBA74E1CB73F0BAE": { "t": "타이머", "info": "" },
-    "AEB0463C403244454D5838451B328881EFFA": { "t": "사용자 상호작용", "info": "" },
+    "AEB0463C403244454D5838451B328881EFFA": { "t": "사용자 조작", "info": "" },
     "10532DB34986144EED48AC058CB1D33B179B": { "t": "저장 & 불러오기", "info": "" },
     "271150F15AF34549943BCE034E6B8B439297": { "t": "데이터", "info": "" },
     "7F2E596F36975540830ACF8248644620D341": { "t": "메시지 영역", "info": "" },
@@ -5423,6 +5424,137 @@
     "3821D5611242A9442D597146E7D807708DE1": { "t": "장면 제어", "info": "" },
     "B377402B9CFE46427A199532C210242722AE": { "t": "ADV 스타일", "info": "" },
     "46F125F05E61C74FE92831665515EA9B9CD9": { "t": "NVL 스타일", "info": "" },
-    "998C2E345494F8404709B3A52A932F2C2B59": { "t": "메뉴만", "info": "" }
+    "998C2E345494F8404709B3A52A932F2C2B59": { "t": "메뉴만", "info": "" },
+
+    "DDBC466C06C4C449EE489256DA79461BEDA2": { "t": "게임 - 스킵", "info": "" },
+    "3D664CCA2BACB84555885FA7D2507662CC00": { "t": "초보자 가이드", "info": "" },
+    "E83415475C0F37404E4AD6A3A7CDE7B45253": { "t": "난수", "info": "Random Number" },
+    "CCE1D54E6C1C2347DE6BA161805011F03142": { "t": "두께", "info": "" },
+    "D3F006541FBD774BC38B21E1A1A20078669B": { "t": "모서리 크기", "info": "" },
+    "5C9BCC49216FB248B05975385EED334397D5": { "t": "자세한 내용은 도움말 파일을 보세요.",  "info": "" },
+    "860083A58A6EE44E0279F6F8CEEA5201E2F5": { "t": "모든 키", "info": "" },
+	"00A9E2314B1EC8430F6884A52B3DF1130FBC": { "t": "모든 버튼", "info": "" },
+	"F806BE367A72A54DE66A861438BDC0D43C0C": { "t": "모든 입력", "info": "" },
+	"6573D0D639E326443169D455940DBDBE260C": { "t": "키 - Cancel", "info": "" },
+	"7BF2A20B1EFA08462D184603EB6E0DFEFF78": { "t": "키 - Help", "info": "" },
+	"348773472DC23746492958E858768C473D08": { "t": "키 - Backspace", "info": "" },
+	"A6B2EA6C3CE4D343CE1B7B85377A110F6AAE": { "t": "키 - Tab", "info": "" },
+	"4E9F97AB8ECA72497F3B7EC41CFFA693F0D1": { "t": "키 - Clear", "info": "" },
+	"D65CF3D338D8C9419288CD6847043C260769": { "t": "키 - Return", "info": "" },
+	"B3CA3F181914684AFA19A552960FA8BBFBB6": { "t": "키 - Enter", "info": "" },
+	"6E0579B7053C93443019C0E61971546EDEAC": { "t": "키 - Shift", "info": "" },
+	"45AFB25982D687438B78B1262ED7F3136B87": { "t": "키 - Control", "info": "" },
+	"3D25EC89734C614C0A8BCBD6B3781798E914": { "t": "키 - Alt", "info": "" },
+	"7A7958E01BA9294ACE29041519F6B826CCAE": { "t": "키 - Pause", "info": "" },
+	"7693086E83272842309B85277A1914ACE946": { "t": "키 - Caps Loc", "info": "" },
+	"CE83DB0E6393984DF37A20E182D1DE6C6F3A": { "t": "키 - Caps Lock", "info": "" },
+	"5FA15C5A1DA8A54C6868C9C706AC68C8ADB1": { "t": "키 - Escape", "info": "" },
+	"7C5389928CA6844DF46A00151200A009E067": { "t": "키 - Space", "info": "" },
+	"48A67E156245C541CD2A98B09B94D90E46B2": { "t": "키 - Page Up", "info": "" },
+	"9CC483351E5762447E6BCD64D971E8F12022": { "t": "키 - Page Down", "info": "" },
+	"3DCB590D43160944D32AD87549EB0E3722B7": { "t": "키 - End", "info": "" },
+	"82E83B5228CBA94C3F694883743301604D71": { "t": "키 - Home", "info": "" },
+	"6539A9B900A92444E62862169C739C497B03": { "t": "키 - Left", "info": "" },
+	"F706E31D21395943AA4805416A62F6F4D967": { "t": "키 - Up", "info": "" },
+	"408283167686D244FC1A8958939203BD5D66": { "t": "키 - Right", "info": "" },
+	"1FEF049A334B674F60388AC5CF096316F459": { "t": "키 - Down", "info": "" },
+	"035FFAC94DF00147B66B2297C927DBE950AC": { "t": "키 - Print Screen", "info": "" },
+	"BD3F33D43D23A8457C187C9588E72C4DCEB1": { "t": "키 - Insert", "info": "" },
+	"D11D13701594384D6D6A4462D3CC54F08999": { "t": "키 - Delete", "info": "" },
+	"428C36074C60C945B4795B94D487D3E798CE": { "t": "키 - 0", "info": "" },
+	"172A40BE01C04142DB9B1DB74B877F6330A7": { "t": "키 - 1", "info": "" },
+	"8348BD50319475438949034940DDD0BDD8D9": { "t": "키 - 2", "info": "" },
+	"929F6F0C2F4DC340D7182354134470C5CB3C": { "t": "키 - 3", "info": "" },
+	"33CECD203AD8504B0298C731DE5E59D4B3F4": { "t": "키 - 4", "info": "" },
+	"54DF09EC285204467C2984B6C9897FA29252": { "t": "키 - 5", "info": "" },
+	"64DD6A4A0133F444CA5A5E3149E454F3D5A1": { "t": "키 - 6", "info": "" },
+	"E8D378D0141FE846B739ECA1F60A0A16EFB3": { "t": "키 - 7", "info": "" },
+	"1CF90F1C9F4F45403C8A7C12586E4F7DA359": { "t": "키 - 8", "info": "" },
+	"D04FAF793410184145396E605649E4733EF5": { "t": "키 - 9", "info": "" },
+	"50FA944A5E1A484F50390EE10E53804D93A9": { "t": "키 - Semicolon", "info": "" },
+	"744267A1656FD34A3428A363B83750488BAA": { "t": "키 - Equals", "info": "" },
+	"6184936338FC7542F4899C462BE44A4B0391": { "t": "키 - A", "info": "" },
+	"1B6FB43710BC9449F55BDA071E500B840002": { "t": "키 - B", "info": "" },
+	"6A0CCE1A2AA793466819F6D2633BCCD3C92C": { "t": "키 - C", "info": "" },
+	"1647D11C4E2E5844F169D5505601719C3312": { "t": "키 - D", "info": "" },
+	"C9D39AEB3A01274BFB49A4810EB8CDAD9368": { "t": "키 - E", "info": "" },
+	"3D6A132A0FFA444ABE1AA52285AEF41CF085": { "t": "키 - F", "info": "" },
+	"81C1EA9568CCF44B617B78F4B24411FB8867": { "t": "키 - G", "info": "" },
+	"511682003850F443134B1AB5BFF33F6E19F3": { "t": "키 - H", "info": "" },
+	"3754D5514F8C7248663957E394B8510A5440": { "t": "키 - I", "info": "" },
+	"6E7C98799BB896465E69787958E43B57E65D": { "t": "키 - J", "info": "" },
+	"B1B6F5AA297ED34EAB481DF8E17A4DF16E71": { "t": "키 - K", "info": "" },
+	"48F90DAC21D1B043FD3ABD0822708AE32D09": { "t": "키 - L", "info": "" },
+	"4783A9533D3EA247B61AC2328C707D2B960C": { "t": "키 - M", "info": "" },
+	"414C333D99FD494C420B61A8923060C220E0": { "t": "키 - N", "info": "" },
+	"7EF9FBE47705F048F479B083D49E5A1093F6": { "t": "키 - O", "info": "" },
+	"D6E0A4F45E124943C21B4D142FBF74579C1B": { "t": "키 - P", "info": "" },
+	"D18FDBB15FDC3847B459D7668D8DA88F3ACC": { "t": "키 - Q", "info": "" },
+	"808EC2806C587344601A277834616EDE0057": { "t": "키 - R", "info": "" },
+	"B25FAB1F2BD8D94D2D8806D90A45C9BC772E": { "t": "키 - S", "info": "" },
+	"5DB59BB10200884AFD3A40761CF1054E322E": { "t": "키 - T", "info": "" },
+	"03DD54029F4CC446B19B3DD5D6E61FBDEF49": { "t": "키 - U", "info": "" },
+	"01BEA02A26D5734DFC9BA52382F2179782C6": { "t": "키 - V", "info": "" },
+	"2D028AF66FFED74E5E2B0A58EBD2481902FF": { "t": "키 - W", "info": "" },
+	"0D98D8978BD05145206B76C7632D3D9F918A": { "t": "키 - X", "info": "" },
+	"8C27F5BD93C60446E7299EC1165C1100B21E": { "t": "키 - Y", "info": "" },
+	"E9EF6635341DB243B92BC0D97B13B753EEAF": { "t": "키 - Z", "info": "" },
+	"CD39745D283623447F4B5247B6F5CD9DA832": { "t": "키 - Context Menu", "info": "" },
+	"3BD491D4403E584490998348091F510F7A86": { "t": "키 - Numpad 0", "info": "" },
+	"4AFFF3151CF1C14B9C39BD47B39018825992": { "t": "키 - Numpad 1", "info": "" },
+	"C856209B3110444AEE48676265EA52E0099F": { "t": "키 - Numpad 2", "info": "" },
+	"D8FAEAED50D5B54AD38B0E87862124F2CEB4": { "t": "키 - Numpad 3", "info": "" },
+	"03217B65377CD64B14986EF130138D36ACED": { "t": "키 - Numpad 4", "info": "" },
+	"3C9E451808B4204A3018D510B156CDABE080": { "t": "키 - Numpad 5", "info": "" },
+	"AF9C250F9478314734284191D20E6D65A39F": { "t": "키 - Numpad 6", "info": "" },
+	"A126BB9F8F3E2843D1791511557A157DEA86": { "t": "키 - Numpad 7", "info": "" },
+	"9B543F5A26CD974ACD68A934700E296DAD68": { "t": "키 - Numpad 8", "info": "" },
+	"9C2737C82CB7F74F6408F4A1B61CE6006722": { "t": "키 - Numpad 9", "info": "" },
+	"A31AD6678F224146C2293874225974593347": { "t": "키 - Multiply", "info": "" },
+	"C4AC4D950F9A184DF9490A865FFCC8225E36": { "t": "키 - Add", "info": "" },
+	"9D9A7C9B0E066042BC7901B0B4E212C2DB0A": { "t": "키 - Separator", "info": "" },
+	"9370062F55F8C144811B5F933F27B2A36F88": { "t": "키 - Subtract", "info": "" },
+	"DE79C8043DFA3443B9284A9225937947ABCE": { "t": "키 - Decimal", "info": "" },
+	"C70B30EA506F1445B46B5D54C83E4DB35873": { "t": "키 - Divide", "info": "" },
+	"966BBF827C15D147F668B84783BB10212F78": { "t": "키 - F1", "info": "" },
+	"DE1757AF8431A64964899F122998D1908BE4": { "t": "키 - F2", "info": "" },
+	"CE3FAEA58F53D34D589B7F3524D042D1450C": { "t": "키 - F3", "info": "" },
+	"8F3AD8DC2D94C747B08BD873CBD046FF814E": { "t": "키 - F4", "info": "" },
+	"E228694D651ED14AB18A5728E71E56DBBAD4": { "t": "키 - F5", "info": "" },
+	"B6A9AE708907874931886BE50E54D2C185A2": { "t": "키 - F6", "info": "" },
+	"E559C0D71759E946CD48116851EB9DA5D9B6": { "t": "키 - F7", "info": "" },
+	"879ADE965419A64D005B7D4858C720AF3707": { "t": "키 - F8", "info": "" },
+	"4B5902CF1B63384B469873E13E2E8CB9FC64": { "t": "키 - F9", "info": "" },
+	"5C92179B0BAA8343952B3FA46647714FB451": { "t": "키 - F10", "info": "" },
+	"5FF080C478C6634D82183AD35D9B30AC5B60": { "t": "키 - F11", "info": "" },
+	"9D580AEC784F78436D8BDE41384DE85CA483": { "t": "키 - F12", "info": "" },
+	"0B3F13DF1879044D9F8B55947A85DBBC15F7": { "t": "키 - F13", "info": "" },
+	"7CB108BD49D96941BF7A9145F6F7CB976E08": { "t": "키 - F14", "info": "" },
+	"35CD6CF5725A3545074881E2B0876B5EFF8E": { "t": "키 - F15", "info": "" },
+	"49DE469966F1284B2E689A237085BDAA8BA0": { "t": "키 - F16", "info": "" },
+	"C74C42E53719C2427759B4B84CED14C2CFD3": { "t": "키 - F17", "info": "" },
+	"119AAA1B702CE645E68A8313DF553C3570BA": { "t": "키 - F18", "info": "" },
+	"C81AB1E94AC286460E7A5A55F6938A0C3587": { "t": "키 - F19", "info": "" },
+	"2324712A2D44234D493981B35500DDD0BF3F": { "t": "키 - F20", "info": "" },
+	"A3DB430F33ECE143212B77B2E6D730A07752": { "t": "키 - F21", "info": "" },
+	"F7C1FCB851D16443B01B9CA7DDC103FDA6F2": { "t": "키 - F22", "info": "" },
+	"3F45CA5E9A3128472F6852151D2475926E93": { "t": "키 - F23", "info": "" },
+	"7DD97AA88B24A8496718EDB3707C6E2F7EBD": { "t": "키 - F24", "info": "" },
+	"0A1B28CB60343844DE38AA64EA081C8E487B": { "t": "키 - Num Lock", "info": "" },
+	"808660E58502064B1859B1420456B942FDF2": { "t": "키 - Scroll Lock", "info": "" },
+	"03CE4836162D91485108377486B0F04E6A1D": { "t": "키 - Comma", "info": "" },
+	"EF03C785270C0645931A4E61D3FBA8190DE5": { "t": "키 - Period", "info": "" },
+	"7A777E9669DBB54EC76872912A1761F17949": { "t": "키 - Slash", "info": "" },
+	"308E73D7182903476A782497F5B9BCA265BE": { "t": "키 - Back Quote", "info": "" },
+	"D94EA05F245AA34DA0194227B28395171F08": { "t": "키 - Open Bracket", "info": "" },
+	"E52CF5C015D1E347662943B4AE0660AF3B8B": { "t": "키 - Back Slash", "info": "" },
+	"D123CABB1D6AE9462D787D86F14E7B1523D7": { "t": "키 - Close Bracket", "info": "" },
+	"A1BCA694910C42484618AD644616C92B67AE": { "t": "키 - Quote", "info": "" },
+	"7C98F4771AD77740DB88B6052D0878E7C034": { "t": "키 - Meta", "info": "" },
+	"5275A5DD38964749530B76C5A2A5C0B0381D": { "t": "슬롯:", "info": "" },
+	"A594D5F8613EB54F79095420D7A592900766": { "t": "Visual Novel Maker 끝내기", "info": "" },
+	"A656990A40DCB745BA199F53B74826F4B323": { "t": "~", "info": "play time to" },
+    "0BB08C7B26984045683905F29CEE9D90D4A7": { "t": "~", "info": "pause time to" },
+    "222E404665D7494C6C9A68D7ECB6A11D7DAD": { "t": "오디오 리소스", "info": "" }	
 	
 }}}
