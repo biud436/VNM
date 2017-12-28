@@ -1,3 +1,6 @@
+## 핫스팟 좌표
+[구글 문서](https://docs.google.com/spreadsheets/d/1Wzdr7V8R3-jjvBFf1EJiAmM_EHg66rbNzSsvvarp1N8/edit?usp=sharing)
+
 ## 패치 적용 방법
 ![description](./images/description.jpg)
 
