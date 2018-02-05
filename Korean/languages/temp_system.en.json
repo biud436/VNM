@@ -1,0 +1,5555 @@
+{"items":{"name":"system","type":"application_language_bundle","phrases": {
+    "P7": {
+        "t": "Duration:",
+        "info": ""
+    },
+    "P9": {
+        "t": "(None)",
+        "info": ""
+    },
+    "P10": {
+        "t": "Frame(s)",
+        "info": ""
+    },
+    "P11": {
+        "t": "1 Frame = 1 / 60 Seconds.\n1 Second = 60 Frames.",
+        "info": ""
+    },
+    "P12": {
+        "t": "Shake Screen",
+        "info": ""
+    },
+    "P15": {
+        "t": "Speed:",
+        "info": ""
+    },
+    "P17": {
+        "t": "Begin Shaking",
+        "info": ""
+    },
+    "P18": {
+        "t": "Stop Shaking",
+        "info": ""
+    },
+    "P19": {
+        "t": "Wait for Completion",
+        "info": ""
+    },
+    "P22": {
+        "t": "Tint Screen",
+        "info": ""
+    },
+    "P23": {
+        "t": "Flash Screen",
+        "info": ""
+    },
+    "P24": {
+        "t": "Move Picture",
+        "info": ""
+    },
+    "P25": {
+        "t": "General",
+        "info": ""
+    },
+    "P26": {
+        "t": "Number:",
+        "info": ""
+    },
+    "P28": {
+        "t": "Origin:",
+        "info": ""
+    },
+    "P29": {
+        "t": "Top-Left",
+        "info": ""
+    },
+    "P30": {
+        "t": "Center",
+        "info": ""
+    },
+    "P31": {
+        "t": "Position",
+        "info": ""
+    },
+    "P32": {
+        "t": "X-Coordinate",
+        "info": ""
+    },
+    "P33": {
+        "t": "Y-Coordinate",
+        "info": ""
+    },
+    "P34": {
+        "t": "Scale",
+        "info": ""
+    },
+    "P35": {
+        "t": "Scale-X (%):",
+        "info": ""
+    },
+    "P36": {
+        "t": "Scale-Y (%):",
+        "info": ""
+    },
+    "P42": {
+        "t": "Project Name:",
+        "info": ""
+    },
+    "P43": {
+        "t": "Game Title:",
+        "info": ""
+    },
+    "P44": {
+        "t": "Template:",
+        "info": ""
+    },
+    "P45": {
+        "t": "OK",
+        "info": ""
+    },
+    "P46": {
+        "t": "Cancel",
+        "info": ""
+    },
+    "P47": {
+        "t": "Create",
+        "info": ""
+    },
+    "P48": {
+        "t": "Delete...",
+        "info": ""
+    },
+    "P49": {
+        "t": "Delete",
+        "info": ""
+    },
+    "P50": {
+        "t": "New Project...",
+        "info": ""
+    },
+    "P52": {
+        "t": "Change Theme",
+        "info": ""
+    },
+    "P54": {
+        "t": "Recent Projects",
+        "info": ""
+    },
+    "P55": {
+        "t": "Name",
+        "info": ""
+    },
+    "P57": {
+        "t": "New Project",
+        "info": ""
+    },
+    "P58": {
+        "t": "Project:",
+        "info": ""
+    },
+    "P60": {
+        "t": "Theme:",
+        "info": ""
+    },
+    "P61": {
+        "t": "File",
+        "info": ""
+    },
+    "P63": {
+        "t": "New Project",
+        "info": ""
+    },
+    "P64": {
+        "t": "Open Project",
+        "info": ""
+    },
+    "P65": {
+        "t": "Close Project",
+        "info": ""
+    },
+    "P66": {
+        "t": "Save Project",
+        "info": ""
+    },
+    "P67": {
+        "t": "Edit",
+        "info": ""
+    },
+    "P68": {
+        "t": "Undo",
+        "info": ""
+    },
+    "P69": {
+        "t": "Redo",
+        "info": ""
+    },
+    "P71": {
+        "t": "Cut",
+        "info": ""
+    },
+    "P72": {
+        "t": "Copy",
+        "info": ""
+    },
+    "P73": {
+        "t": "Paste",
+        "info": ""
+    },
+    "P74": {
+        "t": "Delete",
+        "info": ""
+    },
+    "P75": {
+        "t": "View",
+        "info": ""
+    },
+    "P76": {
+        "t": "Home",
+        "info": ""
+    },
+    "P78": {
+        "t": "Database",
+        "info": ""
+    },
+    "P79": {
+        "t": "Script",
+        "info": ""
+    },
+    "P80": {
+        "t": "Extension",
+        "info": ""
+    },
+    "P81": {
+        "t": "Language Configuration",
+        "info": ""
+    },
+    "P83": {
+        "t": "Zoom 1/1",
+        "info": ""
+    },
+    "P84": {
+        "t": "Zoom 1/2",
+        "info": ""
+    },
+    "P85": {
+        "t": "Zoom 1/4",
+        "info": ""
+    },
+    "P88": {
+        "t": "Events",
+        "info": ""
+    },
+    "P95": {
+        "t": "Tools",
+        "info": ""
+    },
+    "P96": {
+        "t": "Resource Manager",
+        "info": ""
+    },
+    "P97": {
+        "t": "Music Player",
+        "info": ""
+    },
+    "P98": {
+        "t": "Extension Manager",
+        "info": ""
+    },
+    "P99": {
+        "t": "Create Extension",
+        "info": ""
+    },
+    "P100": {
+        "t": "Create Backup",
+        "info": ""
+    },
+    "P101": {
+        "t": "Game",
+        "info": ""
+    },
+    "P102": {
+        "t": "Play",
+        "info": ""
+    },
+    "P103": {
+        "t": "Play in Fullscreen",
+        "info": ""
+    },
+    "P105": {
+        "t": "Create Game Package",
+        "info": ""
+    },
+    "P106": {
+        "t": "Manual",
+        "info": ""
+    },
+    "P107": {
+        "t": "Manual...",
+        "info": ""
+    },
+    "P109": {
+        "t": "Collections",
+        "info": ""
+    },
+    "P110": {
+        "t": "Records",
+        "info": ""
+    },
+    "P111": {
+        "t": "Scripts",
+        "info": ""
+    },
+    "P112": {
+        "t": "Language Profiles",
+        "info": ""
+    },
+    "P113": {
+        "t": "Default",
+        "info": ""
+    },
+    "P114": {
+        "t": "Translation",
+        "info": ""
+    },
+    "P115": {
+        "t": "Comment",
+        "info": ""
+    },
+    "P116": {
+        "t": "Extensions",
+        "info": ""
+    },
+    "P117": {
+        "t": "Preview",
+        "info": ""
+    },
+    "P118": {
+        "t": "Commands",
+        "info": ""
+    },
+    "P119": {
+        "t": "Name:",
+        "info": ""
+    },
+    "P120": {
+        "t": "Import",
+        "info": ""
+    },
+    "P121": {
+        "t": "Export",
+        "info": ""
+    },
+    "P122": {
+        "t": "Delete",
+        "info": ""
+    },
+    "P123": {
+        "t": "Preview",
+        "info": ""
+    },
+    "P124": {
+        "t": "Transparency",
+        "info": ""
+    },
+    "P126": {
+        "t": "Main Folders",
+        "info": ""
+    },
+    "P127": {
+        "t": "Files",
+        "info": ""
+    },
+    "P133": {
+        "t": "Application Resources",
+        "info": ""
+    },
+    "P134": {
+        "t": "Project Resources",
+        "info": ""
+    },
+    "P135": {
+        "t": "Close",
+        "info": ""
+    },
+    "P136": {
+        "t": "Music",
+        "info": ""
+    },
+    "P137": {
+        "t": "Sounds",
+        "info": ""
+    },
+    "P138": {
+        "t": "Background Sounds",
+        "info": ""
+    },
+    "P139": {
+        "t": "Play",
+        "info": ""
+    },
+    "P140": {
+        "t": "Stop",
+        "info": ""
+    },
+    "P141": {
+        "t": "Volume",
+        "info": ""
+    },
+    "P142": {
+        "t": "Rate",
+        "info": ""
+    },
+    "P143": {
+        "t": "Zoom 1X",
+        "info": ""
+    },
+    "P144": {
+        "t": "Zoom 2X",
+        "info": ""
+    },
+    "P145": {
+        "t": "Zoom 4X",
+        "info": ""
+    },
+    "P146": {
+        "t": "Zoom 8X",
+        "info": ""
+    },
+    "P147": {
+        "t": "Clear",
+        "info": ""
+    },
+    "P148": {
+        "t": "Transparent Color:",
+        "info": ""
+    },
+    "P149": {
+        "t": "Semi-Transparent Color:",
+        "info": ""
+    },
+    "P150": {
+        "t": "Opacity:",
+        "info": ""
+    },
+    "P151": {
+        "t": "Hue:",
+        "info": ""
+    },
+    "P152": {
+        "t": "Tone:",
+        "info": ""
+    },
+    "P153": {
+        "t": "Resources",
+        "info": ""
+    },
+    "P154": {
+        "t": "Select Graphic Resource",
+        "info": ""
+    },
+    "P155": {
+        "t": "Normal",
+        "info": ""
+    },
+    "P156": {
+        "t": "Add",
+        "info": ""
+    },
+    "P157": {
+        "t": "Sub",
+        "info": ""
+    },
+    "P158": {
+        "t": "Change Target...",
+        "info": ""
+    },
+    "P159": {
+        "t": "Copy Frames...",
+        "info": ""
+    },
+    "P160": {
+        "t": "Clear Frames...",
+        "info": ""
+    },
+    "P161": {
+        "t": "Auto-Complete...",
+        "info": ""
+    },
+    "P162": {
+        "t": "Mass Modify...",
+        "info": ""
+    },
+    "P163": {
+        "t": "Mass Slide...",
+        "info": ""
+    },
+    "P164": {
+        "t": "Play",
+        "info": ""
+    },
+    "P165": {
+        "t": "Next",
+        "info": ""
+    },
+    "P166": {
+        "t": "Back",
+        "info": ""
+    },
+    "P167": {
+        "t": "Frames:",
+        "info": ""
+    },
+    "P168": {
+        "t": "Cells:",
+        "info": ""
+    },
+    "P169": {
+        "t": "Pattern",
+        "info": ""
+    },
+    "P171": {
+        "t": "X",
+        "info": ""
+    },
+    "P172": {
+        "t": "Y",
+        "info": ""
+    },
+    "P173": {
+        "t": "Zoom",
+        "info": ""
+    },
+    "P174": {
+        "t": "Angle",
+        "info": ""
+    },
+    "P175": {
+        "t": "Flip",
+        "info": ""
+    },
+    "P176": {
+        "t": "Opacity",
+        "info": ""
+    },
+    "P177": {
+        "t": "Blending",
+        "info": ""
+    },
+    "P178": {
+        "t": "Mass Modify",
+        "info": ""
+    },
+    "P179": {
+        "t": "Yes",
+        "info": ""
+    },
+    "P180": {
+        "t": "No",
+        "info": ""
+    },
+    "P181": {
+        "t": "Mass Slide",
+        "info": ""
+    },
+    "P182": {
+        "t": "X:",
+        "info": ""
+    },
+    "P183": {
+        "t": "Y:",
+        "info": ""
+    },
+    "P184": {
+        "t": "Auto-Complete",
+        "info": ""
+    },
+    "P185": {
+        "t": "Position / Zoom / Angle",
+        "info": ""
+    },
+    "P186": {
+        "t": "Opacity / Blending",
+        "info": ""
+    },
+    "P187": {
+        "t": "to",
+        "info": ""
+    },
+    "P188": {
+        "t": "~",
+        "info": ""
+    },
+    "P189": {
+        "t": "Copy Frames",
+        "info": ""
+    },
+    "P190": {
+        "t": "< Add",
+        "info": ""
+    },
+    "P191": {
+        "t": "Remove >",
+        "info": ""
+    },
+    "P192": {
+        "t": "Clear",
+        "info": ""
+    },
+    "P193": {
+        "t": "Arrange",
+        "info": ""
+    },
+    "P194": {
+        "t": "Event Commands",
+        "info": ""
+    },
+    "P195": {
+        "t": "ID:",
+        "info": ""
+    },
+    "P196": {
+        "t": "Version:",
+        "info": ""
+    },
+    "P197": {
+        "t": "Author:",
+        "info": ""
+    },
+    "P198": {
+        "t": "Website:",
+        "info": ""
+    },
+    "P199": {
+        "t": "Description:",
+        "info": ""
+    },
+    "P200": {
+        "t": "License:",
+        "info": ""
+    },
+    "P201": {
+        "t": "Add",
+        "info": ""
+    },
+    "P202": {
+        "t": "Remove",
+        "info": ""
+    },
+    "P203": {
+        "t": "Documents",
+        "info": ""
+    },
+    "P204": {
+        "t": "Your Extension",
+        "info": ""
+    },
+    "P205": {
+        "t": "Create Extension",
+        "info": ""
+    },
+    "P206": {
+        "t": "com.example.SampleExtension",
+        "info": ""
+    },
+    "P207": {
+        "t": "Sample Extension",
+        "info": ""
+    },
+    "P208": {
+        "t": "My Name",
+        "info": ""
+    },
+    "P209": {
+        "t": "Write a description about your extension.",
+        "info": ""
+    },
+    "P210": {
+        "t": "Active",
+        "info": ""
+    },
+    "P211": {
+        "t": "Uninstall",
+        "info": ""
+    },
+    "P212": {
+        "t": "View License",
+        "info": ""
+    },
+    "P213": {
+        "t": "Extension Manager",
+        "info": ""
+    },
+    "P214": {
+        "t": "License",
+        "info": ""
+    },
+    "P215": {
+        "t": "I accept the terms of the license agreement",
+        "info": ""
+    },
+    "P216": {
+        "t": "Install",
+        "info": ""
+    },
+    "P218": {
+        "t": "Value:",
+        "info": ""
+    },
+    "P219": {
+        "t": "Quick Setting",
+        "info": ""
+    },
+    "P220": {
+        "t": "Generate Curve...",
+        "info": ""
+    },
+    "P221": {
+        "t": "Generate Curve",
+        "info": ""
+    },
+    "P224": {
+        "t": "Generate",
+        "info": ""
+    },
+    "P225": {
+        "t": "Slow",
+        "info": ""
+    },
+    "P226": {
+        "t": "Middle",
+        "info": ""
+    },
+    "P227": {
+        "t": "Fast",
+        "info": ""
+    },
+    "P233": {
+        "t": "Scope:",
+        "info": ""
+    },
+    "P234": {
+        "t": "Sections",
+        "info": ""
+    },
+    "P235": {
+        "t": "Variables",
+        "info": ""
+    },
+    "P236": {
+        "t": "Change Max...",
+        "info": ""
+    },
+    "P240": {
+        "t": "Local",
+        "info": ""
+    },
+    "P241": {
+        "t": "Global",
+        "info": ""
+    },
+    "DFBEBA70KA719A4DD3SB786E520FE5FF2D3A": {
+        "t": "Template Variable",
+        "info": ""
+    },
+    "F919F13FK5308A48E2SA6A0EFC16CBF6C506": {
+        "t": "Label:",
+        "info": ""
+    },
+    "8EA70A23KF159A4D5ESA366ED63FD937587F": {
+        "t": "Graphic",
+        "info": ""
+    },
+    "C287D490K9B01A4407SA616EF2726CA43B52": {
+        "t": "Number",
+        "info": ""
+    },
+    "3E739130K1072A4ADBS9FB0E7F33C4B64801": {
+        "t": "Number Value",
+        "info": ""
+    },
+    "6D3CB93FK7CA5A48A0S8B7CE2483ADF01721": {
+        "t": "Number List",
+        "info": ""
+    },
+    "E38A7520KAB4EA4606SAFC2E8FB24F6AD84D": {
+        "t": "Animations",
+        "info": ""
+    },
+    "936B4D1EK0D9FA4D49SA760EB2BC047C58DB": {
+        "t": "Common Events",
+        "info": ""
+    },
+    "CFD70BE7K00B7A4B66SA23CE16DE1D2EAF5B": {
+        "t": "List Entries...",
+        "info": ""
+    },
+    "A8B1ECD7K09BAA4FFESB501EEF84B2699ED9": {
+        "t": "Switch",
+        "info": ""
+    },
+    "CEA96B0BK6FBBA416BSB00FEDF96A1248489": {
+        "t": "Text",
+        "info": ""
+    },
+    "AEBE2CF0K0A1AA4F5DS9D39EC55E0E148E43": {
+        "t": "Text Value",
+        "info": ""
+    },
+    "42C7D1E9K49A8A4B8CSADBBE29DFE3E00E67": {
+        "t": "Graphic from: Graphics/Animations",
+        "info": ""
+    },
+    "7AD33A8FKF8C1A43B5S8941E1D71743E0B2A": {
+        "t": "Graphic from: Graphics/SimpleAnimations",
+        "info": ""
+    },
+    "097CB8CEKEC9CA4388S8B71E6D39D6A8F11A": {
+        "t": "Graphic from: Graphics/Autotiles",
+        "info": ""
+    },
+    "5EB4AFF5K0624A4FFDSBFF7EDC6FA1321788": {
+        "t": "Graphic from: Graphics/Battlebacks",
+        "info": ""
+    },
+    "25689FFCK47E5A4DA9S981CE3A62B4D7BF86": {
+        "t": "Graphic from: Graphics/Battlers",
+        "info": ""
+    },
+    "B6BA1CD8KADFEA44B4S8AC1EE157BABA4089": {
+        "t": "Graphic from: Graphics/Characters",
+        "info": ""
+    },
+    "0372BB8BK6355A4948SA790EA70081CB9AC6": {
+        "t": "Graphic from: Graphics/Faces",
+        "info": ""
+    },
+    "D9F69ECFKBB27A4767SB302E6866848DD0DE": {
+        "t": "Graphic from: Graphics/Pictures",
+        "info": ""
+    },
+    "4F42A069KBDEFA4A92SB043EA768903B5CF9": {
+        "t": "Graphic from: Graphics/Tilesets",
+        "info": ""
+    },
+    "A2FAEDE8K246EA4521SB288E1F16C6E722AC": {
+        "t": "Graphic from: Graphics/Icons",
+        "info": ""
+    },
+    "8779C9D2K4735A40F5SA48FE04FC51A631C6": {
+        "t": "Audio from: Audio/Music",
+        "info": ""
+    },
+    "604CC854K4F71A430ES8EE4E7B646A4DEA2D": {
+        "t": "Audio from: Audio/Sounds",
+        "info": ""
+    },
+    "9A71AE7AK81AAA4A18SA140ECEB7418420FF": {
+        "t": "Audio from: Audio/BackgroundSounds",
+        "info": ""
+    },
+    "1311339FKC54DA4D7FS9A9BECCFADA7BE141": {
+        "t": "Red:",
+        "info": ""
+    },
+    "0D0BD08AK2179A4261SA512E57DDA73AE4A8": {
+        "t": "Green:",
+        "info": ""
+    },
+    "EB9CBBAEKB01FA43DCSB9D7ED1DC9326F5A6": {
+        "t": "Blue:",
+        "info": ""
+    },
+    "3938CB05K3FCAA4428SAE54E8E68497651B5": {
+        "t": "Grey:",
+        "info": ""
+    },
+    "9E039D81K87CCA4E71S9A18E88C3396087E0": {
+        "t": "Tone Control",
+        "info": ""
+    },
+    "320CE1F1K3F95A4A58SA2B7EDE2FD8E42F73": {
+        "t": "Set to:",
+        "info": ""
+    },
+    "48F9DFA7K2E7FA4C51S8A64E7CC0B81CE0BA": {
+        "t": "Increase by:",
+        "info": ""
+    },
+    "7E01B41EK6659A4D99S9B23EF3360CD3F762": {
+        "t": "Decrease by:",
+        "info": ""
+    },
+    "A033546CKCBEFA4A67SA927E1614F85DCEFE": {
+        "t": "2X",
+        "info": ""
+    },
+    "6045F0A4K5DA4A4C95SB08AEB64B8C01BD28": {
+        "t": "1X",
+        "info": ""
+    },
+    "A1CC1020K924EA4DFFSB373E58B5ED689961": {
+        "t": "4X",
+        "info": ""
+    },
+    "C7E25F4EK5043A44ADSAFC4EFA0F895437DE": {
+        "t": "Content",
+        "info": ""
+    },
+    "49B17601KDD38A443CS8D3FE59678714B26F": {
+        "t": "UI Theme:",
+        "info": ""
+    },
+    "D1ADDA07K2478A4764SAB13E044C26BFE919": {
+        "t": "Aristo",
+        "info": ""
+    },
+    "6108021BKFDEFA400BSADA0EA7E3C3502B4B": {
+        "t": "Aristo 2",
+        "info": ""
+    },
+    "F326C8CEK9714A487AS9C72E0DC655D94BC5": {
+        "t": "Futura",
+        "info": ""
+    },
+    "5931785CK8C7AA4EECSA748E98D1C6F6A8A6": {
+        "t": "Show Grid",
+        "info": ""
+    },
+    "31543966K66C6A4ACBSAF82E5BFFA066CCD2": {
+        "t": "Color:",
+        "info": ""
+    },
+    "408F6999KE7ADA411ASAA1AEB8DABB482167": {
+        "t": "Width:",
+        "info": ""
+    },
+    "03D954D3KB8A7A494ESBEFAE8A8764DF14B7": {
+        "t": "Height:",
+        "info": ""
+    },
+    "2D1EDD1CK05F0A436CSB133E816C14855D98": {
+        "t": "Changes are only visible after restarting the application.",
+        "info": ""
+    },
+    "2D018420K3B3DA451DSBC60EDF24F2E61ABA": {
+        "t": "Font:",
+        "info": ""
+    },
+    "790228D9KDFECA48D3S90A6E9B0FE6771456": {
+        "t": "Number List Entries",
+        "info": ""
+    },
+    "4D200F2EK2B8FA4D3BS9504E377430FC15AF": {
+        "t": "Add Entry...",
+        "info": ""
+    },
+    "89ECAECDK4610A4BF8SA019E8444CA45FAB6": {
+        "t": "Value",
+        "info": ""
+    },
+    "B6EEFE96K3555A4E84SB09CE1BFDC22362BF": {
+        "t": "Title:",
+        "info": ""
+    },
+    "CE9AC1AEK0702A45ECS8A94E83C19094559E": {
+        "t": "Vertical",
+        "info": ""
+    },
+    "648DC3D2KD5F6A42B2S8132ED75014FA6D5B": {
+        "t": "Horizontal",
+        "info": ""
+    },
+    "FF57EDE2K4355A45C6S8E0CE5D5BAF017110": {
+        "t": "Both",
+        "info": ""
+    },
+    "8A8E1DB2K7A6DA4D4FSB393EBC507D1C2839": {
+        "t": "Graphic:",
+        "info": ""
+    },
+    "E054706BKB7D1A4EBFSBBBCE5CFF2E25156C": {
+        "t": "Loop Horizontal",
+        "info": ""
+    },
+    "149CE5B4K3F6AA4B16S9DFCEAC5A43346471": {
+        "t": "Scroll:",
+        "info": ""
+    },
+    "414BBFCFKC138A4811SB9DDE41E8956B9DE8": {
+        "t": "Loop Vertical",
+        "info": ""
+    },
+    "3D5EF820KCDF8A462FSA377E42FCEBFA53B7": {
+        "t": "Audio Auto-Playback",
+        "info": ""
+    },
+    "54EE25FFK2B9EA4D6BSABF7E6298AC495668": {
+        "t": "Music:",
+        "info": ""
+    },
+    "E06CBA39KFA76A4FE9S944DEEDD1843A2A22": {
+        "t": "BG-Sound:",
+        "info": ""
+    },
+    "81FC165AK9C36A4FCCS952BEE78814696E66": {
+        "t": "Editor Settings",
+        "info": ""
+    },
+    "7611659EKDBA0A4556SB92BE6BE079059523": {
+        "t": "",
+        "info": ""
+    },
+    "CB6C9B29KB2B1A4F74S836CEC1C73480A0B0": {
+        "t": "New Variable...",
+        "info": ""
+    },
+    "8FDA6DB8K3D9DA4768SAEFEE8D5AC4132CBF": {
+        "t": "Variable",
+        "info": ""
+    },
+    "BD058CE5KA3B8A41C6S9B32ECEC674F8EC05": {
+        "t": "Type",
+        "info": ""
+    },
+    "A5EEB630KC009A46D5S8B27EF51A3D428EFE": {
+        "t": "Game Data",
+        "info": ""
+    },
+    "3C992C9BKF744A4817S9E00E20E2A72326C5": {
+        "t": "ID",
+        "info": ""
+    },
+    "F298E912KB3FAA4D38S8699ED37655BCFEF0": {
+        "t": "Width",
+        "info": ""
+    },
+    "6AD32F89KCC0CA4C25S8900E0FA08CE71324": {
+        "t": "Height",
+        "info": ""
+    },
+    "3B6E3A17K6F8EA4293SA0DEE5AB73AC51CB8": {
+        "t": "Direction",
+        "info": ""
+    },
+    "3ECABE99K2260A4004SA803E6249DF9E52DA": {
+        "t": "Year",
+        "info": ""
+    },
+    "FA5A23AFKBFB4A4534SB0CCE0F2324D8658F": {
+        "t": "Month",
+        "info": ""
+    },
+    "A085BE8EK8AA9A4612S8C38E433DEF1AA3D3": {
+        "t": "Week",
+        "info": ""
+    },
+    "0A1BF38BKB075A4EF9S8C00EEE2D78EBDD19": {
+        "t": "Day",
+        "info": ""
+    },
+    "3A89B193K4885A491BS9F34EC3D1F6C7D935": {
+        "t": "Hour",
+        "info": ""
+    },
+    "C42A4CE7K2BCFA438ESA9C4E4B69CF9A106E": {
+        "t": "Minute",
+        "info": ""
+    },
+    "8A79433EKFD77A4BF5S9121E59B6C7655AAE": {
+        "t": "Second",
+        "info": ""
+    },
+    "E42B2589K9158A4BB9SBBF0E2A49D1543DEC": {
+        "t": "Millisecond",
+        "info": ""
+    },
+    "02A3B7D4K9F98A41D7SB555EA3BFDDCA8F2C": {
+        "t": "Day of Year",
+        "info": ""
+    },
+    "3FEA55B5K5F14A42C2S8B05EA702F7B2C6E4": {
+        "t": "Input:",
+        "info": ""
+    },
+    "160ED8F0K7BA1A4765SAE39E85DAF0C7D909": {
+        "t": "Down",
+        "info": ""
+    },
+    "DA8B51B3KB92CA46EFSB9A9EDF4D4C81A9B8": {
+        "t": "Left",
+        "info": ""
+    },
+    "5FE987F2KDD3BA489DS98A2EF257D95FB7AC": {
+        "t": "Up",
+        "info": ""
+    },
+    "927A7043KEE05A4A52SA7C9E418BAF35232F": {
+        "t": "Right",
+        "info": ""
+    },
+    "D4C0858EKA71FA46FCSB2C8E0D66CAE4E71C": {
+        "t": "Mouse:",
+        "info": ""
+    },
+    "4A6C306EK2C5BA4571SB755E0EC02660A447": {
+        "t": "Left Button",
+        "info": ""
+    },
+    "CE47E75CK182EA45D8S8AC8ED60347FE8192": {
+        "t": "Middle Button",
+        "info": ""
+    },
+    "049746C6K4E08A4A56S8ACEEDA703BE72A75": {
+        "t": "Right Button",
+        "info": ""
+    },
+    "DDFE6B58KB018A4961SA679E198F2FC0C83B": {
+        "t": "Wheel",
+        "info": ""
+    },
+    "DC7EC965K63B4A48B4SA634E9D321800B3C0": {
+        "t": "Rate:",
+        "info": ""
+    },
+    "25C4E4BCKB03EA4427S899CED148FF3D6A61": {
+        "t": "Effect",
+        "info": ""
+    },
+    "55FD4D31KE7BAA40C9SA6F4E491543C204E5": {
+        "t": "Other",
+        "info": ""
+    },
+    "F6DFC545KF53CA4617SA066EDA0BD2F65F02": {
+        "t": "Call Common Event",
+        "info": ""
+    },
+    "E1D22DABK1D36A478ES9C9BEC0273299916B": {
+        "t": "Condition",
+        "info": ""
+    },
+    "049DDBF4KD5E1A463BSA9E7EBFCD4E6ACCA1": {
+        "t": "Database Data",
+        "info": ""
+    },
+    "37ABBBAAK02D7A4083S8D22ED02A3B4A3767": {
+        "t": "Icon",
+        "info": ""
+    },
+    "DA1F7042K631AA464BSA0F8E78BB13F6C242": {
+        "t": "OFF",
+        "info": ""
+    },
+    "B958FADFKE38BA4BC2SAFC0E8B2CC6722744": {
+        "t": "ON",
+        "info": ""
+    },
+    "2B315DB6K4137A4BD6S89ABE3F84440FBB81": {
+        "t": "Color Control",
+        "info": ""
+    },
+    "981F3986K92D4A4461S8132E4F3C91D97606": {
+        "t": "Power:",
+        "info": ""
+    },
+    "204BD395KB404A4D51S8632ECA3301ACA3A6": {
+        "t": "Change Tone",
+        "info": ""
+    },
+    "A49B8042K174EA4844SAF72EC753DDCA44A5": {
+        "t": "Label: %s",
+        "info": ""
+    },
+    "CB75D4C9K770FA47E2S92C2E21822CB848C7": {
+        "t": "Tone",
+        "info": ""
+    },
+    "7F18E8C2KD284A48DDSA683E78773C29B813": {
+        "t": "Time",
+        "info": ""
+    },
+    "B98964B3K83E8A4873S9756E81A3058A84DB": {
+        "t": "Change Speed",
+        "info": ""
+    },
+    "22067BBFK2F7AA44D4SA31DE4F3B633E265B": {
+        "t": "Very Slow",
+        "info": ""
+    },
+    "308A5313K7E95A43A1SA174EA2F9A706BB95": {
+        "t": "Very Fast",
+        "info": ""
+    },
+    "30A2017BK9D7DA4B32SA931E4DC8834399CB": {
+        "t": "Change Opacity",
+        "info": ""
+    },
+    "F9F503ECK1570A4907SA510E948FB283E233": {
+        "t": "Change Motion-Blur",
+        "info": ""
+    },
+    "E55D7FABK0A7EA4ED9S82DAEC688FA8D9BBA": {
+        "t": "Shadow-Count:",
+        "info": ""
+    },
+    "21108126K0966A4626S9067E59F81B4D7D0A": {
+        "t": "Fixed",
+        "info": ""
+    },
+    "002140D1K4A6EA44DES9437EDE5DE39E0E05": {
+        "t": "Change Blending",
+        "info": ""
+    },
+    "9DDFB979K2D66A4B7DSBF36E976121E25A8D": {
+        "t": "Blending:",
+        "info": ""
+    },
+    "F8E6D926KD7A6A4374SB36DE1B6725B9951C": {
+        "t": "Frame:",
+        "info": ""
+    },
+    "BE104994K3E0CA4479SA955E45C39D125CC5": {
+        "t": "Sound:",
+        "info": ""
+    },
+    "D7DC911DKCCB9A4DE9SBE26EBFCCA4CB0826": {
+        "t": "None",
+        "info": ""
+    },
+    "0620EF3CK3406A4B70SA1ACE3750D5C17E57": {
+        "t": "Screen",
+        "info": ""
+    },
+    "3E80A150KD769A4006S93E7E8EA92A98AECB": {
+        "t": "Hide",
+        "info": ""
+    },
+    "30A49AB7K99E9A4E59SAA85EAA161A0E1836": {
+        "t": "Target",
+        "info": ""
+    },
+    "78F4DB01K876EA43F7S97A0EC7758C04B58A": {
+        "t": "Source",
+        "info": ""
+    },
+    "2FBA90CCK88F7A4B74SA654EC5FF13F44EF7": {
+        "t": "Background",
+        "info": ""
+    },
+    "372316DAKF789A4950SAE7EE6844BDCCD9C1": {
+        "t": "Frames (1 / 15s)",
+        "info": ""
+    },
+    "D97DFEEAKC3D3A4687SB83DE210E37DCAE01": {
+        "t": "Add Effect...",
+        "info": ""
+    },
+    "5CB94841K0930A4BF5SA96FE58124DEB6960": {
+        "t": "Frame",
+        "info": ""
+    },
+    "8FDFEA30K0102A46B5S8271EE34632EFFFF4": {
+        "t": "Sound",
+        "info": ""
+    },
+    "C6B87FB9K01C0A4CD5SA4CDE04B7368A0EEF": {
+        "t": "Flash",
+        "info": ""
+    },
+    "0BD2456DK1DA1A4C2DS9C03EAC7A2C6C7815": {
+        "t": "Duration",
+        "info": ""
+    },
+    "66D1CBDDK0FAEA4C91S86F5ED19F664F8C92": {
+        "t": "Cell Properties",
+        "info": ""
+    },
+    "B5733195K1900A4345S8EFEEB38345862AFA": {
+        "t": "Pattern:",
+        "info": ""
+    },
+    "FBD21B3DK57FEA4AA4SBF2EEA70C92043612": {
+        "t": "Zoom:",
+        "info": ""
+    },
+    "A9373DBEKED20A4275SA5BEE5C4FB9B78421": {
+        "t": "Angel:",
+        "info": ""
+    },
+    "B9E48F75K4A99A47E2S98C3E4C2DF795383E": {
+        "t": "Flip:",
+        "info": ""
+    },
+    "231F6CA3KD2D9A448BSBFFEE945EE43E2645": {
+        "t": "Number Entry",
+        "info": ""
+    },
+    "3A9490CFK9BA2A4EDES8665EF549F119FF81": {
+        "t": "Add Pattern...",
+        "info": ""
+    },
+    "97A5E676K2351A43FCSB0DFEBB5CF7A73243": {
+        "t": "Wait",
+        "info": ""
+    },
+    "FC25DF89KDE6CA4678SAA7CE2A7F74DE60FC": {
+        "t": "Tint Picture",
+        "info": ""
+    },
+    "8E805C42KAAEBA4E2ASAFEBE14638DCA0760": {
+        "t": "Picture",
+        "info": ""
+    },
+    "54545042K4E5CA4C72SAE68EBA96CAE12936": {
+        "t": "Timer",
+        "info": ""
+    },
+    "8C18C980KCA7CA4FCDS99EFEC6824693DD97": {
+        "t": "Message",
+        "info": ""
+    },
+    "2BF9F3CAK48C8A44ABS8111E36FACB0D7078": {
+        "t": "Start",
+        "info": ""
+    },
+    "AF98DFC2K4C85A4437SB684E5189D461146A": {
+        "t": "Pause",
+        "info": ""
+    },
+    "450017B2KC3E4A4314S8485E4082FBAC3E94": {
+        "t": "Resume",
+        "info": ""
+    },
+    "23DC7F65KD249A4E52S9CEBE863E5FFF6BDD": {
+        "t": "Min.",
+        "info": ""
+    },
+    "50F96794K6CCFA45ACSA934E944D1B625699": {
+        "t": "Sec.",
+        "info": ""
+    },
+    "34B6806BKC2F5A48BDS8198E9C06F3633946": {
+        "t": "Stopwatch",
+        "info": ""
+    },
+    "A3CB62EEKE382A43F7S82BEE138DE017A514": {
+        "t": "Texts",
+        "info": ""
+    },
+    "0985523CK3F07A46FFSA058E0688B86AE3F0": {
+        "t": "Range",
+        "info": ""
+    },
+    "2900A383K89C0A4833SB25FE5DE87EB43DD7": {
+        "t": "Operation",
+        "info": ""
+    },
+    "1D0DB574K2BF9A4582SA57BE4AAC9420853B": {
+        "t": "Set",
+        "info": ""
+    },
+    "88DC6827KEC9CA46E8S92E8EFCB66507A6F9": {
+        "t": "Append",
+        "info": ""
+    },
+    "67B3604CK927EA4C25S9433EDD54150ADEB0": {
+        "t": "Switches",
+        "info": ""
+    },
+    "2DCE5AEAK657FA4F5BS8EC3EA543DC123D24": {
+        "t": "Basic",
+        "info": ""
+    },
+    "39978FF3K333AA4EB4SBFFCED42E1509AD28": {
+        "t": "ON/OFF Trigger",
+        "info": ""
+    },
+    "9362AA97KCCDAA4DEDSA8F6E3A48F738F01B": {
+        "t": "Stop Music",
+        "info": ""
+    },
+    "5C54BA42KC45DA46C7SB423EE38BD956EA70": {
+        "t": "Fading",
+        "info": ""
+    },
+    "C9432CE3K9E95A46F3S99E3E4FD573C9AB73": {
+        "t": "Stop Background Sound",
+        "info": ""
+    },
+    "42B163D5K15C1A4737SA896EB7D0DDAA19AC": {
+        "t": "Audio Playback",
+        "info": ""
+    },
+    "2201FBD5KC2F3A49A6S8B10E69A4D9A9D6CB": {
+        "t": "Background Sound",
+        "info": ""
+    },
+    "D4EBFB57KE5C7A4149S9FB1EBC4BB63151DA": {
+        "t": "Scene",
+        "info": ""
+    },
+    "9B8BB0A1KF746A4031S9AABE92F5A3AB5ED5": {
+        "t": "Settings",
+        "info": ""
+    },
+    "D5FE82A3K9DBFA47BBS87A7EB8BC36E704FF": {
+        "t": "Show Text",
+        "info": ""
+    },
+    "64968F64K5131A45A0S9A3FE49D07E4A5168": {
+        "t": "Text:",
+        "info": ""
+    },
+    "330C4A24KBD7CA4BB2SA82BEA38647FA6699": {
+        "t": "X-Coordinate:",
+        "info": ""
+    },
+    "63F0CC6EK5A90A4BDBS8F28E4F550451CD2A": {
+        "t": "Y-Coordinate:",
+        "info": ""
+    },
+    "DFBC2AC6K7D28A4D09SA652EAAF0D67B9201": {
+        "t": "Scaling",
+        "info": ""
+    },
+    "E1FACC77K8588A40D4S9466EC989E1AC9568": {
+        "t": "X-Scaling (%):",
+        "info": ""
+    },
+    "F914D50DK2C87A4A10SA30DEE99877C21E88": {
+        "t": "Y-Scaling (%):",
+        "info": ""
+    },
+    "F755071CKE217A42C2SAAEDE813C2A422870": {
+        "t": "Rotation",
+        "info": ""
+    },
+    "1D6C3127KE824A4F16S92DBEB78FCC2D6B9F": {
+        "t": "Angle:",
+        "info": ""
+    },
+    "6CB6FA85KD0ABA4653S92D1E908EACECA578": {
+        "t": "Show Picture",
+        "info": ""
+    },
+    "1A117554KEFA5A4336SA686E8C3E3D32D27E": {
+        "t": "Picture-Origin:",
+        "info": ""
+    },
+    "906EE2FCK01F2A450BSB8F1EF4106CD7F32F": {
+        "t": "Screen-Origin:",
+        "info": ""
+    },
+    "41F05316K5BCAA45FCS86C9E8C1F89E274AE": {
+        "t": "Mode:",
+        "info": ""
+    },
+    "576B2D24KA7DFA4435SB4CCE10946D00F1E5": {
+        "t": "Show Message",
+        "info": ""
+    },
+    "3DC318ACK7E54A4820S9D27E98765118C7D7": {
+        "t": "Position:",
+        "info": ""
+    },
+    "EB59D1CFK6206A4F2BSB258EE66915195A6D": {
+        "t": "Bottom",
+        "info": ""
+    },
+    "0E468336KEA04A497CS8813E5A7FA8B85AF5": {
+        "t": "Top",
+        "info": ""
+    },
+    "C7FCD602K6EF2A4CFCSB78AEAC9B683AF90C": {
+        "t": "Hide Window",
+        "info": ""
+    },
+    "1228D849K43D5A4A81SBFABE73974C19F29C": {
+        "t": "Battle",
+        "info": ""
+    },
+    "5E24195FKCC57A42AES9B02E6452E9DF7415": {
+        "t": "Show Choices",
+        "info": ""
+    },
+    "2778B98BKE964A411AS9F84E03E1A84F46A2": {
+        "t": "Not allowed",
+        "info": ""
+    },
+    "1BEC6000K432BA4248S9D9DE3B81A14B9B42": {
+        "t": "Repeat",
+        "info": ""
+    },
+    "9D7B8871KE8A7A410ES8CA3EA1F415A8BEA7": {
+        "t": "Animation",
+        "info": ""
+    },
+    "BA4FA2CBKFC86A4813S9C6BEA53886CA0DCA": {
+        "t": "Show Animation",
+        "info": ""
+    },
+    "6B55BC80K7E9BA4BCES9A77EB7D8A4B28ABE": {
+        "t": "Show Animation:",
+        "info": ""
+    },
+    "ECF0020CKF770A45DFSA63AEB81A24CCC76C": {
+        "t": "Event",
+        "info": ""
+    },
+    "8AFC0541KF94FA419CSABD8E50FDD3BE8402": {
+        "t": "Simple",
+        "info": ""
+    },
+    "DD791A8FK39E2A4272SA40EE6135C6E58D09": {
+        "t": "Complex",
+        "info": ""
+    },
+    "E8D32043K4032A433BS8207EB3CA1E7B3C3A": {
+        "t": "Show Animation:",
+        "info": ""
+    },
+    "8E75BE5DK5E49A49E5SAE07E90F6544508DD": {
+        "t": "Location",
+        "info": ""
+    },
+    "67E25B97KB943A4B46SA9B7E49EE3648B7B2": {
+        "t": "Y-Koordinate:",
+        "info": ""
+    },
+    "4905E2BCK801BA4A4DS9AE4EE895BC0FCB0C": {
+        "t": "Scrolling",
+        "info": ""
+    },
+    "9BD7006BK6CCEA4394S8BA7ED9B23C5A3E83": {
+        "t": "Call Script",
+        "info": ""
+    },
+    "556688C4K4E6DA44C5S98AAE162C82E6F499": {
+        "t": "Rotate Text",
+        "info": ""
+    },
+    "1613B074K0766A405ESAA12E1FECB39F755B": {
+        "t": "Rotate Picture",
+        "info": ""
+    },
+    "08226D3DK0B31A4437S869BEF6D75F74C3DD": {
+        "t": "Rotate Picture:",
+        "info": ""
+    },
+    "DFD1F6A5K298FA4C0FS8F99EF8859547030F": {
+        "t": "Clockwise",
+        "info": ""
+    },
+    "C72927BFK8864A4808S8BF6EF445B0B6FEC9": {
+        "t": "Counterclockwise",
+        "info": ""
+    },
+    "F1118413KB692A4268S91F0E3D6852AB891E": {
+        "t": "Return to Title Screen",
+        "info": ""
+    },
+    "52D40501K0A2CA4742SAEA9E932EDDA2399F": {
+        "t": "Resume Music",
+        "info": ""
+    },
+    "106D4287K2688A4AA1SB133E0C5B2F0AF481": {
+        "t": "Resume Background Sound",
+        "info": ""
+    },
+    "191B3DFEKC1A5A4764SAEFDE64A866B575B9": {
+        "t": "Play Sound",
+        "info": ""
+    },
+    "DFCD0EB5K4A01A4BE8S8BC8E8B9D347768C7": {
+        "t": "Play Sound:",
+        "info": ""
+    },
+    "BE9162FBKF3C7A4D1ESA228E2EB75C4F50B1": {
+        "t": "as Music Effect",
+        "info": ""
+    },
+    "82B42E04K0024A4CD4S9EBDE72C5EF7E6898": {
+        "t": "Music Effect",
+        "info": ""
+    },
+    "48DF9A16K231AA4C6DSBD10E22EC33B79F55": {
+        "t": "Play Music:",
+        "info": ""
+    },
+    "EEA25494K169FA4A27S878CE9CDED783DF23": {
+        "t": "Play Music",
+        "info": ""
+    },
+    "DF3CF3F7K1FFFA47E2SBA7BE11C4682D1A8E": {
+        "t": "Play Background Sound",
+        "info": ""
+    },
+    "1EB55702K2D56A4649S83F1ECBE5A82563DB": {
+        "t": "Play Background Sound:",
+        "info": ""
+    },
+    "375A935DK27A8A49F5S8DEEEFD0CEDC82783": {
+        "t": "Pause Music",
+        "info": ""
+    },
+    "EBA1EA38KE0A9A45C1SBB7EE5B1FE61115D1": {
+        "t": "Pause Background Sound",
+        "info": ""
+    },
+    "DF7440A7K1DC0A43ADSBCBEE6396BD3CE460": {
+        "t": "Options",
+        "info": ""
+    },
+    "63EEA28FK710DA4057S9005E8331D5034D48": {
+        "t": "Open Save Menu",
+        "info": ""
+    },
+    "44138188K1AEFA4C54S861DE817F82DDEAD1": {
+        "t": "Open Menu",
+        "info": ""
+    },
+    "90433D4CK4E35A4DFDS862EEFB0C4808F17E": {
+        "t": "Number Variables",
+        "info": ""
+    },
+    "E9D43A91K0788A42D6SB1BEECB5798FF9691": {
+        "t": "Reference",
+        "info": ""
+    },
+    "30D30CDAK352DA4A97S95A7E0DE5F8C0791D": {
+        "t": "Add",
+        "info": ""
+    },
+    "51BBA01DK9E03A44A2S96D6E0C19DCE47298": {
+        "t": "Sub",
+        "info": ""
+    },
+    "E25A0F02KC28BA4D20SB8AAE87D96B0BFA48": {
+        "t": "Mul",
+        "info": ""
+    },
+    "40D4D9E9KAE6FA4B70SA4C5E574A2CCDE08E": {
+        "t": "Div",
+        "info": ""
+    },
+    "AF21AF1BKE787A4F24SA72DE006DD85E1F3F": {
+        "t": "Mod",
+        "info": ""
+    },
+    "AF03E39FK6E5DA4AC1SA59CEE656A02E67B8": {
+        "t": "Random",
+        "info": ""
+    },
+    "8513324AK1A7FA4465SA560E0AB55280AF6D": {
+        "t": "Move Text",
+        "info": ""
+    },
+    "AEC301E9K9298A4DB7SBE7DE75B65E8D79BA": {
+        "t": "Move Picture:",
+        "info": ""
+    },
+    "E9E65AC2KC940A4C04SA377ED5BF3D1626E0": {
+        "t": "Edit...",
+        "info": ""
+    },
+    "D7E90A71K430CA4378SA54EE181C1D4F1C1F": {
+        "t": "Direct Location",
+        "info": ""
+    },
+    "B81C8235K0B39A4504S96BAEE56427DCF578": {
+        "t": "Calculated Location",
+        "info": ""
+    },
+    "ED7B5BF9KDE84A4CE8S9308E872A21F2D766": {
+        "t": "Loop",
+        "info": ""
+    },
+    "8CF4665AKA76FA460CSBB33E2C41DA2C51E4": {
+        "t": "End Loop",
+        "info": ""
+    },
+    "DE90FBDDKDCE8A4CAASA1C1E982F7D417C1C": {
+        "t": "Label",
+        "info": ""
+    },
+    "A4F947BBK7DFBA44B6SB449EC35405E4DEE7": {
+        "t": "Jump to Label",
+        "info": ""
+    },
+    "495B79F9K76E4A44DCS8DD9E2E53387CD432": {
+        "t": "Input Text",
+        "info": ""
+    },
+    "E1A1D9F0K4C06A455ASABEEEB4B1D59CE642": {
+        "t": "Input Text:",
+        "info": ""
+    },
+    "332E4981K2B83A4F07SB9DCEEDC3049B67BE": {
+        "t": "letters",
+        "info": ""
+    },
+    "A9571DF4KC494A4A2BSBF5BE9B54E1E092CC": {
+        "t": "Variable:",
+        "info": ""
+    },
+    "90EB8DCBKA55CA4B0CSA524ECC4C34888FBE": {
+        "t": "Letters:",
+        "info": ""
+    },
+    "97A24C90KA4A9A47B3S945BECFE80EBF75CD": {
+        "t": "Input Number",
+        "info": ""
+    },
+    "2014D29CK4044A4221S9C8DE805C192C8F25": {
+        "t": "Input Number:",
+        "info": ""
+    },
+    "5260D6DBKBFC0A441CS955CE0218820E0B11": {
+        "t": "digits",
+        "info": ""
+    },
+    "20FD7061K29B2A4680S9A71ED8B0FFE33611": {
+        "t": "Store in Variable:",
+        "info": ""
+    },
+    "6CB1DE05KF124A4543S99F7ECCC3D3A73EB5": {
+        "t": "Digits:",
+        "info": ""
+    },
+    "556D9970KEACCA4B48SB19AE7B30032E6AA5": {
+        "t": "Input Name",
+        "info": ""
+    },
+    "FE9FDCDBK87A5A4F3FSB873E9A45AF0F6DAA": {
+        "t": "Input Name:",
+        "info": ""
+    },
+    "33BA1569K576EA43C0S83B5EF092B97CBA26": {
+        "t": "Info",
+        "info": ""
+    },
+    "259B4564K2575A4A27SA03DE27961ECEF54E": {
+        "t": "Info:",
+        "info": ""
+    },
+    "CCF469EEK54B3A4B70S88F9EDD934183B155": {
+        "t": "Store in:",
+        "info": ""
+    },
+    "CE4922C3K0381A4335S898CEFEBA22825F89": {
+        "t": "Color",
+        "info": ""
+    },
+    "D62A4348KE7B5A40DAS8DDBEC6F3F919FE0D": {
+        "t": "Erase Text",
+        "info": ""
+    },
+    "3FA17C62K182DA4AC9S9A26E7F594431DDD9": {
+        "t": "Erase Picture",
+        "info": ""
+    },
+    "10F76D50KA16DA4C03S9870EBD77EDD3E016": {
+        "t": "Permanently",
+        "info": ""
+    },
+    "86A0363BKA6F5A4874SB7A6E1AB0AE0FB8FC": {
+        "t": "End Event Processing",
+        "info": ""
+    },
+    "24F00E71K5A5FA4FF0S9706E60E55075F30B": {
+        "t": "Crop Picture",
+        "info": ""
+    },
+    "B0ED8DFAKC76AA4A3FSA473EDE33EFEB24CF": {
+        "t": "Crop Picture:",
+        "info": ""
+    },
+    "D64EF22EK1E16A4462SAB86E17D58829A4BD": {
+        "t": "Crop",
+        "info": ""
+    },
+    "440EE6CAKD506A4CF0SA3AFE10996D1BD35C": {
+        "t": "Parameters...",
+        "info": ""
+    },
+    "51902C18K18ADA4CD1SBCBCECEBA12C8F0BC": {
+        "t": "Current",
+        "info": ""
+    },
+    "CD7A8812K9084A4C33SBE93E601EA5239285": {
+        "t": "Else",
+        "info": ""
+    },
+    "540A694DK3761A4C3ES9423E026BF4B5F497": {
+        "t": "Game Time",
+        "info": ""
+    },
+    "430C1408KCF94A4B9DSAA2CE1256AC5665D5": {
+        "t": "H.",
+        "info": ""
+    },
+    "E2C6D5E3K1222A4E4CS8D79EC453E7B46257": {
+        "t": "Input",
+        "info": ""
+    },
+    "BDEE0368KADB7A450ES874EE2BCAEF4CEB3D": {
+        "t": "is Down",
+        "info": ""
+    },
+    "007ABC0FK1776A4134S8310E454143296E0F": {
+        "t": "is Up",
+        "info": ""
+    },
+    "A4B572F2K6C14A4E0BS918EE3179126A9771": {
+        "t": "Can Move",
+        "info": ""
+    },
+    "1BA33F2FKC903A4FD1SBA40E6E04D44AC2E2": {
+        "t": "Cannot Move",
+        "info": ""
+    },
+    "62B2059AKA20EA41B1S87BDEA51B68F51C1F": {
+        "t": "Else Case",
+        "info": ""
+    },
+    "FD7F42C7K8032A4020SA92CEFD61743CA00E": {
+        "t": "Equal to",
+        "info": ""
+    },
+    "C8CD0C11KE33BA4EE4SA59EECD429A9E49AD": {
+        "t": "Not equal to",
+        "info": ""
+    },
+    "71240A2FK6698A4123SA8ADEB07A3E6E0F68": {
+        "t": "Greater than",
+        "info": ""
+    },
+    "4F23A754KD61DA42F5S920CEB7D988404BD0": {
+        "t": "Greater or equal to",
+        "info": ""
+    },
+    "62C42C66K9995A468ESAFCFE3F84551CC797": {
+        "t": "Lesser than",
+        "info": ""
+    },
+    "1B879F39KF9C0A4F95SB2CEEEA931D2D8B26": {
+        "t": "Lesser or equal to",
+        "info": ""
+    },
+    "651F88DBKD292A4924S8991E43E74AE4A4D8": {
+        "t": "Color Text",
+        "info": ""
+    },
+    "C1953650K4FD7A4268SB298E0BEFC554D88E": {
+        "t": "System",
+        "info": ""
+    },
+    "6FD19B05K27F3A4F01SA7C8E007C7285AFAA": {
+        "t": "by",
+        "info": ""
+    },
+    "3A9C4ECAK3EB0A40CDSA105E86573DDE9C8C": {
+        "t": "Increase",
+        "info": ""
+    },
+    "C637771CK6D01A42A1SA0A6EF87FBC859947": {
+        "t": "Decrease",
+        "info": ""
+    },
+    "8FC3C1F0K7714A494AS8514EB17C32F29FC3": {
+        "t": "Visible",
+        "info": ""
+    },
+    "01BB77B9K79E0A4BDDSB1E5E66422C7793EC": {
+        "t": "Hidden",
+        "info": ""
+    },
+    "C3FEDBB1K7C37A4AC0SBE25EDC4D1E3F348D": {
+        "t": "Visibility",
+        "info": ""
+    },
+    "24EB2C7CKA440A4B79SA9D3EB2D17C588C55": {
+        "t": "Change Text Settings",
+        "info": ""
+    },
+    "0D7F1FD6K2356A4F72SBC22EE3F05B95C8AF": {
+        "t": "Size:",
+        "info": ""
+    },
+    "9450509FKD525A4BEESB134E02A5BDBA118B": {
+        "t": "Style:",
+        "info": ""
+    },
+    "22CA6F8BK6967A4B13S80C4EBE73D23267EE": {
+        "t": "Bold",
+        "info": ""
+    },
+    "56DFDC1CK48A9A4B3DSB5BEEF528856D1AFA": {
+        "t": "Italic",
+        "info": ""
+    },
+    "A2EAC842K1241A483FS91FDEA944A16669ED": {
+        "t": "Outline",
+        "info": ""
+    },
+    "8EE9F3B2K7B8AA4B74SB016E38A4779C5955": {
+        "t": "Shadow",
+        "info": ""
+    },
+    "5EB9EA32K8491A4D09S8C7EE0ADC84E7F08E": {
+        "t": "Change Screen Transitions",
+        "info": ""
+    },
+    "BA8E19ACK3573A47A4SBBE9E3B00EA2031D6": {
+        "t": "Vague:",
+        "info": ""
+    },
+    "83A9FC1CK5107A4368SB967EA466755C57BD": {
+        "t": "Change Save Menu Access",
+        "info": ""
+    },
+    "B057D8BEKDDD9A4A96SA2C9E44B28F3C18E6": {
+        "t": "Change Save Menu Access:",
+        "info": ""
+    },
+    "3791C7F1K8D86A42E7SB814E476C6DB7C70C": {
+        "t": "Allowed",
+        "info": ""
+    },
+    "6B719AA9KB61DA403CS9C06E7351FD5AA4BF": {
+        "t": "Join",
+        "info": ""
+    },
+    "6CA41BECKBE8CA46BES985EE31B56AF89D57": {
+        "t": "Leave",
+        "info": ""
+    },
+    "1D8F1606KC46BA4BB6S91D7EDD3B74E30CD4": {
+        "t": "Change Parameters",
+        "info": ""
+    },
+    "98C1B05DKFBC9A48D8SA91FED96D78BF7B5D": {
+        "t": "Set to",
+        "info": ""
+    },
+    "1FDFC337K71F5A4193S8B3CEDC546CFAA990": {
+        "t": "Increase by",
+        "info": ""
+    },
+    "00326F7FK4552A4D22SABC3EE8415B7304EC": {
+        "t": "Decrease by",
+        "info": ""
+    },
+    "9F4871B9K8F73A4C9BS92C6E93CE66D079AE": {
+        "t": "Break Loop",
+        "info": ""
+    },
+    "512615ADK2682A417AS9B11EF5FDFE78FD82": {
+        "t": "Common Event",
+        "info": ""
+    },
+    "1FD4896FKC070A4F91S94F9EFBECD3BB85C3": {
+        "t": "Call Event",
+        "info": ""
+    },
+    "A43A8E1DK6985A496DS9731E9C05144E85B1": {
+        "t": "Page:",
+        "info": ""
+    },
+    "54050812K7E0BA4850SBA76EAECB0B69F939": {
+        "t": "Change",
+        "info": ""
+    },
+    "1CCE5315K1F61A4059SBC64E0B6CECA383C3": {
+        "t": "Character",
+        "info": ""
+    },
+    "575FB27FK7F1FA4BA3SBEDFE639DCC170DED": {
+        "t": "Enabled",
+        "info": ""
+    },
+    "AE0E4F43K60DCA4D79S9026EB808C188BA93": {
+        "t": "Disabled",
+        "info": ""
+    },
+    "DFEDF582K27F9A454ES9F65E3DFC1FF4FBEB": {
+        "t": "Enable",
+        "info": ""
+    },
+    "D58E3E8EK6E0FA425FSA854E7B45D580AC6D": {
+        "t": "Max Frames:",
+        "info": ""
+    },
+    "4B6665ACK640FA4A19S89F1E4F1070280626": {
+        "t": "Effects",
+        "info": ""
+    },
+    "D97BFD95K2D22A4C53S8177EBCDC80D183E2": {
+        "t": "Note",
+        "info": ""
+    },
+    "1B48B572K4733A4650SB54AE4896AFD043C0": {
+        "t": "Icon:",
+        "info": ""
+    },
+    "4411213EKEB7DA4A90SA26FEC82F670A82F1": {
+        "t": "Price:",
+        "info": ""
+    },
+    "A99570CBK2AD1A45C8SAFFEED160FD5CD0A8": {
+        "t": "Properties",
+        "info": ""
+    },
+    "2A2D121FKA4FEA4A2BSBB99E110CB2E17D2F": {
+        "t": "Trigger:",
+        "info": ""
+    },
+    "92FC7C83K7C7CA40D8SA4BFE105C9DF03481": {
+        "t": "Call",
+        "info": ""
+    },
+    "3CB124F3KFE8DA4EC8SB3ADED03F6CA18763": {
+        "t": "Auto",
+        "info": ""
+    },
+    "643D97A3KB9CDA4774S9F3FE3D28D77D5FE6": {
+        "t": "Condition Switch:",
+        "info": ""
+    },
+    "BC815438K56B6A485AS9A48E595406882357": {
+        "t": "Runs parallel",
+        "info": ""
+    },
+    "745DA28CKEA60A477AS9B58EA60AF06FC9BF": {
+        "t": "Parameters",
+        "info": ""
+    },
+    "D5020847KB15CA4A2FS86E1E172BDEEE070A": {
+        "t": "Parameter Values",
+        "info": ""
+    },
+    "16ADE8C7KC29BA4DDESA1DFE575A7C625D41": {
+        "t": "\"(None)",
+        "info": ""
+    },
+    "383D360CKC55EA44A5SA14CE03ED5E38C028": {
+        "t": "Graphics",
+        "info": ""
+    },
+    "348F00C8K5E53A4F0BSB962EE8E009B1E900": {
+        "t": "Frame Grid:",
+        "info": ""
+    },
+    "01881FE3K3F07A4D8AS950CEEEC91191933A": {
+        "t": "x",
+        "info": ""
+    },
+    "61B471A7K71B9A4D0ASA485E08F334B735F7": {
+        "t": "Frame Range:",
+        "info": ""
+    },
+    "FD67BB60K5FE6A4627S859DEA9F5A7C91B51": {
+        "t": "Repetition Range:",
+        "info": ""
+    },
+    "0E41DFB1K80E3A4E33S8433E7F49B439D996": {
+        "t": "Repeats",
+        "info": ""
+    },
+    "315A9B75K6675A439ESBB1BE5DDCE6F1D5F4": {
+        "t": "Above",
+        "info": ""
+    },
+    "C576BE78K1BE0A45E8S8FE8E26EC115129AF": {
+        "t": "Below",
+        "info": ""
+    },
+    "3847E37CK3DD4A470ES9FBFE96CEA4080A10": {
+        "t": "240p",
+        "info": ""
+    },
+    "0B9356DEK448BA4A87S8494EC1920D7E8525": {
+        "t": "480p",
+        "info": ""
+    },
+    "647C01BEKCB6FA4C36SBFBDE9AFF2C3712D1": {
+        "t": "Format:",
+        "info": ""
+    },
+    "E5241154K6290A4C72SBF45E3EDCD5CAE568": {
+        "t": "4 : 3",
+        "info": ""
+    },
+    "F0CF7261KE577A42ADS9C0DE16A25412FDC8": {
+        "t": "16 : 10",
+        "info": ""
+    },
+    "ED0C14C9K0871A4BA2S94E6E4E8A6E875990": {
+        "t": "16 : 9",
+        "info": ""
+    },
+    "13E39C3AK5F12A4AD5SA5FEE461FA500A62C": {
+        "t": "Title Screen",
+        "info": ""
+    },
+    "478C3C53KEA4EA4E05SB3FDE68AD201D3AFE": {
+        "t": "Game Over Screen",
+        "info": ""
+    },
+    "6796CD9DK8CFDA4519S8F0BE18D3ABDBF904": {
+        "t": "Menu Accessable",
+        "info": ""
+    },
+    "1F649D41KBE0EA4172S9C31EEE3336B40708": {
+        "t": "Save Menu Accessable",
+        "info": ""
+    },
+    "409AF105KFCDFA4CA6S893DE2289F4C991C2": {
+        "t": "Screen Transitions",
+        "info": ""
+    },
+    "1EC46401K8681A4689SBFDBE82C78DFB1E9D": {
+        "t": "Music & Sounds",
+        "info": ""
+    },
+    "829933B9KB347A41DDS8387EB566532FCA04": {
+        "t": "Title Music:",
+        "info": ""
+    },
+    "6C9BB3C7K8A15A4F12S9B87EF18383F33BDE": {
+        "t": "Game Over Music:",
+        "info": ""
+    },
+    "CE314E75KDE7EA4172SAF3EEC79F49FBD3AC": {
+        "t": "Menu Cursor Up:",
+        "info": ""
+    },
+    "E354E77FK0C5DA4ED2SB917EE76A0168C846": {
+        "t": "Menu Cursor Down:",
+        "info": ""
+    },
+    "AFA5FE18KD42CA41EDS8977EA0B35936B35C": {
+        "t": "Menu Decision:",
+        "info": ""
+    },
+    "3D0AF351KA65AA40DFS9314E8C5939857C4A": {
+        "t": "Menu Buzzer:",
+        "info": ""
+    },
+    "673FCA6EK75DEA45DESB433E857A84717AFC": {
+        "t": "Menu Cancel:",
+        "info": ""
+    },
+    "FB27C741KE31FA4A2BS97D7EB88C47CBF01E": {
+        "t": "Fonts",
+        "info": ""
+    },
+    "B51C8D85K6F93A4C1FSAF94EB2F332246DA1": {
+        "t": "Name Font:",
+        "info": ""
+    },
+    "61C0914DK8E20A4F9ASA8ABE4A0F4C380079": {
+        "t": "Decoration:",
+        "info": ""
+    },
+    "CEE6EEAFKAB3CA4BF0SAB64E2B9A30FF3454": {
+        "t": "Message Font:",
+        "info": ""
+    },
+    "E7436D02KE64BA46C9SBCD0EF9C472B9CD7D": {
+        "t": "UI Font:",
+        "info": ""
+    },
+    "1FECB481KADF5A47CBS82C1E2761EBBBBA6A": {
+        "t": "Colors",
+        "info": ""
+    },
+    "45D923E3K29FCA47CFSB75CEB2535681C5F3": {
+        "t": "Color 1:",
+        "info": ""
+    },
+    "FDDD2A4FKCAB0A457BS9F32EBDA6C7661C71": {
+        "t": "Color 2:",
+        "info": ""
+    },
+    "6C2E33D3K0D90A4BC3S826AE1729C3158DC6": {
+        "t": "Color 3:",
+        "info": ""
+    },
+    "AE6B367CK9742A4050SA317E079476A4A258": {
+        "t": "Color 4:",
+        "info": ""
+    },
+    "4172497DKF65AA4BCAS9116EE9CC53A473FA": {
+        "t": "Color 5:",
+        "info": ""
+    },
+    "175E92B2KC88DA4AE9S9BE0EB4324FE9E473": {
+        "t": "Color 6:",
+        "info": ""
+    },
+    "A0CB0EA3KFC2AA48AAS84B9EF9BD24B0F58E": {
+        "t": "Color 7:",
+        "info": ""
+    },
+    "D6938A9EKE4A5A4181SB650EC9909751134B": {
+        "t": "Color 8:",
+        "info": ""
+    },
+    "FF875D04K7448A4F6CSA1B0E60D23CB797DB": {
+        "t": "End Screen",
+        "info": ""
+    },
+    "9312500FKB347A4B26SA393EC650494E1F57": {
+        "t": "Menu",
+        "info": ""
+    },
+    "64DE85E0K5166A4E26SA949E4D83C72D25ED": {
+        "t": "Text Input Map",
+        "info": ""
+    },
+    "3EAE889CK2026A4E3DS95A0E57476E150343": {
+        "t": "Font Charset",
+        "info": ""
+    },
+    "F6C90525K9573A4E81S90DEE1CC3769A9ADF": {
+        "t": "Favorite",
+        "info": ""
+    },
+    "008B3FAAK0B23A4B48S9861E1D3BBB2D9630": {
+        "t": "Action Button",
+        "info": ""
+    },
+    "01267236K6845A409FSBDD3E77558E2E7AAB": {
+        "t": "Start Stopwatch",
+        "info": ""
+    },
+    "8FEC3BA3K70A9A4D72SB14AE658813CABD32": {
+        "t": "Change Timer:",
+        "info": ""
+    },
+    "B36D7DC6KB2ADA4C22SBF1BEB50EDB30100C": {
+        "t": "%s min. %s sec.",
+        "info": ""
+    },
+    "1B4F6262KF651A4501S8F48E62E2E89E5C60": {
+        "t": "Change Text Settings:",
+        "info": ""
+    },
+    "F6D53B3AKDFE4A4708SB4A9E063B7F394EA3": {
+        "t": "Underline\"",
+        "info": ""
+    },
+    "51E89D03K534DA492FSA76DEDC4D4284B4EB": {
+        "t": "Underline",
+        "info": ""
+    },
+    "3530E883KF835A4208S9E81E0F1E87252750": {
+        "t": "Show Text:",
+        "info": ""
+    },
+    "85918136KC3DBA45DAS8FDAE7372E988B4F3": {
+        "t": "Move Text:",
+        "info": ""
+    },
+    "522B27BDK0656A44F3S927CE06D8230F3AD8": {
+        "t": "Rotate Text:",
+        "info": ""
+    },
+    "DAB72432K65EAA487AS9AF9E6E6713C96BFE": {
+        "t": "Color Text:",
+        "info": ""
+    },
+    "4D56472FK864BA4CCBS92D4E4C3FEE2EB1EE": {
+        "t": "Erase Text:",
+        "info": ""
+    },
+    "97A544C8K94F2A40E2SA7E5E0D4C9549EC3B": {
+        "t": "Timer Seconds",
+        "info": ""
+    },
+    "859845ECK6899A4EDFS8D6EE1D8BB4C283FF": {
+        "t": "Time:",
+        "info": ""
+    },
+    "53DC78BDKF44DA4073SB5A2E4AC31482A221": {
+        "t": "%s Min. %s Sec.",
+        "info": ""
+    },
+    "BE0A850EK33CFA417ESB50CE9459A125D67A": {
+        "t": "%s H. %s Min.",
+        "info": ""
+    },
+    "4E84072DKDBB7A4B2DS9572E958BA48BFB86": {
+        "t": "Show Message:",
+        "info": ""
+    },
+    "708E4793K34E9A4E62S88F5EB8B628E9B4B0": {
+        "t": "Show Picture:",
+        "info": ""
+    },
+    "9B9F5B54KE3C5A4E9ESA536E26B3ED6B8F32": {
+        "t": "Change Screen Transitions:",
+        "info": ""
+    },
+    "27C4CA6AKB30CA40BBS8C0AE819D188B76F6": {
+        "t": "No Changes",
+        "info": ""
+    },
+    "964C0D5FK2FB0A4984S9EBFEE1E1F696DE61": {
+        "t": "There could be unsaved changes to your project. Do want to save your project before playing?",
+        "info": ""
+    },
+    "269EE733K3AA6A41D8S92B5E55FD99C24521": {
+        "t": "Information",
+        "info": ""
+    },
+    "7A59EB3BK975BA4280SB42FE0F7FCB733888": {
+        "t": "Locked",
+        "info": ""
+    },
+    "82B99765KDC00A4ED1SAAA8EE7751B6DE34F": {
+        "t": "The resource manager is already locked by %s and cannot be opened.",
+        "info": ""
+    },
+    "28E32AEAK98B8A4B6CS9BE0E8E8847F3AEBC": {
+        "t": "Failed",
+        "info": ""
+    },
+    "A5A04839K61CCA4A53SA56FECFC4B3DE33B0": {
+        "t": "Information",
+        "info": ""
+    },
+    "1E29FF50KFF60A4B24SA435E5BC7722AE94C": {
+        "t": "Success",
+        "info": ""
+    },
+    "0899C08CK2116A4CFCS9EE8E9413E5CC5561": {
+        "t": "No Updates",
+        "info": ""
+    },
+    "C977EAA3K5005A4AD2S8264EE747FEBABC20": {
+        "t": "Migration failed",
+        "info": ""
+    },
+    "FA084859K858AA4A4CS80C4E0489714A7EDD": {
+        "t": "Your project was created/modified with an older version of Visual Novel Maker and cannot be opened without a migration. The Auto-Migrator automatically converts your project data to the new version. But in some special cases or if an error occures, your project data can be damaged or lost. So it is recommended to backup your project before migration.\n\nDon't hesitate to contact us if you have any problems with the migration.\n\nDo you want to migrate your project now?",
+        "info": ""
+    },
+    "CD7C0E7CK7B0CA4D33SBAB0E925A0BF9817A": {
+        "t": "Migration",
+        "info": ""
+    },
+    "62253ED1K19BAA4AD7S96ECEFBFB9BE9D370": {
+        "t": "Not yet",
+        "info": ""
+    },
+    "7043BBD4K8564A43E6S83C5EC597C361352E": {
+        "t": "Operation in Progress",
+        "info": ""
+    },
+    "52642DB9KF449A4578SB206E4017EEAD86FE": {
+        "t": "Checking Document Changes...",
+        "info": ""
+    },
+    "FF1BBCBEKBAE1A45C9SB7A3E92FB44A8C108": {
+        "t": "Your changes will not be saved and you cannot delete this document. You could try to manually unlock the document.",
+        "info": ""
+    },
+    "6E72B0D1K213CA401DSA813E0AD6F17FF23A": {
+        "t": "The document '%s' is already locked by %s",
+        "info": ""
+    },
+    "902B5082K050DA4120S8EB8EE63A69A87D67": {
+        "t": "Loading document",
+        "info": ""
+    },
+    "72B91EF7K2846A4D3ES87AFE1A45422034E2": {
+        "t": "Loading documents...",
+        "info": ""
+    },
+    "93AA1A67KD172A4E87S8DD8E3A4B1445CCFE": {
+        "t": "Deleting document",
+        "info": ""
+    },
+    "6DD51CF2KF9FDA4B7DSAF79E013B3AD76EB8": {
+        "t": "Saving document",
+        "info": ""
+    },
+    "7F2A9666K9A10A4E78S9E23E764AB37F9E5B": {
+        "t": "Saving resources...",
+        "info": ""
+    },
+    "79C222D7K27B6A48A5S9D36EAC35C30824E3": {
+        "t": "Saving folder changes...",
+        "info": ""
+    },
+    "F63E4A1CK124CA4035S86B0EC6ACC282C0C5": {
+        "t": "Exporting Resources...",
+        "info": ""
+    },
+    "B5796BADK3A52A4B48S8AD0E830D27FE29C4": {
+        "t": "Uploading %s...",
+        "info": ""
+    },
+    "DAE70E12KC6C4A4771SB6E1E34C4B861D185": {
+        "t": "Deleting resources...",
+        "info": ""
+    },
+    "7EC77EDCKD2B5A4B6CS83A7EC6A039CEC6B5": {
+        "t": "Importing resources...",
+        "info": ""
+    },
+    "75D7402FK783BA4B3CSA799E3427B95804C3": {
+        "t": "No Write Access",
+        "info": ""
+    },
+    "7A9C4ABCKD525A44B9SB262E7A92D94F98B0": {
+        "t": "You are not authorized to import new resources.",
+        "info": ""
+    },
+    "79C2C637K9CAFA473BSAE07E6DF02A1A96FF": {
+        "t": "A ZIP file with your resources has been generated.",
+        "info": ""
+    },
+    "100F6001K435FA4CCDS9825E52F2AF5C56CE": {
+        "t": "Download your resources",
+        "info": ""
+    },
+    "8B853709KA8D8A4885SA1E7E73448AC77242": {
+        "t": "Delete Resources",
+        "info": ""
+    },
+    "0D3AA10CK699AA4245SBE79E55254E536BB6": {
+        "t": "Are you sure that you want to delete the selected resources? This process cannot be undone!",
+        "info": ""
+    },
+    "A8F92E4CK7B31A4A9ES8B1DE4785B4C02B96": {
+        "t": "Resource already exist",
+        "info": ""
+    },
+    "A9AB3B3CKF0E0A4496S98BDE71125A897D0D": {
+        "t": "A resource with the name '%s' already exists. Keep in mind that the folder structures inside of a main folder are only logical. It is not possible to have two resources with the same name in different logical folders but only in main folders. Because only main folders are physical folders on disk.",
+        "info": ""
+    },
+    "388BE0BCK2300A4262SABA1E52AE1EE4B71D": {
+        "t": "Sort Folder",
+        "info": ""
+    },
+    "349E9AEDKCD6FA4060S8D83ED1935830C372": {
+        "t": "New Folder...",
+        "info": ""
+    },
+    "DE4941F8K26C4A47FDSB240E0D6E84E8C4CF": {
+        "t": "Installation successful!",
+        "info": ""
+    },
+    "F218AEA8K5C84A4E6BS98CAE41508309BE34": {
+        "t": "The extension(%s) was successfully installed. Please save your project now and restart the application.",
+        "info": ""
+    },
+    "449042C8K939BA44D9SBCDEEB098BE17584E": {
+        "t": "Installation failed!",
+        "info": ""
+    },
+    "F05F4E1AK9406A4E67SA0BEE826AD3A64420": {
+        "t": "The installation failed because another extension with the same ID(%s) already exist. Please remove the other extension and try again.",
+        "info": ""
+    },
+    "6EEC8FD4KF117A4809S9275E0A1EDD32F4B2": {
+        "t": "Extension successful deactivated",
+        "info": ""
+    },
+    "02485F3CK17BAA4707S99DDEEC602F3B0719": {
+        "t": "The extension(%s) was successfully deactivated. Please save your project now and restart the application.",
+        "info": ""
+    },
+    "F5A986B2K6060A4648S9364E987B99666706": {
+        "t": "Activation successful!",
+        "info": ""
+    },
+    "85A75115K3E38A473CS935BEE5932069D000": {
+        "t": "The extension(%s) was successfully activated. Please save your project now and restart the application.",
+        "info": ""
+    },
+    "B579F973K22D1A4BDASABE3EF06E2FC0F2B5": {
+        "t": "Unstall Extension",
+        "info": ""
+    },
+    "F9BC706FK8DA5A4BC2S9CEAE0C5994355310": {
+        "t": "Are you sure to unstall this extension with all related documents? This cannot be undone.",
+        "info": ""
+    },
+    "98370EF4K79E1A49A0SAD8FE08C2992D5B46": {
+        "t": "Uninstall successful!",
+        "info": ""
+    },
+    "D0416E43K6BFFA4444S8145E1614455CB565": {
+        "t": "The extension(%s) was successfully uninstalled. Please save your project now and restart the application.",
+        "info": ""
+    },
+    "ADA28F6BKB3D7A48AAS833AE6EC148DFB747": {
+        "t": "Validation failed",
+        "info": ""
+    },
+    "A0B006A1K2E92A4F5BSA38AEC134B79314AE": {
+        "t": "Drop here to install",
+        "info": ""
+    },
+    "D34BAC7DK74C1A4C16S87E2E9EBA83C51D42": {
+        "t": "A ZIP file with your game has been generated.",
+        "info": ""
+    },
+    "AC541B17K365CA49CAS81C2EE5E41CF1A0AA": {
+        "t": "Download your game",
+        "info": ""
+    },
+    "D18FC89CKA388A4A0DSA625E02AEAF5FF46B": {
+        "t": "Game.zip",
+        "info": ""
+    },
+    "50A77A83KEC56A4873S8B91ED2A1434D7007": {
+        "t": "You can only create 5 game packages each 12 hours. Please wait ",
+        "info": ""
+    },
+    "24456388K4BD9A497FSA8D2EBC87B23B042E": {
+        "t": "Creating Game Package...",
+        "info": ""
+    },
+    "7E22E5D5KDEFCA489FS9353EA443F16FC489": {
+        "t": "Auto-Fullscreen",
+        "info": ""
+    },
+    "D67B28FBKB7B4A4AD5S8654E36C1756B99FE": {
+        "t": "Web",
+        "info": ""
+    },
+    "AEEAB2E4KE241A4AEBSAFE3E3460C4BF696F": {
+        "t": "Code:",
+        "info": ""
+    },
+    "6E4120E3K9518A4BF4S942FE541996BF7002": {
+        "t": "Default Text",
+        "info": ""
+    },
+    "4D9B1F53KD56EA4971S9462EDEBBBC062DB0": {
+        "t": "Removing unused Texts...",
+        "info": ""
+    },
+    "FC37227AK0191A4EC5S80ACEB22E50C6394B": {
+        "t": "Checking for %s...",
+        "info": ""
+    },
+    "7AB795C7K4E4AA4733SAD78EE607AEF1A720": {
+        "t": "Delete Language Profile",
+        "info": ""
+    },
+    "DE565449K9760A4A50SB8B4E3094E0E27382": {
+        "t": "Are you sure that you want to delete the language profile '%s'?",
+        "info": ""
+    },
+    "64BD69BEKD030A4459SA78BEA3F1722FD962": {
+        "t": "Remove unused Texts",
+        "info": ""
+    },
+    "784FB306K2A89A428FS8818E185EC5A5B38D": {
+        "t": "New Language...",
+        "info": ""
+    },
+    "9CAC75FCKBA1EA487DSAB02EB85F243B7E01": {
+        "t": "Edit Language...",
+        "info": ""
+    },
+    "44F405BEK7018A4700S9391E1D55AE696BF2": {
+        "t": "Deleted",
+        "info": ""
+    },
+    "EA989922KF8EDA4FEFSB006E4B3A7C0938D0": {
+        "t": "The document '%s' is already deleted and cannot be loaded.",
+        "info": ""
+    },
+    "A6BFEBE0K5203A44EBS86DFE8FF822C1ACE9": {
+        "t": "Calculating view '%s'...",
+        "info": ""
+    },
+    "A384A940KF00EA4026SA16AE39860EF480D8": {
+        "t": "A ZIP file with your extension has been generated.",
+        "info": ""
+    },
+    "9D914C4FKD703A4C1FSB381E5971952905FC": {
+        "t": "Wrong Version Format",
+        "info": ""
+    },
+    "0BC261A1K2455A4598S9D79E81DA3662F53A": {
+        "t": "The specified version number has the wrong format. A valid version number consists of four digits separated by dots. For example: 1.0.0.0",
+        "info": ""
+    },
+    "6BE269D1KE5FDA4A60SB393E20B6EE4CEFA8": {
+        "t": "Game Scripts",
+        "info": ""
+    },
+    "D3DFFBB7K3C59A4072SAF1BE0FE2DBB05D73": {
+        "t": "EVENT",
+        "info": ""
+    },
+    "DB9CC6E1K1A48A4758SB00FE9B87931F1A01": {
+        "t": "Others...",
+        "info": ""
+    },
+    "36526AEBK5B15A4BD6SBB6EEA043399A4F5C": {
+        "t": "Properties...",
+        "info": ""
+    },
+    "BC49D139KB10AA4E76SA5BAE57835087848D": {
+        "t": "New Folder",
+        "info": ""
+    },
+    "FB1358FCKDCF5A4945SB9B6E5547105FC5DC": {
+        "t": "New Record",
+        "info": ""
+    },
+    "4C2C4455K5D2FA4986SAC17E9AF6EB3B6A9D": {
+        "t": "Import error",
+        "info": ""
+    },
+    "AE2C4B60K6118A403CSB7A9E8DA3BB999C44": {
+        "t": "The file 'records.json' is missing",
+        "info": ""
+    },
+    "5295086EK89F7A46F9S91BDE89AFE45D0B1B": {
+        "t": "The file 'records.json' is corrupted",
+        "info": ""
+    },
+    "19A973B4KA2D3A43F7S9E25E5026B926A76A": {
+        "t": "Wrong file format",
+        "info": ""
+    },
+    "CF1D5260KD5C6A4363SAEF5EBA21945971EF": {
+        "t": "The dropped file must be a ZIP archive.",
+        "info": ""
+    },
+    "4241AD1EKE91BA45C1SB879EB4D84C90EFFB": {
+        "t": "Export...",
+        "info": ""
+    },
+    "5794C2E5KD95AA49ABS85DAE507628B2B7BE": {
+        "t": "Paste & Overwrite",
+        "info": ""
+    },
+    "C91F031EKEC3BA439BS9C9EE8B52AB659D61": {
+        "t": "New Record...",
+        "info": ""
+    },
+    "87B47729K50E1A4091S8AC3EDEF02CDAEA84": {
+        "t": "\"Delete Script",
+        "info": ""
+    },
+    "BB5B0B80KDF41A4254SA796E2B1ABD0D0BFE": {
+        "t": "Delete Script",
+        "info": ""
+    },
+    "1257FCC9KBC88A4190SBE4AEB509F366DAB9": {
+        "t": "Are you sure that you want to delete '%s' script?",
+        "info": ""
+    },
+    "2EDF2EBDKBE54A47D7SA4EBE5A4B531DB3A3": {
+        "t": "New Script",
+        "info": ""
+    },
+    "37D441FEK571BA4CAFS9FB1E9AC591C04A57": {
+        "t": "UID:",
+        "info": ""
+    },
+    "45D66842K7D30A4132SAFE8EC7FA30088C53": {
+        "t": "An error occured while parsing JSON...",
+        "info": ""
+    },
+    "739FF683K99FBA496ASA331E5CD96331B487": {
+        "t": "An error occured while building view",
+        "info": ""
+    },
+    "A4336132KFE1CA43FFSA901E404CBFB0839C": {
+        "t": "Data Record Views",
+        "info": ""
+    },
+    "6F087F30K9D32A41BAS8FF9E3B8E3CF56349": {
+        "t": "Data Record Collections",
+        "info": ""
+    },
+    "BC183E4CK7858A494FS8D56E89251C42FCE5": {
+        "t": "Custom Views",
+        "info": ""
+    },
+    "1D346318KAC9EA415ES8207EC8457A960A09": {
+        "t": "Language Bundles",
+        "info": ""
+    },
+    "7757CCA3K441BA4E2BSAC8FE7832C94AC49D": {
+        "t": "New Extension",
+        "info": ""
+    },
+    "48150789K5AD9A432BSA741E86FD943BA274": {
+        "t": "Exists",
+        "info": ""
+    },
+    "3AF5D739K6D35A478BSBC48ED51E15657BE0": {
+        "t": "The selected text already exists.",
+        "info": ""
+    },
+    "422C2F06K3E44A44B9S99FDE3831189BFB51": {
+        "t": "Create New",
+        "info": ""
+    },
+    "B77BC06DK61A4A4372S919BEAE079979C189": {
+        "t": "Use Existing",
+        "info": ""
+    },
+    "A954CFE3K70F1A4C86S96A2E7252BDC300AA": {
+        "t": "Delete Project",
+        "info": ""
+    },
+    "B5FE943EKA6D8A492DSB779ECC8C1D00D8E4": {
+        "t": "Are you sure that you want to delete the entire project? All documents, scenes, files, etc. will be deleted. Keep in mind that this cannot be undone.\\r\n\\r\nDo you really want to continue?",
+        "info": ""
+    },
+    "6D8C0C09K894DA4663SB614ECBB3135CE768": {
+        "t": "Flash Picture",
+        "info": ""
+    },
+    "BED760B180FC484984185B630BB9FA2D1118": {
+        "t": "Enter comment here.",
+        "info": ""
+    },
+    "CD6273FD0A71E547C46AFA4232B1079E96FB": {
+        "t": "Text Variable",
+        "info": ""
+    },
+    "8F52A5EE89E7E948CD5805E9FD34F6392535": {
+        "t": "Scope",
+        "info": ""
+    },
+    "CA1904C34CB8A64AEE891DD1784948E737C4": {
+        "t": "From",
+        "info": ""
+    },
+    "DC1A41265CECC346098B4931B5874A2AF62A": {
+        "t": "To",
+        "info": ""
+    },
+    "01287A7825B6604DB689B762A33E73E024D4": {
+        "t": "Insert text here.",
+        "info": ""
+    },
+    "844F0CFE6D9D5241F71BF493333C38272857": {
+        "t": "Number Variable",
+        "info": ""
+    },
+    "46B13E5F425044489F3B1B4865D3AD57BE2A": {
+        "t": "If",
+        "info": ""
+    },
+    "C5EB04527677A744804A8F85744C8BE285F3": {
+        "t": "Is",
+        "info": ""
+    },
+    "2AA95C2462998440D08A89C884F8259FD71F": {
+        "t": "Enter label name",
+        "info": ""
+    },
+    "F3B340E8330A7043718935766F8C2662A67D": {
+        "t": "Insert script code here",
+        "info": ""
+    },
+    "8EC56C296E32E84E3459CD61EAB52A6F3B90": {
+        "t": "Check Switch",
+        "info": ""
+    },
+    "20D5BD5B6410514E2579E7889435F395AFF2": {
+        "t": "If Switch",
+        "info": ""
+    },
+    "A28F7E4D5EB8774F7178B5A7157571D193FB": {
+        "t": "Then Jump To",
+        "info": ""
+    },
+    "C08538BE2AA7074B9D794FC28EBF73D416D3": {
+        "t": "Check Number",
+        "info": ""
+    },
+    "9B944D2D4639444AA19AE865CF9A2A740205": {
+        "t": "If Variable",
+        "info": ""
+    },
+    "1E4278B669969640628BE385259A498BF5EA": {
+        "t": "Check Text",
+        "info": ""
+    },
+    "632B209734B0124DEB2B7666078E16C565DA": {
+        "t": "Else If",
+        "info": ""
+    },
+    "95FD34BF6CA0C741FF3AB542417BDF861C1E": {
+        "t": "Idle",
+        "info": ""
+    },
+    "347748495F15D1438B88AD5881A3511EFA18": {
+        "t": "Start Timer",
+        "info": ""
+    },
+    "8B7BC43319CE884D1E7AA7A53C2CD04D4EE7": {
+        "t": "Interval",
+        "info": ""
+    },
+    "9007510B517ED342E52BE962B794DB75CA2D": {
+        "t": "Action",
+        "info": ""
+    },
+    "0C0FFFB48D0001433E7A4057070263A79F59": {
+        "t": "ms",
+        "info": ""
+    },
+    "21D14F256EA3E4426A39F5529AB0F8BA43F6": {
+        "t": "Stop Timer",
+        "info": ""
+    },
+    "FC6D5BD93DE6E84CEE4BF0768110E5367492": {
+        "t": "Add to List",
+        "info": ""
+    },
+    "17A020F5327BF047B71A6D5139AC5F697A7B": {
+        "t": "Pop from List",
+        "info": ""
+    },
+    "18DC276A2FD9F74F723982056C1F11AD1FA8": {
+        "t": "Shift from List",
+        "info": ""
+    },
+    "3878116A5016734BAE1A79737E657AC84337": {
+        "t": "Get from List",
+        "info": ""
+    },
+    "860DA3AA34FB084E8E586AB08BA680B959FC": {
+        "t": "Remove from List",
+        "info": ""
+    },
+    "2D09B54C0C3AD44AA75A6271ACB731C729B6": {
+        "t": "Insert into List",
+        "info": ""
+    },
+    "AAE3743008AB724FAF099B62C124FCD8141E": {
+        "t": "Find in List",
+        "info": ""
+    },
+    "C412144A3763F74A641A04956273201AB853": {
+        "t": "Store Index in",
+        "info": ""
+    },
+    "74BBA8656F01F74FEC5977A7A3AF751D5BA7": {
+        "t": "Set in List",
+        "info": ""
+    },
+    "A95D1BE01269E44E1E7961F8286ED66B7D5F": {
+        "t": "Shuffle List",
+        "info": ""
+    },
+    "2E68FCAF74E1184E846958E8CEEF7AE873FE": {
+        "t": "Sort List",
+        "info": ""
+    },
+    "5A8422E939F5344457591BA79EB9EA7E1492": {
+        "t": "Order",
+        "info": ""
+    },
+    "9DBEBBD89F9E734A655AC7004E5FC2A049F3": {
+        "t": "Ascending",
+        "info": ""
+    },
+    "362B202470C85340B26A58D1E222FB90F6F1": {
+        "t": "Descending",
+        "info": ""
+    },
+    "F7CEF7437877F744A08AC1D1BEA3D9AC46C1": {
+        "t": "Length of List",
+        "info": ""
+    },
+    "C9C23A6E5A74F84FE07940677A0C2E37E13D": {
+        "t": "List",
+        "info": ""
+    },
+    "279A870082643340194815582532E3A95B7F": {
+        "t": "Store in",
+        "info": ""
+    },
+    "AC1F43A41D67F4434D6B4564626D5F155E3A": {
+        "t": "Copy List",
+        "info": ""
+    },
+    "AF9001C88ABF244F4E79BEC4B7CDD938C2C5": {
+        "t": "Target List",
+        "info": ""
+    },
+    "7CCE0F202381D549F5580757C39B0F05DA00": {
+        "t": "Message Box Visibility",
+        "info": ""
+    },
+    "F6ED9E0B8C92D24C6C297489155D2F0BCCCF": {
+        "t": "Message Fading",
+        "info": ""
+    },
+    "9E830ABC32354949021B7B35DA7225109E77": {
+        "t": "Message Settings",
+        "info": ""
+    },
+    "1297B0618FEDA8411D1AE9E41E403B4FCAA1": {
+        "t": "Auto Erase",
+        "info": ""
+    },
+    "8ECF5221359D2444029945114715F69A52C6": {
+        "t": "Wait at End",
+        "info": ""
+    },
+    "5E0D20EA477EB14323884BD171CB75EF8D66": {
+        "t": "Font",
+        "info": ""
+    },
+    "2BFCB38471EC754E301910E61CB9E9E930FC": {
+        "t": "Size",
+        "info": ""
+    },
+    "4CB1B96948F4B447E119F7829BD93C0D90AF": {
+        "t": "px",
+        "info": ""
+    },
+    "5DFAC3F9842F404696394AD3C46DED3C5DF4": {
+        "t": "Style",
+        "info": ""
+    },
+    "973C77352B3C0441947ADE8307C90AB4EF4B": {
+        "t": "Insert message text here",
+        "info": ""
+    },
+    "E0E37D284DFC294C9B59741576C6FBBF4899": {
+        "t": "Partial",
+        "info": ""
+    },
+    "8EC8F86A73D0524F417974A56C2120B44D7F": {
+        "t": "Expression Change",
+        "info": ""
+    },
+    "FB0EA56B5F9B9146719B5F66A690FC3B9928": {
+        "t": "No Change",
+        "info": ""
+    },
+    "48EDCF759A23924FAF88FFD369F83F28581B": {
+        "t": "Add Choice",
+        "info": ""
+    },
+    "0E27AB7F753E94485608D241E74BBA1355A3": {
+        "t": "Description",
+        "info": ""
+    },
+    "71BC71C66ED2454FD2993602BE555D66E0FA": {
+        "t": "Jump To",
+        "info": ""
+    },
+    "EDA8FFF8758AE841037B2DB13D815982AF4D": {
+        "t": "Direct",
+        "info": ""
+    },
+    "415EA48663FAA34A734A74E18C0BF03C697A": {
+        "t": "Show NVL Message",
+        "info": ""
+    },
+    "FF82600780DF4242917B9C378C0907B76195": {
+        "t": "Clear Message",
+        "info": ""
+    },
+    "154471DC9286E048D2389412DC08BDE67C11": {
+        "t": "Close NVL Page",
+        "info": ""
+    },
+    "3078AFA74D363048BB1A0B3334297385EE53": {
+        "t": "Digits",
+        "info": ""
+    },
+    "C5CA931C375453479C886940F61A8BF9F1B8": {
+        "t": "Store in Variable",
+        "info": ""
+    },
+    "90C18A623282F243D468F7C639279B8BB3EC": {
+        "t": "Letters",
+        "info": ""
+    },
+    "E79FDAF065C36748B93919069FD122A5493D": {
+        "t": "Set Message Box",
+        "info": ""
+    },
+    "5CC2FF478C9A66433F0A45E4F64775338D8E": {
+        "t": "Placement",
+        "info": ""
+    },
+    "F0A477DC3EAA664ECF2B7EB68678AB24921B": {
+        "t": "Choice Timer",
+        "info": ""
+    },
+    "EAD47223023B214C5C79E8372CBF817BD4CE": {
+        "t": "Message Box Defaults",
+        "info": ""
+    },
+    "A5A505DC2A18A7403A1904970112B176E69D": {
+        "t": "Appear Effects",
+        "info": ""
+    },
+    "9B0574AE5E69734108292D46852929AFF30F": {
+        "t": "Disappear Effects",
+        "info": ""
+    },
+    "68CA476A74186848E7592192A62C8DF9C35F": {
+        "t": "Backlog Visibility",
+        "info": ""
+    },
+    "4D1C5E445B50184FAC59D4554EB1F06ACBEC": {
+        "t": "Background Visible",
+        "info": ""
+    },
+    "E79BDDFF50AB544E0759AA7709FA48A9096D": {
+        "t": "Enter text here.",
+        "info": ""
+    },
+    "9E1A5407531CC141D66911387F0B53C14B4F": {
+        "t": "Display",
+        "info": ""
+    },
+    "D61D429627E27449B86881C3DE0446316091": {
+        "t": "Speed",
+        "info": ""
+    },
+    "63E690BA974510454E18A7328DBDB7CB4431": {
+        "t": "Zoom Text",
+        "info": ""
+    },
+    "6245330B45C1C34CFE59C509C041F1FCEB70": {
+        "t": "Text Settings",
+        "info": ""
+    },
+    "28968CE4156B4042ED6A90094AD0D3B41692": {
+        "t": "Move Text along Path",
+        "info": ""
+    },
+    "68CDFF054F8295432789B5575B5A78ABFF34": {
+        "t": "Refresh Text",
+        "info": ""
+    },
+    "F77926FA2361014865480411E46BE575D8EB": {
+        "t": "Text Defaults",
+        "info": ""
+    },
+    "F860A49B6C3CE840C91BF6A7CCA6C8F2DAFD": {
+        "t": "Appear Duration",
+        "info": ""
+    },
+    "87ABA91A4BF688498F3AB0A7B82E23DCB3BE": {
+        "t": "Disappear Duration",
+        "info": ""
+    },
+    "858E29BD598E6544DD49356017DFC223DA6F": {
+        "t": "Easing",
+        "info": ""
+    },
+    "9FEB895376A9F34CF86B5494DBD692B58693": {
+        "t": "Advanced",
+        "info": ""
+    },
+    "2D13E13B48733748922BE0661BEA7C56969D": {
+        "t": "Play Type",
+        "info": ""
+    },
+    "B413DADC4A5BF849644A4C12EF5E85E4FEE8": {
+        "t": "Play Time",
+        "info": ""
+    },
+    "533692415AAF7749C76B0788EDCF407D5A18": {
+        "t": "Pause Time",
+        "info": ""
+    },
+    "F07CF506656A0146370ABCF162A443C0A058": {
+        "t": "Stop Music",
+        "info": ""
+    },
+    "85C784B6768C25445A8AC8665F654AA981F3": {
+        "t": "Pause Music",
+        "info": ""
+    },
+    "2A07BF6E4EADB149B109E89052CAEC6DB251": {
+        "t": "Resume Music",
+        "info": ""
+    },
+    "C68EC09F1E9A444CA248D0B4BD9A5F8B996F": {
+        "t": "Fade-In Time",
+        "info": ""
+    },
+    "153029221BBE384874781061015802F1C3BA": {
+        "t": "Fade-Out Time",
+        "info": ""
+    },
+    "9A11A7A89FAF6747576B3C910EA4ECD5EBC7": {
+        "t": "Voice",
+        "info": ""
+    },
+    "5E9F314547769743D40B73D6763BA59B8F26": {
+        "t": "Zoom Picture",
+        "info": ""
+    },
+    "BE0BDD792C5563462778E842AC8C29FFB4DB": {
+        "t": "Mask Picture",
+        "info": ""
+    },
+    "E4C92A56651AF14BA35ACA120D5F7DC1E091": {
+        "t": "Show Image Map",
+        "info": ""
+    },
+    "CF75C133601AC74067481B8776578046C7EF": {
+        "t": "Ground",
+        "info": ""
+    },
+    "828ECA7022F26147773A74513BC532FBCE24": {
+        "t": "Hover",
+        "info": ""
+    },
+    "469F9F2287F9D6451D2A09A3FC937355F935": {
+        "t": "Hotspots",
+        "info": ""
+    },
+    "CE92FBB22261764C1F28D9B8E5BEE4ACA40C": {
+        "t": "Unselected",
+        "info": ""
+    },
+    "3CFB5CC34C0477461A2B7D22FE773F469677": {
+        "t": "Selected",
+        "info": ""
+    },
+    "0B2C562B32CAF241EF49C0A84CC1A1A21B3A": {
+        "t": "Selected Hover",
+        "info": ""
+    },
+    "10392D5D193F36496A891AB7C29446B15FE2": {
+        "t": "Erase Image Map",
+        "info": ""
+    },
+    "D871691D2015654B3D6AEC92353100603BF6": {
+        "t": "Move Picture along Path",
+        "info": ""
+    },
+    "62A4B39B63A4384D096BB0D79F4066AF9A99": {
+        "t": "Show Animation",
+        "info": ""
+    },
+    "1E095ADB2243B74D5B0BB6410AACA67A17E7": {
+        "t": "Shake Picture",
+        "info": ""
+    },
+    "76B1881439284643832A615111AAE7FBF08D": {
+        "t": "Picture Effect",
+        "info": ""
+    },
+    "9BD532B3445E17486F8BA754900A8C149EDE": {
+        "t": "Picture Motion Blur",
+        "info": ""
+    },
+    "DA207B80909C2343435A95E4112CEB0C7DD9": {
+        "t": "Add Hotspot",
+        "info": ""
+    },
+    "7F4D32186AE6B342433A3586CAEB8004B67C": {
+        "t": "Images",
+        "info": ""
+    },
+    "D84CCD8A56198241872857479170ACB55F92": {
+        "t": "Base",
+        "info": ""
+    },
+    "5C8AFEBD337EA9444A7BB1833DB9941091C9": {
+        "t": "Draggable",
+        "info": ""
+    },
+    "E20AC05C4BDB03477169DA70EE837DF2A4B3": {
+        "t": "Track Rect",
+        "info": ""
+    },
+    "CD90C0D85BF21748797A6B734A889009A331": {
+        "t": "Dragging",
+        "info": ""
+    },
+    "E038127915B789437F7AE023918F41124F3C": {
+        "t": "Erase Hotspot",
+        "info": ""
+    },
+    "A0301B3C2077384DDE1900145811887C20B9": {
+        "t": "Picture Defaults",
+        "info": ""
+    },
+    "5D6436463710D94BC848FBB146D1FA18BBD2": {
+        "t": "Play Movie",
+        "info": ""
+    },
+    "C09C677D86477941601A99171EC6A87C8637": {
+        "t": "Show Movie",
+        "info": ""
+    },
+    "E3025C8229C531471B59B5281A2486D70057": {
+        "t": "Zoom Movie",
+        "info": ""
+    },
+    "FBB88B328C460741DA3831A7AD28507928AC": {
+        "t": "Move Movie",
+        "info": ""
+    },
+    "E31D7AA5344EF14D793B22282EE90EE773D4": {
+        "t": "Rotate Movie",
+        "info": ""
+    },
+    "A912FB7C4A47324D7A4A32F89CA69CD5D95B": {
+        "t": "Tint Movie",
+        "info": ""
+    },
+    "ADD23624771072411D3A82987C5BE70C8582": {
+        "t": "Movie",
+        "info": ""
+    },
+    "DF0D6865196C074CD56B5426D862EB1FCC01": {
+        "t": "Flash Movie",
+        "info": ""
+    },
+    "A0B5C28A99D5784030290683CB3B07E4AA9A": {
+        "t": "Erase Movie",
+        "info": ""
+    },
+    "8E4967A50DAAA1448B782121EE293BB3FFF1": {
+        "t": "Movie Motion Blur",
+        "info": ""
+    },
+    "D33E572A65EC5549DD3BBDB3EE43F6F50E33": {
+        "t": "Crop Movie",
+        "info": ""
+    },
+    "0B7E5617540F40430A4938674C0EA9B45823": {
+        "t": "Mask Movie",
+        "info": ""
+    },
+    "D431AFA331DB3549D52AA2750F2E79F233CC": {
+        "t": "Move Movie along Path",
+        "info": ""
+    },
+    "ABA0CD3884388044978A7B220CA0C7E6622E": {
+        "t": "Movie Defaults",
+        "info": ""
+    },
+    "179BDC352DC2364EC67A84D40E04C571004E": {
+        "t": "Chapter",
+        "info": ""
+    },
+    "82844FB74796D4486A7B14B4417497A1E841": {
+        "t": "New Chapter",
+        "info": ""
+    },
+    "3D93DC8E8E4BC3405A9B3BF56A6D2C0B3FC2": {
+        "t": "Save Game Graphic",
+        "info": ""
+    },
+    "D4226B0F73F5264A2A7B07084BE172B41EDB": {
+        "t": "Enter chapter description here",
+        "info": ""
+    },
+    "07C673A54FF38043E879A471A04AD650FDDF": {
+        "t": "Values",
+        "info": ""
+    },
+    "11B4E7F27203F6483699AFA46EA87C7B5A7B": {
+        "t": "End Common Event",
+        "info": ""
+    },
+    "F31C83242C8F62485F5A2B348BC32838EF7E": {
+        "t": "CG",
+        "info": ""
+    },
+    "2365352064347640840A916928D18E353DAE": {
+        "t": "Unlock CG",
+        "info": ""
+    },
+    "0BCA298E2450D14D942B87582E0F10A804D8": {
+        "t": "Save Persistent Data",
+        "info": ""
+    },
+    "F69C4F809B90F546FA185986C713F5ABB3F6": {
+        "t": "Set Parameter",
+        "info": ""
+    },
+    "860BF5D580B0E245FE29CC11DE6E3E8ED673": {
+        "t": "Get Parameter",
+        "info": ""
+    },
+    "44F2CCB12630E24D9B790F982B0B2BF788A5": {
+        "t": "Get Game Data",
+        "info": ""
+    },
+    "9EE4CE017D7EE74B2D7B1FA77978BD1CD3DB": {
+        "t": "Field",
+        "info": ""
+    },
+    "920AFC8E549CC348534811D3370FD77FC8F2": {
+        "t": "Input Data",
+        "info": ""
+    },
+    "ED47AEDC5B269349351BCEA89E818B12BA77": {
+        "t": "Get Object Data",
+        "info": ""
+    },
+    "CCA7AD2408FF384B453A1346DCB971E71E3F": {
+        "t": "Object Type",
+        "info": ""
+    },
+    "C3A4C7FC66D8D846FF8B016583A0EFDA1D6B": {
+        "t": "Set Object Data",
+        "info": ""
+    },
+    "3188BF5032FDE243E65A66914CBA9FC239AC": {
+        "t": "Set To",
+        "info": ""
+    },
+    "9B726F4F6E7125453F1914C1541DD785DF63": {
+        "t": "Set Game Data",
+        "info": ""
+    },
+    "E4B34E7F130BF8440E1AE392D3806F3F7FD4": {
+        "t": "Change Sounds",
+        "info": ""
+    },
+    "AE2256F96714404629894C3281D625B561E4": {
+        "t": "Change Colors",
+        "info": ""
+    },
+    "224A41E54441B2435B88BBE14567578C4EA6": {
+        "t": "Change Cursor",
+        "info": ""
+    },
+    "D4DE747F2D092647F66A9161AE2A7A36F37E": {
+        "t": "Hotspot-X",
+        "info": ""
+    },
+    "269B44C38597D344B3287F714980E7107B1D": {
+        "t": "Hotspot-Y",
+        "info": ""
+    },
+    "A7A7C7CA4EA2C64C43685528C64746451F71": {
+        "t": "Key",
+        "info": ""
+    },
+    "C50EA7EF0592134BEF59E098BD7961D34EB4": {
+        "t": "Label Name",
+        "info": ""
+    },
+    "75F572E1851AD44ABE7B8B70EE271FD478D2": {
+        "t": "Change Scene",
+        "info": ""
+    },
+    "896390DC3143F242F87A79C5AE6783D060E6": {
+        "t": "Erase Objects",
+        "info": ""
+    },
+    "3DE8FAE19C134148973A95077AD48107ED9F": {
+        "t": "Erase Pictures",
+        "info": ""
+    },
+    "29E6B0C21B76544BC978C1A450198D459003": {
+        "t": "Erase Texts",
+        "info": ""
+    },
+    "1078B1A920D2974AF71B92674556295A0CE4": {
+        "t": "Erase Videos",
+        "info": ""
+    },
+    "6CD66E3A52E5034317395C5487D456D204DA": {
+        "t": "Change Transition",
+        "info": ""
+    },
+    "A20F74E20798454C200A83253DEACB863B87": {
+        "t": "Vague",
+        "info": ""
+    },
+    "3A05BEBC745F8841B61BAF390D12608F6539": {
+        "t": "Switch to Layout",
+        "info": ""
+    },
+    "80ABB339558BB14DD31B2E353D5AB51D792D": {
+        "t": "Save Previous",
+        "info": ""
+    },
+    "FF7C203146CE9742F52A58E62E46BABC2509": {
+        "t": "Screen Effect",
+        "info": ""
+    },
+    "60366BCF13847741594A6564E038FA1D2036": {
+        "t": "Shake Background",
+        "info": ""
+    },
+    "D4208EF6625D614594294BF3440BB3E78664": {
+        "t": "Background Effect",
+        "info": ""
+    },
+    "6FB5C3E20383D74012089CD1FA75CE809B08": {
+        "t": "Mask Background",
+        "info": ""
+    },
+    "01F98A7881DBA442F908A448A7FE32766DF6": {
+        "t": "Background Motion Blur",
+        "info": ""
+    },
+    "8698F4081FB5F24AA61BF675606471D5D8BA": {
+        "t": "Scroll along Path",
+        "info": ""
+    },
+    "082A96AF209B324D54486878C8A82AE3A0D5": {
+        "t": "Scroll Background",
+        "info": ""
+    },
+    "323B7A1881A13340D32A7B8520D8893F8518": {
+        "t": "Speed X",
+        "info": ""
+    },
+    "EEE313F0542B4443ED58F4B9DAE55097ACD5": {
+        "t": "Speed Y",
+        "info": ""
+    },
+    "2EA7A7BF12D3404F62094CA6644784A9FC40": {
+        "t": "Continue",
+        "info": ""
+    },
+    "FEEAD8FB709B494A7239AEB682F4B04D1D84": {
+        "t": "Scroll Background To",
+        "info": ""
+    },
+    "12C1433D4CEDA8497E38AD12BAC0649E505A": {
+        "t": "\n                        \"label\": \"Effects",
+        "info": ""
+    },
+    "705686C5536A3848D84B69254A4C643C7A0D": {
+        "t": "Zoom Background",
+        "info": ""
+    },
+    "6BC55ABB8F41E74BC96B258922BFED22FC6A": {
+        "t": "Change Background",
+        "info": ""
+    },
+    "0848AE56903F4742B15B7BC2E059ADAFD6A2": {
+        "t": "Looping",
+        "info": ""
+    },
+    "D639D13D0A51C24771792879DB641E3818CF": {
+        "t": "Zoom Character",
+        "info": ""
+    },
+    "E0930F7F9170E74A198969904F66E06BB459": {
+        "t": "Shake Character",
+        "info": ""
+    },
+    "1AE086CC19D155453F395AA60271C39E4102": {
+        "t": "Mask Character",
+        "info": ""
+    },
+    "86820C551726A644C90AE3D2B9B1428DF925": {
+        "t": "Move Character",
+        "info": ""
+    },
+    "E2726CAB4B2B6643AF2AEF17196F44EAFD68": {
+        "t": "Character Motion Blur",
+        "info": ""
+    },
+    "3DAF7BAF14E7D240E589BF03BA968C8A8336": {
+        "t": "Expression",
+        "info": ""
+    },
+    "07A0563919FDB24A8B49FE458A65758F3985": {
+        "t": "Move Character along Path",
+        "info": ""
+    },
+    "84A1021037E4744E926909817EC682C680EF": {
+        "t": "Flash Character",
+        "info": ""
+    },
+    "64CAE0D17F2919448B3B07B1AFB0694F6E28": {
+        "t": "Change Expression",
+        "info": ""
+    },
+    "C305E4997F6CE04ED86836A9731B2AB981CE": {
+        "t": "Exit Scene",
+        "info": ""
+    },
+    "708B7CF645510242E51988512D2761FF6970": {
+        "t": "Expression Duration",
+        "info": ""
+    },
+    "870E05A785AB46486F4977A3EB2129E1CA7E": {
+        "t": "Live2D Join Scene",
+        "info": ""
+    },
+    "82F2307A8F685345E51BB749FF2D32C44050": {
+        "t": "Model",
+        "info": ""
+    },
+    "B9215CBE63DBD842D43A15E2CD73E200E8FF": {
+        "t": "Live2D Exit Scene",
+        "info": ""
+    },
+    "0D29C97D3BC162449B4A44A896A5ED2186F4": {
+        "t": "Live2D Motion",
+        "info": ""
+    },
+    "4870958C3ABB1243A2591832E3311D039368": {
+        "t": "Motion",
+        "info": ""
+    },
+    "49C76C7F1C2EE8468B1BA2884C6A06B3C241": {
+        "t": "Live2D",
+        "info": ""
+    },
+    "D2AC192A258FB94582395917B8EFE63F8603": {
+        "t": "Live2D Expression",
+        "info": ""
+    },
+    "D5FED339653B9844E42956654157A60A22FD": {
+        "t": "Live2D Move",
+        "info": ""
+    },
+    "E3A20D685716474B6A891E980F6F3F29DB31": {
+        "t": "Live2D Motion Group",
+        "info": ""
+    },
+    "A1670E332C64B44EA22BDCE357DA4542221E": {
+        "t": "Motion Group",
+        "info": ""
+    },
+    "294D38236236C94C637B90617FB98A1E016C": {
+        "t": "Live2D Defaults",
+        "info": ""
+    },
+    "1EEA6C0221AFB74E5159178460DEF4CF529A": {
+        "t": "Scene ID",
+        "info": ""
+    },
+    "4BB5163C87839245596973F432BBC00E0615": {
+        "t": "Game Time - Seconds",
+        "info": ""
+    },
+    "B65B942211065745B27B7B73AF2F2AAA00D6": {
+        "t": "Game Time - Minutes",
+        "info": ""
+    },
+    "90E1F2154651824C523814A6F4135508937B": {
+        "t": "Game Time - Hours",
+        "info": ""
+    },
+    "716B826A5E73D5458B3ACE467E67BAF230AB": {
+        "t": "Date - Day of Month",
+        "info": ""
+    },
+    "C6A6AC1218A264474F285245BD54D7734ECC": {
+        "t": "Date - Day of Week",
+        "info": ""
+    },
+    "4AA9EA5E3DBE214D4878F12616334FFF9618": {
+        "t": "Date - Month",
+        "info": ""
+    },
+    "B8CEE3F5663DD74D5C6A1892C5CBF5BB961D": {
+        "t": "Date - Year",
+        "info": ""
+    },
+    "65DF7DAE36B6634C3E786971C059B03AA731": {
+        "t": "Settings - Allow Skip",
+        "info": ""
+    },
+    "DB8AC85091F844454E79BC18AC572B7178FB": {
+        "t": "Settings - Allow Skip Unread",
+        "info": ""
+    },
+    "DFE8D9558CB8C3458E1A85A69BA73C66B884": {
+        "t": "Settings - Message Speed",
+        "info": ""
+    },
+    "EDB2329D569AB342A32913E80793EA0145BC": {
+        "t": "Settings - Auto Message",
+        "info": ""
+    },
+    "881F410A5A49834F185822C3D5CA9F3E4988": {
+        "t": "Settings - Auto Message Duration",
+        "info": ""
+    },
+    "F862ED5811D8F44F79781BE67AA441B295CD": {
+        "t": "Settings - Wait for Voice",
+        "info": ""
+    },
+    "FFF825281AD3144D52193C43AFAC63E50470": {
+        "t": "Settings - Stop Auto Message on Click",
+        "info": ""
+    },
+    "0335104D4D2B48413B3A2D19436D69EE97E7": {
+        "t": "Settings - Time Messages",
+        "info": ""
+    },
+    "2FA31DF17A40414BCE592217B6B26C5ACE35": {
+        "t": "Settings - Video Skip",
+        "info": ""
+    },
+    "70487B5192E1B44A4028CCF7F031B3E6498B": {
+        "t": "Settings - Choice Skip",
+        "info": ""
+    },
+    "79FAA5ED7F12D9404839F577C4917E2E0C4D": {
+        "t": "Settings - Voice Skip",
+        "info": ""
+    },
+    "D65B5B4341C1E148C61897C4EF0861303855": {
+        "t": "Settings - Fullscreen Mode",
+        "info": ""
+    },
+    "C1B583191B61554F539A0A625358290DAEE6": {
+        "t": "Settings - Stretch Mode",
+        "info": ""
+    },
+    "58984FBA3507C8435E29E094FDB9F5EF8AC3": {
+        "t": "Settings - Confirmation",
+        "info": ""
+    },
+    "CB58B38968345841F91B2B10C10758DDAE4D": {
+        "t": "Settings - Music Volume",
+        "info": ""
+    },
+    "F152C63612ED5541A15BABF0650167C513D2": {
+        "t": "Settings - Voice Volume",
+        "info": ""
+    },
+    "BDD2749D7D179842685B84C69DABE7849BFF": {
+        "t": "Settings - SE Volume",
+        "info": ""
+    },
+    "315BEDE93D342144F74816D4126EF6A7AB2A": {
+        "t": "Settings - Music Enabled",
+        "info": ""
+    },
+    "50D69F783360284753288E211B15D84D23E4": {
+        "t": "Settings - Voice Enabled",
+        "info": ""
+    },
+    "CDB36CF157E4E345E85B8DD3F5E19D49A036": {
+        "t": "Settings - SE Enabled",
+        "info": ""
+    },
+    "4BD9FE2C88E75149A03B86F74B0A70B7FAB2": {
+        "t": "Language - Code",
+        "info": ""
+    },
+    "679B39729703454C5D6882F268767ED0E7CC": {
+        "t": "Language - Name",
+        "info": ""
+    },
+    "6ED7DC92706A164F375A3085915CE5F675A5": {
+        "t": "Button - A",
+        "info": ""
+    },
+    "0DAD83E65AAC7747B33B1448994B14543065": {
+        "t": "Button - B",
+        "info": ""
+    },
+    "565A00C13E328143F85983D57A0F6DAF9184": {
+        "t": "Button - X",
+        "info": ""
+    },
+    "635F4F4686746440076B9AB17C10DE1BE8B2": {
+        "t": "Button - Y",
+        "info": ""
+    },
+    "F27CCFA62E2AF54A5939B6328F3AA4A232EF": {
+        "t": "Button - Z",
+        "info": ""
+    },
+    "246F25B679514346FE5B9D71B6B86C6FC203": {
+        "t": "Button - L",
+        "info": ""
+    },
+    "9DE271A74E616343170BDDD773C3FCC933B8": {
+        "t": "Button - R",
+        "info": ""
+    },
+    "D0351CBF3EFAB74A40199EB5F11AB466A1F5": {
+        "t": "Button - START",
+        "info": ""
+    },
+    "10EE899E08A136460C59BFC65B71B9762C9C": {
+        "t": "Button - SELECT",
+        "info": ""
+    },
+    "E5EC2E32396D0944133ABCF7F3972A22CD47": {
+        "t": "Mouse - Left Button",
+        "info": ""
+    },
+    "D2B1D1C82FA02246143847764B431C2BD5B3": {
+        "t": "Mouse - Right Button",
+        "info": ""
+    },
+    "A83E228491E695450008E3C0CA25B36CF752": {
+        "t": "Mouse - Middle Button",
+        "info": ""
+    },
+    "0627F4896315D3420C7816C1C2068FB6734E": {
+        "t": "Mouse - X",
+        "info": ""
+    },
+    "EED16AF89235A848B569D35898A9A2887F48": {
+        "t": "Mouse - Y",
+        "info": ""
+    },
+    "6C6A0A0F84C235428A88D969C2466B508783": {
+        "t": "Mouse - Wheel",
+        "info": ""
+    },
+    "E1A0B7F41284614AB49B1CD4D4AD35195F26": {
+        "t": "Resource Name",
+        "info": ""
+    },
+    "FEC1880501DD234E4338F538794174A4EF6D": {
+        "t": "Position - X",
+        "info": ""
+    },
+    "E1D92147266CD34B5B7A1E7417267A154BFE": {
+        "t": "Position - Y",
+        "info": ""
+    },
+    "21CCF2F04F0EE147F6283E4926D2FC62FF69": {
+        "t": "Anchor - X",
+        "info": ""
+    },
+    "092A86C9745D3847F579A35434304DFE99D6": {
+        "t": "Anchor - Y",
+        "info": ""
+    },
+    "96FC5C5D353C044AE14B2F6352C040B53034": {
+        "t": "Zoom - X",
+        "info": ""
+    },
+    "7AACD084157D114D433A3DB85EFDE514B10C": {
+        "t": "Zoom - Y",
+        "info": ""
+    },
+    "C635E47664F373467239E7D89CDA62CAC00E": {
+        "t": "Size - Width",
+        "info": ""
+    },
+    "8B0541441495514F9668B983585B37AF7C9C": {
+        "t": "Size - Height",
+        "info": ""
+    },
+    "1EB0352C7DA4A84EBE7A2349D47FB1DC5854": {
+        "t": "Z-Index",
+        "info": ""
+    },
+    "CA2F5CE46EDE2040744AEE28918BBEC6DE8D": {
+        "t": "Message Box",
+        "info": ""
+    },
+    "BE63E9B09618124B394A5FE709AC23E2E4A1": {
+        "t": "Running",
+        "info": ""
+    },
+    "233DD12C88157548949AFB9848169EE37A43": {
+        "t": "Pressed",
+        "info": ""
+    },
+    "7C5825B64E73714909092318AC4AC1DAFEF2": {
+        "t": "Released",
+        "info": ""
+    },
+    "8D066C2C8D2CD34D853AF130B815C569B18E": {
+        "t": "Bind To",
+        "info": ""
+    },
+    "9CD9DE05509D03480C1886A7D53B523D533C": {
+        "t": "Reverse",
+        "info": ""
+    },
+    "523D4D2A7F888949DB38A2C3AD9D75D92944": {
+        "t": "To Upper-Case",
+        "info": ""
+    },
+    "8D0C4F2E982EC2451B3B29F4FD2E0A78AC54": {
+        "t": "To Lower-Case",
+        "info": ""
+    },
+    "2683C0C34985474F713910185340D35D3108": {
+        "t": "Movement",
+        "info": ""
+    },
+    "000ADEF46265D146AF5893C3E8B9A840397F": {
+        "t": "Masking",
+        "info": ""
+    },
+    "B3C0CE0A4E85B54E1B68EB012F73A2836E4F": {
+        "t": "Static",
+        "info": ""
+    },
+    "E50D81709483274B007A6BC1119E25347CBC": {
+        "t": "Dynamic",
+        "info": ""
+    },
+    "19C38D481D2B4947845AFB426AA83A22A24E": {
+        "t": "Out",
+        "info": ""
+    },
+    "636489127D19D648ED6BB357549054B90E98": {
+        "t": "In",
+        "info": ""
+    },
+    "03359F826080274E018A4693CE01C765D700": {
+        "t": "In/Out",
+        "info": ""
+    },
+    "B04840A62C08B644918821142386D7EEB014": {
+        "t": "Linear",
+        "info": ""
+    },
+    "99D9039B6FF24440998B5ED62A44E25D562A": {
+        "t": "Ease Quadratic",
+        "info": ""
+    },
+    "6DB3AC545EBEF747C56BB237892A2FE7DC6A": {
+        "t": "Ease Quartic",
+        "info": ""
+    },
+    "087E67D05860D644FC9A87C91B303A91E774": {
+        "t": "Ease Cubic",
+        "info": ""
+    },
+    "5101E7646B6A284EC5385FF42CC39E29BC20": {
+        "t": "Ease Quintic",
+        "info": ""
+    },
+    "9DEB76CD12AA024F65384215C8DF97C64463": {
+        "t": "Ease Sinusoidal",
+        "info": ""
+    },
+    "757243FE807A124F5058CEA6DC72BB24F1AD": {
+        "t": "Ease Exponential",
+        "info": ""
+    },
+    "22D2BB118D79E248023904E4E5DCF459C2B2": {
+        "t": "Ease Circula",
+        "info": ""
+    },
+    "99C246F7164A274FAF2AF3970B0883692E4E": {
+        "t": "Custom",
+        "info": ""
+    },
+    "7ED2EFE09A4BA440636A72C775C3D00A83AE": {
+        "t": "Layout-Based",
+        "info": ""
+    },
+    "ED0E4CA1976D854C5F8AC810864A28AF3E22": {
+        "t": "Wobble",
+        "info": ""
+    },
+    "DA61190939963742963810216A7BCE496C1B": {
+        "t": "Blur",
+        "info": ""
+    },
+    "C67866508B31F64A514B34A7F142277359CC": {
+        "t": "(Default)",
+        "info": ""
+    },
+    "C391D8A187BE754D3C48CC54E73980E75EB9": {
+        "t": "Fade",
+        "info": ""
+    },
+    "66679F92339DD144E21BBAF584980BF8105A": {
+        "t": "Path",
+        "info": ""
+    },
+    "505531C2919DF248B058F6C4664249FF5608": {
+        "t": "Points",
+        "info": ""
+    },
+    "376D9476064BA24775187795894CD3009687": {
+        "t": "Anchor",
+        "info": ""
+    },
+    "A4972EEB1026104D6B2BC9F4B0493B3D8B5F": {
+        "t": "Z-Order",
+        "info": ""
+    },
+    "7975782B2E59994D107B13C1801F5A299E12": {
+        "t": "Calculated",
+        "info": ""
+    },
+    "F566735230CD0440CA7BBC89B1EF3C783939": {
+        "t": "Zoom X",
+        "info": ""
+    },
+    "B6E9AFBC24F70744F83BC5432458C25DCB2C": {
+        "t": "Zoom Y",
+        "info": ""
+    },
+    "7C2566611D53564B0A4B8487ECE9DB247FC8": {
+        "t": "Index",
+        "info": ""
+    },
+    "130D916E55CD9841721804F4B47B6D8C3A5E": {
+        "t": "Power",
+        "info": ""
+    },
+    "D134DB1755C3394F602AAC137CA7CA1766DF": {
+        "t": "Orientation",
+        "info": ""
+    },
+    "2816AD5385AAD64876198AF593F7279A52D0": {
+        "t": "Passes",
+        "info": ""
+    },
+    "2AA1FF5A1F93584F8F585F9663B9498D3026": {
+        "t": "Range X",
+        "info": ""
+    },
+    "4CCA364F5644674BFA1AC0E973871C292D40": {
+        "t": "Range Y",
+        "info": ""
+    },
+    "68FB7C8F2A39144FAB3AC4D08FC63E65BEED": {
+        "t": "Offset-X",
+        "info": ""
+    },
+    "1649C7C95814084C5A89FF92313C8C60021D": {
+        "t": "Offset-Y",
+        "info": ""
+    },
+    "39F3501D5398B243109AC4E68EA163812B38": {
+        "t": "Motion Blur",
+        "info": ""
+    },
+    "4DAD1BF70B09254B8C7898E012FD7FAF15CC": {
+        "t": "Spawn Time",
+        "info": ""
+    },
+    "BE21611B4A0B334CE4092F34651F62808466": {
+        "t": "Dissolve Speed",
+        "info": ""
+    },
+    "35BFB2B03A010240B1781E034DAEA8180D68": {
+        "t": "Characters",
+        "info": ""
+    },
+    "1E5036322953C848A7891A68777FFAA29C88": {
+        "t": "Character Expressions",
+        "info": ""
+    },
+    "F34509AB7FBBB5408C6860012D0A129C0477": {
+        "t": "CG Gallery",
+        "info": ""
+    },
+    "F5B1B1A189E9A648009B8A2523684C56273A": {
+        "t": "Graphic from: Graphics/Backgrounds",
+        "info": ""
+    },
+    "7BEF3E523CC23849EA59CE711853B7A8B047": {
+        "t": "Graphic from: Graphics/Masks",
+        "info": ""
+    },
+    "CF6C086A0C0BD440F0686F193B3FFA8EEEEE": {
+        "t": "Graphic from: Graphics/Fonts",
+        "info": ""
+    },
+    "FB7C3D983DA5D2412D5893D6E1103C7FFA17": {
+        "t": "Live2D Model",
+        "info": ""
+    },
+    "84CE457A41C4274E3B7B6F835DFF95AE9EB0": {
+        "t": "Use Original Size in Preview",
+        "info": ""
+    },
+    "3C7AF57D142DA64380881F29E8EE7C4D0089": {
+        "t": "Disable Live-Preview",
+        "info": ""
+    },
+    "5300032F4EF1B248946A39B9F6894C855C5D": {
+        "t": "Disable Live-Preview Animations",
+        "info": ""
+    },
+    "047F2EF325B78649BA4981F4BF2CB82DCCE0": {
+        "t": "Stop Live-Preview Animations after:",
+        "info": ""
+    },
+    "DE930CA080E60641B969BFD1B028709AD8F2": {
+        "t": "Seconds",
+        "info": ""
+    },
+    "0FA7F1C046FA5147FE797224FABE32353D8D": {
+        "t": "Project Preferences",
+        "info": ""
+    },
+    "E050888A0C72774BEC7AE4728A586EA88F10": {
+        "t": "Select Location",
+        "info": ""
+    },
+    "B436C84A509BD844271A01178D592DF21DB5": {
+        "t": "Location - Drag to move image",
+        "info": ""
+    },
+    "B30ED82745B4434C1A09FE025BC5866F2EE0": {
+        "t": "Select Position",
+        "info": ""
+    },
+    "B36B17C48DADB44C7968D7B397DAC6694D6B": {
+        "t": "Image:",
+        "info": ""
+    },
+    "AF0EA7FD53E54248A25AEAE9D653D48AE7D1": {
+        "t": "Define Hotspots",
+        "info": ""
+    },
+    "F12DA9CB7F97A94C6E4BD5188F899805C688": {
+        "t": "Remove Hotspot",
+        "info": ""
+    },
+    "0B154C8E1B3B164154697313084074360E97": {
+        "t": "Hotspot Properties",
+        "info": ""
+    },
+    "A235787977C733443B3A4264217158BCAB70": {
+        "t": "Jump To:",
+        "info": ""
+    },
+    "6FB6C82D3E132340C06B35819EDFB2C3E873": {
+        "t": "Bind to Switch:",
+        "info": ""
+    },
+    "B33C09F54C76014F67881408BA247E115D28": {
+        "t": "Finish Image Map",
+        "info": ""
+    },
+    "5EA6ABA37482F7407E38F84070075BB7ABF2": {
+        "t": "Select Scene",
+        "info": ""
+    },
+    "FEB361B39516234ADE686A79992FF6AA1FA9": {
+        "t": "Add Expression",
+        "info": ""
+    },
+    "BFD6BD080E6D814B186BF8C3267121BA64E3": {
+        "t": "Select Position and Size",
+        "info": ""
+    },
+    "2DD5576B314560493B5ACDB32E6C8F750939": {
+        "t": "Preview Background:",
+        "info": ""
+    },
+    "016A6CB83417154EFB1BAB377B4229A39BAC": {
+        "t": "Preview Expression:",
+        "info": ""
+    },
+    "DC918FC7245E874A888B2FE103AF7F5D397E": {
+        "t": "Mass Edit",
+        "info": ""
+    },
+    "66CE9EBB3C7AC34F94681F0614829EE08D8B": {
+        "t": "Command:",
+        "info": ""
+    },
+    "28CEE33968FFD547223897A19718551FC5FC": {
+        "t": "Number Field:",
+        "info": ""
+    },
+    "C3FE01727AC94746117A85B98A18964B68DF": {
+        "t": "Text Field:",
+        "info": ""
+    },
+    "48C87A8F4A92D44CCE1B50A5DC5E3E782944": {
+        "t": "Script:",
+        "info": ""
+    },
+    "E9E7B6C664300341618952F967AA397BC063": {
+        "t": "Add Condition...",
+        "info": ""
+    },
+    "CA9291341741E846750926C538C5BE570B87": {
+        "t": "Conditions",
+        "info": ""
+    },
+    "4AB6BFD98229394AF5886A935443FC8FB2BB": {
+        "t": "Select Positio",
+        "info": ""
+    },
+    "C993387884B63643221AC4709B986C0A7ADE": {
+        "t": "Select Motion",
+        "info": ""
+    },
+    "79C3606A31A6A347B80AD628C0099CFE1421": {
+        "t": "Model:",
+        "info": ""
+    },
+    "322A2B56554536445E5ABA130AB588F93809": {
+        "t": "Select Expression",
+        "info": ""
+    },
+    "93B9D3A6536FB14D0F68D9A142B99F56D8C7": {
+        "t": "Select Motion Group",
+        "info": ""
+    },
+    "C167CCAE6B95034BD0686DE82A7E61ABE04F": {
+        "t": "Ordered",
+        "info": ""
+    },
+    "6679473022042043F64B6300B002D51638F9": {
+        "t": "Add Parameter...",
+        "info": ""
+    },
+    "D67B1AFB543C28405D7A1DD78E09EA015F8C": {
+        "t": "Default Value",
+        "info": ""
+    },
+    "70201A6E68418848B13804A22C69CB4E0C81": {
+        "t": "Create Path",
+        "info": ""
+    },
+    "382A0342699354493E8BF94468DDAAFD5ECD": {
+        "t": "Background:\"",
+        "info": ""
+    },
+    "5C2EA0E911FBB248233979F0584E86F163BA": {
+        "t": "Current Point",
+        "info": ""
+    },
+    "7346708F6C428948838A55915FC2219234E5": {
+        "t": "Mirror Vertical",
+        "info": ""
+    },
+    "25000FCC8A79834A32687D16B055DAC0C97B": {
+        "t": "Mirror Horizontal",
+        "info": ""
+    },
+    "2F900000830514418088F708D266FC9AB181": {
+        "t": "Rotate 90°",
+        "info": ""
+    },
+    "D55727475B96D54564690365FB30AC10DB27": {
+        "t": "Effects...",
+        "info": ""
+    },
+    "465CABD91101F14F1B6AF694AD253C001742": {
+        "t": "Path Effect",
+        "info": ""
+    },
+    "97BE81633CEF424C849BA933FDD4F5F595F5": {
+        "t": "Select Chapter",
+        "info": ""
+    },
+    "90ADB07897A5B7481788BF56258A623D8AB1": {
+        "t": "Section Selection",
+        "info": ""
+    },
+    "BCECEF252F86D3433D1ADAC74637B26421FB": {
+        "t": "Section:",
+        "info": ""
+    },
+    "464C26FA0070A5446B1A26A41455F93937E9": {
+        "t": "Position & Size",
+        "info": ""
+    },
+    "B3FD2AAA285DE943153AEB474FD525FB2E04": {
+        "t": "Flipped",
+        "info": ""
+    },
+    "60BC56D970EAD946C16B0AC660BB0400D480": {
+        "t": "Default Expression:",
+        "info": ""
+    },
+    "0E078F2A6D5C43478F3A330961FCDE245406": {
+        "t": "Voice Settings",
+        "info": ""
+    },
+    "51BB82444B1B6949245A9FA49486F698201A": {
+        "t": "Time Talking-Animation to Voice-Volume",
+        "info": ""
+    },
+    "0F2D8FF337901443FF1AED56228AC41927C2": {
+        "t": "Talking-Volume:",
+        "info": ""
+    },
+    "9B8DF8B55A40534645892DA4DDE096443EC6": {
+        "t": "% or above",
+        "info": ""
+    },
+    "230DC3740B45A74C474B7F98EB2D2DF49445": {
+        "t": "Idle Expression (Multiple for Animation)",
+        "info": ""
+    },
+    "5ED4326764F70746018B92F5BB6B6A2B9774": {
+        "t": "Trigger Time:",
+        "info": ""
+    },
+    "D4AAFD371E3EB749F22A9E0555309080C82E": {
+        "t": "ms ~",
+        "info": ""
+    },
+    "7D1C60DF75925347D17BF4955D1B4B4B3FF1": {
+        "t": "Add...",
+        "info": ""
+    },
+    "E8475D0A2036664E5A08DA31E4512A1ED63B": {
+        "t": "Talking Expression (Multiple for Animation)",
+        "info": ""
+    },
+    "0E80B1833C3F0548517BD5B87CA6E9BB8EB3": {
+        "t": "Listed",
+        "info": ""
+    },
+    "FB9DE68F9BDDD24718887DE7938EB917E954": {
+        "t": "Chapter:",
+        "info": ""
+    },
+    "A29C81FC5B01F34C4B5B2A82F5A27E4B73BF": {
+        "t": "Graphic & Thumb",
+        "info": ""
+    },
+    "60CEDBFE439BC6413B68294545AC39B5C110": {
+        "t": "Auto Preload",
+        "info": ""
+    },
+    "5DFEA9BA679B70467A8BB0E18E8EEE2C4C50": {
+        "t": "Scene Content",
+        "info": ""
+    },
+    "D2A8640754658347865832430F149F6F006D": {
+        "t": "Predefined Resolution:",
+        "info": ""
+    },
+    "4264A7E97E9093452D4A23D71FBEE3C3B293": {
+        "t": "Custom Resolution:",
+        "info": ""
+    },
+    "ABE2A68382D9A845B7383B67547FE4E7C7B0": {
+        "t": "Start Scene:",
+        "info": ""
+    },
+    "F616558C36FDD34263680E7616613772EEC6": {
+        "t": "Intro Scene:",
+        "info": ""
+    },
+    "2CFDF9AD0775D346672B9E355264AD8032D7": {
+        "t": "Save Slots:",
+        "info": ""
+    },
+    "E36D5C8E233D114A798A7CB3FEF527BF00D2": {
+        "t": "Store Game Data in Working Directory",
+        "info": ""
+    },
+    "3341523F06B25140F91830A68328B0538F60": {
+        "t": "Store Game Data in App Data Directory",
+        "info": ""
+    },
+    "1302A9F115BC16453A68549103536DEFA50C": {
+        "t": "Store Game Data in Internal Storage",
+        "info": ""
+    },
+    "F256ED2727B3D648290BC00697EB67CD8667": {
+        "t": "Title Screen:",
+        "info": ""
+    },
+    "C922080E7F0E7546AE5AFDD69408B9E7EC57": {
+        "t": "Language Menu:",
+        "info": ""
+    },
+    "AB9FE1468A22C240858BA661FA75B4D78042": {
+        "t": "Load Game:",
+        "info": ""
+    },
+    "01B9EB7647B8484DEA5B1397EDF511FAFAC7": {
+        "t": "Save Game:",
+        "info": ""
+    },
+    "1795AD932F2B2243E2784CB8F9C06D807D62": {
+        "t": "Quit Game:",
+        "info": ""
+    },
+    "2D248768486E064A7C5AD791F6FD2F5BC139": {
+        "t": "Sound 1:",
+        "info": ""
+    },
+    "0B22F84D2188764ADD3A6D684897CAD2574D": {
+        "t": "Sound 2:",
+        "info": ""
+    },
+    "61BDC2EA41E1704C77399857474575DA4ABB": {
+        "t": "Sound 3:",
+        "info": ""
+    },
+    "918F764366582649FB3A29C0F700C400A2D7": {
+        "t": "Sound 4:",
+        "info": ""
+    },
+    "7A2DCB1E7122C4433D9925427CDFEB8473D5": {
+        "t": "Sound 5:",
+        "info": ""
+    },
+    "EC84143B686FE44B6568CEE7F29E4A0E86F6": {
+        "t": "Sound 6:",
+        "info": ""
+    },
+    "173B2AC5473EA54CED599175DFBF7FA44D17": {
+        "t": "Sound 7:",
+        "info": ""
+    },
+    "0A5DA2269AE310436B6A18174D5F07B655D5": {
+        "t": "Sound 8:",
+        "info": ""
+    },
+    "A70AF6111BB237404B586867CCCE8D61C7A2": {
+        "t": "Text-Input Letter-Set",
+        "info": ""
+    },
+    "EA77CE69221176494C49E2282ECC794FFD0A": {
+        "t": "Page 1-1:",
+        "info": ""
+    },
+    "393F5FF34B97D443661918341B97DEA53810": {
+        "t": "Page 1-2:",
+        "info": ""
+    },
+    "142F1D853C7014427A2B6466845CB8EA56EB": {
+        "t": "Page 2-1:",
+        "info": ""
+    },
+    "F53538A53052214A0279D0E4B56018356157": {
+        "t": "Page 2-2:",
+        "info": ""
+    },
+    "D363EE6571A9234E5D58600747E5C9BFEDBC": {
+        "t": "Cursor",
+        "info": ""
+    },
+    "D88DE7125ABD244CE69AFBE59DFE7B0FCCC9": {
+        "t": "Cursor Click-Point:",
+        "info": ""
+    },
+    "06CC218B5329054AF30B18D878849CB84D7E": {
+        "t": "Language Screen",
+        "info": ""
+    },
+    "5CC7B3824850F8433169D2D3056031C4E46D": {
+        "t": "Menu Background",
+        "info": ""
+    },
+    "6E6A55971BE4664E2D89AC97DED89BC4DF08": {
+        "t": "Blend Mode",
+        "info": ""
+    },
+    "32F17F821FDDB549AF7BA976B635550E6F8B": {
+        "t": "Disable Live-Preview Music",
+        "info": ""
+    },
+    "6B400E5B638E2647501A3626C03A05CCD9CD": {
+        "t": "Disable Live-Preview Sound",
+        "info": ""
+    },
+    "FC60E25F5307114AEA68DEC1680C1C3F1D9A": {
+        "t": "Disable Live-Preview Voice",
+        "info": ""
+    },
+    "555A5AA74D4DE94B731AFC29569F92667786": {
+        "t": "Text Motion Blur",
+        "info": ""
+    },
+    "0415B5A101FC774A1B7B59F29BFC3A7D9453": {
+        "t": "About Visual Novel Maker",
+        "info": ""
+    },
+    "A54F7A392E21044CB818AF7400AEA9E0F869": {
+        "t": "Preferences",
+        "info": ""
+    },
+    "FD05BEB0914A9348528A57E1249E5A32D5C3": {
+        "t": "Project...",
+        "info": ""
+    },
+    "A536367D128AF247190817A08F313DE369C0": {
+        "t": "Application...",
+        "info": ""
+    },
+    "D1057FD649197844414904D08688E607276E": {
+        "t": "No Title",
+        "info": ""
+    },
+    "255CFE572F6C9340384AFDB0D0B5EB15C884": {
+        "t": "Find",
+        "info": ""
+    },
+    "8D1473935C73254E3419DE66DED7115C5502": {
+        "t": "Live Preview",
+        "info": ""
+    },
+    "2C2878CE669C1243E0683D271EBCD5A94192": {
+        "t": "Do you really want to quit Visual Novel Maker? You will lose all unsaved changes of your project.",
+        "info": ""
+    },
+    "75E54AB23EA8524A882955A21E103B08C08F": {
+        "t": "Do you really want to quit %s? Unsaved data will be lost!",
+        "info": ""
+    },
+    "CDB54B7C1DED094C894893E9D615A3D5F2FD": {
+        "t": "Do you really want to close current project? You will lose all unsaved changes of your project.",
+        "info": ""
+    },
+    "26E30F318A82E94FE25A8524DB210BAE1AF1": {
+        "t": "Detach",
+        "info": ""
+    },
+    "2A876CE632C46541DD2915901A61D89FF466": {
+        "t": "Attach",
+        "info": ""
+    },
+    "E822666B353424449A59361750A014662F15": {
+        "t": "Generate UID",
+        "info": ""
+    },
+    "90ECB871692A1547B77AEF44E74EA6F372E3": {
+        "t": "Application Preferences",
+        "info": ""
+    },
+    "B65EBB121D6E1248B749FD54FC5C6F2CD77F": {
+        "t": "Default Project Location:",
+        "info": ""
+    },
+    "5ECCFCD57C3BE3470C787DE51B684D9FD8BD": {
+        "t": "Default Output Location:",
+        "info": ""
+    },
+    "2B7B64D45042764A088BB2D8939DD8BEDA12": {
+        "t": "Language:",
+        "info": ""
+    },
+    "62899A583E583848211A3C58B238B4E622A1": {
+        "t": "Scene-Command Size:",
+        "info": ""
+    },
+    "F08509023C64444FEB88A3F042DD965B9358": {
+        "t": "Small",
+        "info": ""
+    },
+    "6A48CAF4633C3040DA780DA3831D7C18EAD7": {
+        "t": "Large",
+        "info": ""
+    },
+    "DE727F6A50170247B76A57B0C1FF8AD38E49": {
+        "t": "Enable Live2D",
+        "info": ""
+    },
+    "D4C9C2E0621C914AE358A1676EEFDBAFF299": {
+        "t": "Some of your changes will only take affect after restarting the application",
+        "info": ""
+    },
+    "69D6ECE55871814930696977AC8CC433B838": {
+        "t": "Language...",
+        "info": ""
+    },
+    "669AAA0C24BCC44EDB583963F8A516C545E8": {
+        "t": "Version %s",
+        "info": ""
+    },
+    "7294428439ACD444FA09178049A8DAA16B20": {
+        "t": "Error",
+        "info": ""
+    },
+    "4A6604756FF2E14FF74850E83E6951713BF2": {
+        "t": "Processing Objects",
+        "info": ""
+    },
+    "4CC8B338416D7147283A94C5421A053A307C": {
+        "t": "Object %s",
+        "info": ""
+    },
+    "490BA54E0053274C6F7B12B18AC17A521B54": {
+        "t": "An error occured while compiling extension: %s",
+        "info": ""
+    },
+    "7F8EB2F02717D0412F6B6079127CD43F2392": {
+        "t": "Compiling '%s'...",
+        "info": ""
+    },
+    "820DA9522084A64E354B02D7FCA3622E556D": {
+        "t": "Compiling Game Scripts...",
+        "info": ""
+    },
+    "F873EB0C035A144C02994C23CDF246F3D792": {
+        "t": "An error occured while compiling script: %s",
+        "info": ""
+    },
+    "3E1494F5192A804F910954339C393C57722D": {
+        "t": "Install Script:",
+        "info": ""
+    },
+    "C9441E6B39F2B349243830F86A16FCCE10E3": {
+        "t": "Uninstall Script:",
+        "info": ""
+    },
+    "D01E9A736FE8224172283214E99A70B90C83": {
+        "t": "Scripts:",
+        "info": ""
+    },
+    "053B1F2A05178447800B16049FC9E57CB963": {
+        "t": "The selected document is not a script.",
+        "info": ""
+    },
+    "53E9B97C26FC3348E15BC43522FC7518DA64": {
+        "t": "Extension successfully created!",
+        "info": ""
+    },
+    "D7A0FBE46AA6E64C651A76A52917CA7CC73D": {
+        "t": "Sort by ID",
+        "info": ""
+    },
+    "45642A472D2EC6412D0AD57850C5FCF1DC7F": {
+        "t": "Download exported records",
+        "info": ""
+    },
+    "B56DABAC6106214CB33BF8504E728491FEDB": {
+        "t": "Flip Horizontally",
+        "info": ""
+    },
+    "8731ED6F3C16F74A92595C7436566E95A630": {
+        "t": "New Document",
+        "info": ""
+    },
+    "5DB817C66B272649A51A4FF6E30CA1CAC328": {
+        "t": "No Fields",
+        "info": ""
+    },
+    "D176D827023543407F2B79D42BF02B51BF77": {
+        "t": "Install Sections Only",
+        "info": ""
+    },
+    "51E87CDB76B3C5459549F1D01C60E1DF919A": {
+        "t": "Add Section...",
+        "info": ""
+    },
+    "E9D0A2533671534B317857223B54F1307AD1": {
+        "t": "Error while executing install script.",
+        "info": ""
+    },
+    "3BFD86FB3765664F0A1B9A92916EFD8B2524": {
+        "t": "Error while parsing install script.",
+        "info": ""
+    },
+    "3907A19808F006421139D4E1CB1890C670A8": {
+        "t": "The extension tries to modify a document(%s) which was already modified by another extension(%s). Please deactivate the other extension and try again.",
+        "info": ""
+    },
+    "3A6B0FA094E8634CF04B1C64ECD8F016B90D": {
+        "t": "The extension tries to modify a game script(%s) which was already modified by another extension(%s). Please deactivate the other extension and try again.",
+        "info": ""
+    },
+    "060F3A1D645E9644137BC806767D69F3CBC0": {
+        "t": "Error while uninstalling resources.",
+        "info": ""
+    },
+    "4FB8283414F363490D1A5E45D6D118A8F238": {
+        "t": "Executing Install Script...",
+        "info": ""
+    },
+    "182DFC7C55DAF24F99088DE0C584ECCE4D9A": {
+        "t": "Error while installing plugin.",
+        "info": ""
+    },
+    "874657FD73ADE54EF6984613FFB89FAE9B95": {
+        "t": "/* New Objective-J Document */",
+        "info": ""
+    },
+    "96A28B291538464CD07B6174ADF870136B4E": {
+        "t": "/* New JavaScript Document */",
+        "info": ""
+    },
+    "736673626EC83142D39B83525D39069A1A63": {
+        "t": "New",
+        "info": ""
+    },
+    "3894D29369F1E549F63885151F84A538DF3E": {
+        "t": "Data Record View...",
+        "info": ""
+    },
+    "9C0701DD490261428E491FE6A76A04902EA3": {
+        "t": "Scene Command...",
+        "info": ""
+    },
+    "C2BD585F78EFB54F3F2BF1093200A04E6CFC": {
+        "t": "Custom View...",
+        "info": ""
+    },
+    "C0FFAAE87FB2284BBE7BC241087A4C5C233D": {
+        "t": "JavaScript File...",
+        "info": ""
+    },
+    "822EE29242B6E24150084D2234FDF5FC43A5": {
+        "t": "Objective-J File...",
+        "info": ""
+    },
+    "FA20379E83EEF243E368FFC35A88FC056839": {
+        "t": "Language Bundle...",
+        "info": ""
+    },
+    "D9D12CB9882BC7488B5915C8E3E1CEE62715": {
+        "t": "Folder...",
+        "info": ""
+    },
+    "C49F1DDC6B087441351B1C455938528030D7": {
+        "t": "Insert Localized String",
+        "info": ""
+    },
+    "5E7A1C0819B3C840C89AE7789D0D1F55DBD7": {
+        "t": "Bundle Name:",
+        "info": ""
+    },
+    "FA2133EB4266D6457959D1E75A873EF3D999": {
+        "t": "An error occured while evaluating script",
+        "info": ""
+    },
+    "901CB57469C1344C371953D9028D700F1EAC": {
+        "t": "An error occured while compiling objective-j file",
+        "info": ""
+    },
+    "1CAD3129601E9846E62B4F85F7EC9F7E8388": {
+        "t": "Game Package",
+        "info": ""
+    },
+    "799503E104C581466B7AEBE8D4033796647C": {
+        "t": "Platforms",
+        "info": ""
+    },
+    "E1FEF1DF40EC304C28580713D0D487D25F33": {
+        "t": "Windows",
+        "info": ""
+    },
+    "A12BA620160FB84BDA8A5810FFA16D611C7C": {
+        "t": "Mac OS X",
+        "info": ""
+    },
+    "F26D88451177D844F79A983097ACF7CD9344": {
+        "t": "Linux Ubuntu",
+        "info": ""
+    },
+    "6B21D26038181846CA5A1CE1923B49602632": {
+        "t": "Steam OS",
+        "info": ""
+    },
+    "78D43DFB8CA6574E7B5BFF067C39D8FC78DF": {
+        "t": "Android",
+        "info": ""
+    },
+    "62D6891A82E9944D801B6803E5346157BFCE": {
+        "t": "iOS",
+        "info": ""
+    },
+    "6B0A2E606C72864EA94801528694ACCF698F": {
+        "t": "Output Folder:",
+        "info": ""
+    },
+    "F25AB57F7F24C847638B33B864636D0E087F": {
+        "t": "Architecture:",
+        "info": ""
+    },
+    "ACC2BDE00F3C05466D28FDD40A35B767773C": {
+        "t": "32 Bit",
+        "info": ""
+    },
+    "5E70AC6E2E8AB3441338DC8536D2CB08F8CA": {
+        "t": "64 Bit",
+        "info": ""
+    },
+    "C23D3C58501EF845D5497F93C99FF9831048": {
+        "t": "Encrypt Content",
+        "info": ""
+    },
+    "3791771041A55745946A1FF594E70A5BF005": {
+        "t": "Merge with Executable",
+        "info": ""
+    },
+    "61F8A22F10D47242014A4966D0A5BA428926": {
+        "t": "The output path does not exist.",
+        "info": ""
+    },
+    "BE5BC73B2C827741432A28B1B5E24833C186": {
+        "t": "Cannot write to output path. Please check permissions.",
+        "info": ""
+    },
+    "5621EBED4CD92849730AB5A52FB57F5F8EB7": {
+        "t": "Package successful created!",
+        "info": ""
+    },
+    "3CF778DC3C277244FF6A5297BB8366018FA5": {
+        "t": "Offline",
+        "info": ""
+    },
+    "8CFA5CA572248348730BAA02BCA8A413542A": {
+        "t": "Project creation failed. The selected location does not exist.",
+        "info": ""
+    },
+    "C32778A7665418478C29F6993A0D361C96DB": {
+        "t": "Project creation failed. A project with that name already exists. Please use an other project name or select an other project location.",
+        "info": ""
+    },
+    "27011E0B4DFEC04D826AEB330BEB6BCB2AB8": {
+        "t": "Location:",
+        "info": ""
+    },
+    "B01DB19898B6874DB62BC9A3CCB7F90A0829": {
+        "t": "The project does not exist on disk and has been automatically removed from the recent project list.",
+        "info": ""
+    },
+    "7BC70C3037F6A4484848B4B92AD92B75D24C": {
+        "t": "The project is already opened.",
+        "info": ""
+    },
+    "E263315712968841B91BC8546BF591567F45": {
+        "t": "The project is already open in another instance of Visual Novel Maker.",
+        "info": ""
+    },
+    "797810151AB533400D294B079DBB995A1549": {
+        "t": "Import CSV...",
+        "info": ""
+    },
+    "11C03B804226674B0E2989E078941EAFD59A": {
+        "t": "Export CSV...",
+        "info": ""
+    },
+    "91200E8C2CC1A848CF2AC4106F7B55F0E84F": {
+        "t": "New Text",
+        "info": ""
+    },
+    "4EE7F7DD23A61245A27907D1E767BE933ADE": {
+        "t": "Edit Text",
+        "info": ""
+    },
+    "F165C1FA59C156434B1A9F411D35C88AF498": {
+        "t": "Copy ID",
+        "info": ""
+    },
+    "715ABF3F56999941A03A3E8434A7EC8130B5": {
+        "t": "Scenes",
+        "info": ""
+    },
+    "D99673251AF981412B393E56C277833274E1": {
+        "t": "Custom Texts",
+        "info": ""
+    },
+    "6F5E88FC081186499378B561EF5CA523E68D": {
+        "t": "Language Profile",
+        "info": ""
+    },
+    "2D3399D8528B184FB97866088B7E9DF39257": {
+        "t": "Importing CSV files...",
+        "info": ""
+    },
+    "B4FB170F8FE45847E96BEC660BF553327E0F": {
+        "t": "Accept",
+        "info": ""
+    },
+    "A35F225060FE2546B038A63689ECDCF35D14": {
+        "t": "Reject",
+        "info": ""
+    },
+    "6ECAEC3B6A2AA14E288BB2B61389E39EC10F": {
+        "t": "Show Live2D SDK Terms & Conditions",
+        "info": ""
+    },
+    "AF5485776FC2A6431679F948A2EB7BF6E852": {
+        "t": "%s Parameter",
+        "info": ""
+    },
+    "BB50A90C6552B840753859513906F1BAA0E1": {
+        "t": "Select Record",
+        "info": ""
+    },
+    "EAE3A1407242364EA38920677E1C6CC2FCDD": {
+        "t": "New Scene",
+        "info": ""
+    },
+    "DC1C70E28A4D5741EF38C4E85677AF98D4BF": {
+        "t": "Delete Chapter",
+        "info": ""
+    },
+    "5A422BF86025734B0C9A88373BC186293735": {
+        "t": "Mass Edit...",
+        "info": ""
+    },
+    "254DD03A84ACA442F24921054C2214DD0E54": {
+        "t": "Are you sure that you want to delete the selected chapter with all its scenes?",
+        "info": ""
+    },
+    "37FCC3E17209D74D3D48F863EA504AFBDEA3": {
+        "t": "An error occured while evaluating script: %s\\n\\nPlease check your scripts in extension view.",
+        "info": ""
+    },
+    "F15357E12F62844BA2880F2267C606D46EA3": {
+        "t": "Creating project...",
+        "info": ""
+    },
+    "26A2F2B263D3C3427478ED57CBB7CAD32D23": {
+        "t": "Adding team project...",
+        "info": ""
+    },
+    "6AFABB0A8719B643780971D7CC33D7525193": {
+        "t": "Deleting project...",
+        "info": ""
+    },
+    "CA55C9AD5E523442399986A6BB75C176B72E": {
+        "t": "Opening project...",
+        "info": ""
+    },
+    "589571964669014AE8889BE05686BACC75D3": {
+        "t": "Closing project...",
+        "info": ""
+    },
+    "43206EEE174713494269799910311955CBB8": {
+        "t": "Creating Backup...",
+        "info": ""
+    },
+    "A9F7DC5F1FDAC1467A0A7AC34E425EAF6C43": {
+        "t": "Project Store Mode",
+        "info": ""
+    },
+    "C1E7A7E02804B44411094157570FB7BD54BF": {
+        "t": "Your project is currently in online mode. If you change it to offline, all your project data will be transfered to the internal storage of your webbrowser so that you can work without a persistent internet connection.\\n\\nDo you want to switch to offline mode?",
+        "info": ""
+    },
+    "81C6FCA158DC094A3849E6C3C8D78A71CB0C": {
+        "t": "Can't create project because a project with the name '{0}' already exists",
+        "info": ""
+    },
+    "1B481C685BAB594A9B2B8048282B16B04262": {
+        "t": "Project creation failed. The selected project template doesn't exist.",
+        "info": ""
+    },
+    "C6A6656603555642AF3B26C70326845B120A": {
+        "t": "Project creation failed.",
+        "info": ""
+    },
+    "BBBC95CE9E432547F75A88801A0ADD17AA9E": {
+        "t": "Can't remove project directory '{0}'",
+        "info": ""
+    },
+    "A27F135D8C181044801A76C1B9543D5F7338": {
+        "t": "Resources successful exported!",
+        "info": ""
+    },
+    "A0B2EB11807728475B783DA34F95DC069546": {
+        "t": "Export Error",
+        "info": ""
+    },
+    "76F9A69A3CAFB5443B4B21C47A6189A0BB79": {
+        "t": "No write-access at the selected export location.",
+        "info": ""
+    },
+    "4018CE9F268D4146184B77C18F949BB030CB": {
+        "t": "Error while importing resources.",
+        "info": ""
+    },
+    "8090E37773BFD445F84B0087784244DABFA9": {
+        "t": "Empty Name",
+        "info": ""
+    },
+    "6456784F50E1F748D459394463F2A66F6F96": {
+        "t": "Empty names are not allowed.",
+        "info": ""
+    },
+    "199E5DFB5EB674416D6AE5C2DE830D439E18": {
+        "t": "Saving Project...",
+        "info": ""
+    },
+    "5DC4CA812F84454A98094DB74145C6328D2E": {
+        "t": "Copy as Text",
+        "info": ""
+    },
+    "B639E34F2D1D394E8E7B06D6CAA1FB6E3369": {
+        "t": "Finished",
+        "info": ""
+    },
+    "E02EE8788532E44D2E38AF3734A7B663F2A1": {
+        "t": "Search Result",
+        "info": ""
+    },
+    "48DF54828D2DB44B7B4996A7DF53E583A63D": {
+        "t": "Whole Word",
+        "info": ""
+    },
+    "7C125F573CBBD940563A9763F23FF2597900": {
+        "t": "Case Sensitive",
+        "info": ""
+    },
+    "D945C2B63293C34AC91ADFE2C1F4C43CE019": {
+        "t": "Search:",
+        "info": ""
+    },
+    "A0A78582166EB646F94AC0D8D3A8F8F68964": {
+        "t": "Search",
+        "info": ""
+    },
+    "44A47C1A53CCC74CB85872E77EF8D3AA8A21": {
+        "t": "Search All",
+        "info": ""
+    },
+    "5F803144624F23423C5A0D784EC55FB30472": {
+        "t": "Existing Phrases",
+        "info": ""
+    },
+    "EB69A4F91B7C364BCC5AA37992BB22575096": {
+        "t": "UID",
+        "info": ""
+    },
+    "B62B642B21621343122A3B7488AF1AA85216": {
+        "t": "New Phrase",
+        "info": ""
+    },
+    "6DBBB8BB19E00646938AD2702224CA75A047": {
+        "t": "Info Text:",
+        "info": ""
+    },
+    "1F6BB2E38006F240556A3945A823C083A74B": {
+        "t": "Search All...",
+        "info": ""
+    },
+    "73DB866A6E7D9243B02B69B07B9108733812": {
+        "t": "INVALID_RECORD",
+        "info": ""
+    },
+    "4E3B98CC35ABC442A669B8D92701E23A5044": {
+        "t": "Unknown Task...",
+        "info": ""
+    },
+    "B116A1AD7270F64B586A9BC226DE6F1F23F8": {
+        "t": "You sucessfully migrated your project to the latest version!",
+        "info": ""
+    },
+    "EDFF204A802AA1462F1BE055C8D8A19E2FA9": {
+        "t": "Migration successful!",
+        "info": ""
+    },
+    "3365F2DB5840444BBA794DF397BEC1DBB938": {
+        "t": "The migration to version %s failed for some reason.",
+        "info": ""
+    },
+    "0FBF07318D945348E41A1FF8D02AD564960E": {
+        "t": "An error occured while migrating to version %s:",
+        "info": ""
+    },
+    "CB3BC9F75F114848B40A21502266C5240E89": {
+        "t": "An error occured while compiling & running migration %s script:",
+        "info": ""
+    },
+    "7B7BA2C11574654A1028F7265796E6611B33": {
+        "t": "Migrating to version %s...",
+        "info": ""
+    },
+    "3CFFA6EE42728745763BB95120E464DF6180": {
+        "t": "An error occured while reading migration %s",
+        "info": ""
+    },
+    "C01E171300CA414DF89B48E1DE883224B89B": {
+        "t": "The migration package for version %s does not exist in migrations folder. Please contact our support.",
+        "info": ""
+    },
+    "DB67832252F5B140858855E1C2589F10AE6A": {
+        "t": "Checking for updates...",
+        "info": ""
+    },
+    "64D4ABA05552D44C542B22239362DF2E6D2D": {
+        "t": "Persistent",
+        "info": ""
+    },
+    "CEEB40E167B243405779F5130549363A9432": {
+        "t": "Change Maximum",
+        "info": ""
+    },
+    "794D5357650143492118D9D161118F8492C3": {
+        "t": "Are you sure that you want to delete the selected scenes?",
+        "info": ""
+    },
+    "52475DDF0B1D44446E692A922EFCA9B1822A": {
+        "t": "Delete Scenes",
+        "info": ""
+    },
+    "FC346ECD6C6E0648EA395C482C9B2B9D6C0A": {
+        "t": "Set as Intro Scene",
+        "info": ""
+    },
+    "887B26F62681A34D8F3AADC3EBEE6C5D74A4": {
+        "t": "Set as Start Scene",
+        "info": ""
+    },
+    "014002646CA85643CB880FF20266B3B996C0": {
+        "t": "New Scene...",
+        "info": ""
+    },
+    "A9449AC18121434DEF4A153226F84997880C": {
+        "t": "Area",
+        "info": ""
+    },
+    "871656EB36CBB94E2D1923E7D45CD9979C66": {
+        "t": "Set Message Area",
+        "info": ""
+    },
+    "63BE94B67D35D64B3F8B4694F9D98152E87E": {
+        "t": "Set Message Target",
+        "info": ""
+    },
+    "9EE49C4748EA924EBC1A42314FA16F2060AD": {
+        "t": "Create Message Area",
+        "info": ""
+    },
+    "1710324E4F927843FF49EB8266ABC9F9F8A1": {
+        "t": "Erase Message Area",
+        "info": ""
+    },
+    "B67AD5A777D39842F95B5EA622E4F4A4792E": {
+        "t": "Backlog",
+        "info": ""
+    },
+    "B672610F7EA71743CB398255B711F4E82E31": {
+        "t": "Save Menu",
+        "info": ""
+    },
+    "BB2B7B10593EB645BC89A6F3523F1228E03B": {
+        "t": "UI Access",
+        "info": ""
+    },
+    "14E936AB31B9B74F033BF777E2C885454E14": {
+        "t": "Menu Access",
+        "info": ""
+    },
+    "CF731B2494F0104CB47A20F9D7EEA0CECEDC": {
+        "t": "Load Menu",
+        "info": ""
+    },
+    "52E2B8291E58F74BCA0BCAB906C31A14C8E8": {
+        "t": "Predefined",
+        "info": ""
+    },
+    "5AB41BF042576846122B59445BBF64F9669C": {
+        "t": "Predefined Object Positions",
+        "info": ""
+    },
+    "99F20B8338E7C04A7D59AFA51B44784D2D0A": {
+        "t": "New Position...",
+        "info": ""
+    },
+    "C1E5CEAE0D38F74D664B84A1E19EA9B66026": {
+        "t": "Call Scene",
+        "info": ""
+    },
+    "FB6FF0B60608D546469B9BC1228FDA49CE7B": {
+        "t": "On Select",
+        "info": ""
+    },
+    "9EB24AEE1FF3344CC218F525AD267BC8A65F": {
+        "t": "Zoom Screen",
+        "info": ""
+    },
+    "7B55323352F1F14E0198B3F8CA0B97EDBD76": {
+        "t": "Pan Screen",
+        "info": ""
+    },
+    "3F586F569C312147CD48C980F59A088FD2B3": {
+        "t": "Rotate Screen",
+        "info": ""
+    },
+    "74C4502F391A6840317B96E8882717E3EC42": {
+        "t": "Tint Background",
+        "info": ""
+    },
+    "272673AEKE288A48D0SB8D7EEFF528276A59": {
+        "t": "Layer",
+        "info": ""
+    },
+    "B414D85F98A9224529680B93AE2D3CAFAE58": {
+        "t": "Scene Editor",
+        "info": ""
+    },
+    "9BDCE5871559E14FB47B408575634BE1D64A": {
+        "t": "Build Configurations",
+        "info": ""
+    },
+    "0A044EE93597C84D728A3664F090FE13C20A": {
+        "t": "Run Configurations",
+        "info": ""
+    },
+    "AAC4E1A2247446486418E391F2FB0E401A7F": {
+        "t": "Environment",
+        "info": ""
+    },
+    "C57EEC2D62ECC648245A3B5156487CC1FF7A": {
+        "t": "Game Test",
+        "info": ""
+    },
+    "F9028FAA7EF250483B6945690E15828319CE": {
+        "t": "Default Run:",
+        "info": ""
+    },
+    "C8ACE86841CF744F2C8BDF05C8A889188833": {
+        "t": "Default Build:",
+        "info": ""
+    },
+    "1900B778129D7641F18BBC3080765F7BB0CF": {
+        "t": "Environment Variable",
+        "info": ""
+    },
+    "A18DF6480DA85343C939B6D2FC3DEC126626": {
+        "t": "Working Directory:",
+        "info": ""
+    },
+    "B634DCD0186575476659E016566E8975604C": {
+        "t": "Command Line:",
+        "info": ""
+    },
+    "1F2887654855D64A52192FD6843F85593A26": {
+        "t": "Phase",
+        "info": ""
+    },
+    "ED70F8A61519E44EC148CFE3D89FB09521F9": {
+        "t": "Command Line",
+        "info": ""
+    },
+    "B9B42E9C6610E8453B198FE635BDD10F41CE": {
+        "t": "Add Phase",
+        "info": ""
+    },
+    "3F040FB201B0A840D36B3B812245FFA1CE5F": {
+        "t": "Run Phases",
+        "info": ""
+    },
+    "B0630A574CE864436719A353842826D4F82E": {
+        "t": "Build:",
+        "info": ""
+    },
+    "271AE8B92450D242CE99F9144E1FF2D324E4": {
+        "t": "Run Configuration",
+        "info": ""
+    },
+    "B2B4D2037106F84DE019BA4236C54964BA53": {
+        "t": "Build Phases",
+        "info": ""
+    },
+    "9E6DF73D70CB9847758A4623E502AB980B12": {
+        "t": "Build Configuration",
+        "info": ""
+    },
+    "1C8898BD4669D44DD47B5023954BF7F0EB29": {
+        "t": "Game ID:",
+        "info": ""
+    },
+    "0536EF8B8BA8B54C395AED0857AE23694158": {
+        "t": "Orientation:",
+        "info": ""
+    },
+    "BF5C98E76A1E5240CE1AD63918520B041954": {
+        "t": "Any",
+        "info": ""
+    },
+    "EEE255B56B0372471698FAC17BD35C375AA4": {
+        "t": "Portrait",
+        "info": ""
+    },
+    "16DA3E065667D0486C4A4B48102A2831176E": {
+        "t": "Landscape",
+        "info": ""
+    },
+    "481A801D615D154E041942F88D08D9459888": {
+        "t": "E-Mail:",
+        "info": ""
+    },
+    "A997984A3DA7204B8E5B64D6438B4BA1EBAB": {
+        "t": "iPhone Developer",
+        "info": ""
+    },
+    "BC276F0712A30744D829DFB42BE406E9043E": {
+        "t": "iOS Deployment",
+        "info": ""
+    },
+    "1918AB8650AE3747ED298751EE5F87D42AEE": {
+        "t": "Code Sign Identity:",
+        "info": ""
+    },
+    "424C37B7414407472D5AEA6734AB7766958F": {
+        "t": "Provisioning Profile:",
+        "info": ""
+    },
+    "86CFD16D4BF4A34D04189BE23C59609692B3": {
+        "t": "Development Team:",
+        "info": ""
+    },
+    "92E34FBA9D041446201B000727A2DF70BDD9": {
+        "t": "Package Type:",
+        "info": ""
+    },
+    "8AAC055278D9C541EB09C2B6C92E7693D859": {
+        "t": "An error occurred during shell execution.",
+        "info": ""
+    },
+    
+    "5E58890085D0624D8389EB714D5134C83200": { "t": "Find Next", "info": "" },
+    "BDBED031717FF7462F684057B9A3470F87E2": { "t": "Find Previous", "info": "" },
+    "3D605C0B07C67343F54A769081091EFCD355": { "t": "Replace...", "info": "" },
+    "CBB6248226BD754E5C29C08646C2FC31F02C": { "t": "Debug Console", "info": "" },
+	"03B8C7926C26B647C1388A96D8332D77C892": { "t": "Script Agents", "info": "" },
+	"2910168E91015647753827D402B8DA89D6CC": { "t": "Developer Tools", "info": "" },
+	"8AEAF8A21ECB4648B44B6BF66E681A6F652D": { "t": "Insert New String (LCS)", "info": "" },
+	"CDCA7EA37D581045907BE6B3513E64183F3C": { "t": "Insert New String", "info": "" },
+	"67BC200D0AF6D143810B13E2B0401AD79863": { "t": "Build", "info": "" },
+	"FC5097693BBA794A971B1A079FAE447E97B0": { "t": "Build For", "info": "" },
+	"EB0496293CB3F141BC8B1BB9A11F432CA376": { "t": "Play On", "info": "" },
+	"7CCA5418036F134C4579A7F2F371BDFA6CCE": { "t": "Open Game Folder", "info": "" },
+	"B762368E5C99C44A13693586425214FE0963": { "t": "Shape", "info": "" },
+	"4B66B19661918348F378CEB12A44A8B0A94D": { "t": "On Click", "info": "" },
+	"EB52AD8F824AA44DFE0B876477FCA0D890F0": { "t": "On Enter", "info": "" },
+	"DEC9A1F06B931544AC28D3F1A327A51F79DE": { "t": "On Deselect", "info": "" },
+	"655949B6180C4343C22AB0E6A1D358CA005B": { "t": "On Leave", "info": "" },
+	"DA93793052A95048BF4830616725287AF0F8": { "t": "On Drag", "info": "" },
+	"46D4CBA94889174D459A4FB406F938BBA3FB": { "t": "Rectangle", "info": "" },
+	"FE643D9C1BC134461B8B7D84B7FE3B10B8FE": { "t": "Pixel", "info": "" },
+	"1544BC741CFDC644141A7D57FB9B227D88F1": { "t": "Hotspot", "info": "" },
+	"D074E2913547A84F2A898B43B80ADF50C3CE": { "t": "Commercially", "info": "" },
+	"86414BDC6D5854422E3BD950E51350C12DCB": { "t": "Round Up", "info": "" },
+	"ACA465106BDAA74634289C10B16F06D035AB": { "t": "Round Down", "info": "" },
+	"41D48F43612C2447A13B60F2E4770ADA56DA": { "t": "Overlay", "info": "" },
+	"F6DA368B2E939840E94AE027EDD6869670E2": { "t": "Cross Fade", "info": "" },
+	"C6AE81730F5615489298B1679FBB0D290F23": { "t": "Unknown", "info": "" },
+	"D1FFAC39529CA742C208064749961529A468": { "t": "Sound %s", "info": "" },
+	"26718EC92FCFB84DA8881166D557A816E1B2": { "t": "Color %s", "info": "" },
+	"A4AC4BE2350DF14AEE7BC6B9A4E04DA53689": { "t": "Expression Importer", "info": "" },
+	"52A9A1CA2E46C845CF7BC4C3E0DAA975719A": { "t": "Testing...", "info": "" },
+	"042D35E09B0608402158D7A865BFAFB64D42": { "t": "Character Expressions successfully imported!", "info": "" },
+	"AAB8B090841F064BC4980D56336508FA89C2": { "t": "Content:", "info": "" },
+	"2D45CB933DACD84C053B9B42E9D6D3D98EC4": { "t": "Placeholder Script", "info": "" },
+	"862EF80F0066A34DEB294655CB98BC2587B1": { "t": "Text Macro", "info": "" },
+	"0DA0012889AE914F135A263579E4D8EAF57E": { "t": "Predefined Object Position", "info": "" },
+	"C1B4DF754B92854A7E8A719034A95BB0F681": { "t": "Idle File Pattern:", "info": "" },
+	"CD0560B71F438049170A00866289311C47EE": { "t": "Idle Animation Pattern:", "info": "" },
+	"196306188A2C9746AB0AE52850288ADF696B": { "t": "Images:", "info": "" },
+	"365320523EF4584ADA3892023AA21CB0E498": { "t": "%s image(s)", "info": "" },
+	"DD2749D85D7B724928684EE8523B4B1F22B0": { "t": "Talking File Pattern:", "info": "" },
+	"979FD0EB6611974013296D13F6769CE7699A": { "t": "Import Character Expressions", "info": "" },
+	"3CCEAC2C21EE7646A628FCA4C296770F669B": { "t": "Cell Position & Size", "info": "" },
+	"7D27073931D579428B2B53025F942E06849C": { "t": "Expression:", "info": "" },
+	"794FD5AD8B7BF44947489C577451F303ACB3": { "t": "Bind Enabled-State:", "info": "" },
+	"FFE83F084E29744E1F784C43BB94EDFFDC6D": { "t": "Snap to Grid", "info": "" },
+	"5DAA98925CC7A44F734AF4348BB54C2404C6": { "t": "Scene Properties", "info": "" },
+	"7286DEA03803D541E14A51230E7F781CFDDB": { "t": "Author", "info": "" },
+	"4B9A81799D70E645515B10A1DBF2DCD1010B": { "t": "Dark", "info": "" },
+	"3C94F9711C2EB340727AD1D9E5DECB2679C7": { "t": "Sepia", "info": "" },
+	"F0AD318882224643E38AC5C89C1C60A95129": { "t": "Morning", "info": "" },
+	"2BE4E8BC5B09184F9749A004A5E292B87D73": { "t": "Night", "info": "" },
+	"1670512D2F54254F4638EDB1A922A84EFC64": { "t": "Run", "info": "" },
+	"EE5B05E38D8503481458C777E7232883C073": { "t": "Regular", "info": "" },
+	"58C8C14C93D8A64BBC3ACFC8263C5648C958": { "t": "Visual Novel Maker is developed by André Radomski.", "info": "" },
+	"0265891438AE314FB9492966F7240A51CB2B": { "t": "Copyright © 2016 - 2017 Degica Co. Ltd", "info": "" },
+	"B478316B791FE6449D8A5F37B7933D27967A": { "t": "Console", "info": "" },
+	"5B720D7D21F7C34E0C484F58AA61F80E5C4B": { "t": "Replay", "info": "" },
+	"849343E73A64824135388E83850F7482F268": { "t": "Restart", "info": "" },
+	"EA88FB345A8315447B3B8FE62ABEBD2B5270": { "t": "Maximum:", "info": "" },
+	"1F299EE86735F64BCD8A4C66C75C397AF499": { "t": "Text Macros", "info": "" },
+	"D7DA1C0C4F3A69483B68E983B7BC44B40DFB": { "t": "New Macro", "info": "" },
+	"9E1EBA69257CA141A33A2FA3FEE82017BF50": { "t": "Blend Movie", "info": "" },
+	"4E3AC230428D6446C15B53759FEA354B125B": { "t": "Audio Defaults", "info": "" },
+	"242BAAAC5971314B18093729BB14654672E7": { "t": "Motion Fade-In", "info": "" },
+	"620781A96849E44A371AD837988084E3010B": { "t": "Message Visiblity", "info": "" },
+	"13AA1B746F2EF146818900D8DE031DA44380": { "t": "Choice Text", "info": "" },
+	"788B4E726FDB924F4B5AD7C0EC8ECB0C064D": { "t": "Blend Background", "info": "" },
+	"57B07D021CE9A4476769EE25A60845786707": { "t": "Rotate Background", "info": "" },
+	"0C8EC3D97374C54DA51975C10FB58D7241EA": { "t": "Background Defaults", "info": "" },
+	"96B71C533C998540564A693301EB4667F5F6": { "t": "Blend Picture", "info": "" },
+	"2B550ED44B44844C0E1833C7A8C230FF4813": { "t": "Change Hotspot State", "info": "" },
+	"91997640332D3547E8289C282DF1D58E304F": { "t": "Blend Text", "info": "" },
+	"8F4F1C15867E214D77785EE8DFAB12E2E4A4": { "t": "Bitmap Padding", "info": "" },
+	"8050AED85DD2A848836BB861736655C6DF2F": { "t": "Freeze Screen", "info": "" },
+	"C91B4ED53F20B3491E9B2332CEA7329CED7A": { "t": "Screen Transition", "info": "" },
+	"9A98EA5C64C6F44F6D2A83233BC8F7FBE6FB": { "t": "Reset Global Data", "info": "" },
+	"ACB09EA51C81064AFF1BCE911402904090A0": { "t": "Wait for Input", "info": "" },
+	"D4D6CF4B67CE674BD75BCD210FF72851E657": { "t": "Prepare Save Game", "info": "" },
+	"6C1F3249569DE742EE5A12939DEA1B491108": { "t": "Save Game", "info": "" },
+	"6DC6A24F7D07E54CD559E64133BD37485579": { "t": "Slot", "info": "" },
+	"3608282076C0B8455A1BEC62BCD165A4F9A8": { "t": "Load Game", "info": "" },
+	"336A741F4BF10746214BADF05F2642357B67": { "t": "Snapshot", "info": "" },
+	"30E5C9A0795FB2426C5A9198506346407435": { "t": "Expression Effects", "info": "" },
+	"6BA18FF859EDE446AF2BE6873EE32B91259E": { "t": "Blend Character", "info": "" },
+	"BD64394A7068384E25786832AD388FD14893": { "t": "Rotate Character", "info": "" },
+	"36D743908369064F2F68EB56E07DB4868130": { "t": "New CoffeeScript File", "info": "" },
+	"2DC93129714959497079B59645D00F1125D4": { "t": "New JavaScript File", "info": "" },
+	"1C2DC3586646784C6F994972EDB1EAC11CF0": { "t": "Platform:", "info": "" },
+	"775850C44FBB594E944BC7263185CB41B306": { "t": "Platform", "info": "" },
+	"3D485A8216BD4740D519DFA2FE2F9DF78DA7": { "t": "The folder '%s' aleady exist.", "info": "" },
+	"FE09FEBA722413456209BB62469D7BD1DBA7": { "t": "Preparing %s...", "info": "" },
+	"66F4654B4B34244DF92A64B13D805DBF9B2E": { "t": "Copying %s...", "info": "" },
+	"FFB1E1B24114044CF87A9A5244438C50AA56": { "t": "Copying %s.json", "info": "" },
+	"F104360E2F7628475D4AA3948AC9A4245608": { "t": "All Documents", "info": "" },
+	"C420EBC172478549E7285A848EC781EB8AF6": { "t": "Document Inspector", "info": "" },
+	"904D67C0581B164D9D287EC9270E54425AAB": { "t": "Document Browser", "info": "" },
+	"405C87647F201748DE7BBCC7701E591EAD4B": { "t": "Project Inspector", "info": "" },
+	"B6FBFE6627AFE6461A380B32978823FA992A": { "t": "DLC", "info": "" },
+	"311610F77C0B84465858DC32F43C786A6F03": { "t": "Check out latest DLCs", "info": "" },
+	"CCA964784E70344007485552EDBD81D69768": { "t": "New Group", "info": "" },
+	"F7AE10CD2BF61146DF0AB4A81C98CF8B48DA": { "t": "Writing Direction", "info": "" },
+	"9A99A14D140E1449A17A2BB3BF4528AEB001": { "t": "Left to Right", "info": "" },
+	"43D647CC72B44042BC491894434D6EB410F4": { "t": "Right to Left", "info": "" },
+	"A661EBC07986804DC41988C4DFB49BFFD545": { "t": "Project Browser", "info": "" },
+	"799D25F96B14034F6D393B75F6A724949693": { "t": "Viewport", "info": "" },
+    "FC1FC2A18D7D32424E7A0AB0BDCED147ED92": { "t": "User Interface", "info": "" },
+    "AD2E05516DEAB64E663B11F66EA98E936532": { "t": "Clear List", "info": "" },
+    "26BD6A9C672A43414D59407377F95F031966": { "t": "States", "info": "" },
+    "463E8DBE005DE44F156946A2C4FE885D13DE": { "t": "Call Common Event:", "info": "" },
+    "895B0B9746E9A6447909D9C6ED09EC2F5E4B": { "t": "Parameter", "info": "" },
+    "0E5619BE629A4543EF29D4D4EB4DDEE92A30": { "t": "Inline", "info": "" },
+    "2EBC3B1C1C9BD547B0385629BABB5CD2B523": { "t": "Previous Scene", "info": "" },
+    "91631A9F24799740832A48B6E817413203B8": { "t": "Save Settings", "info": "" },
+    "2BD4C58748E4D74DD798257599EC60BCA7DC": { "t": "Resume Common Event", "info": "" },
+    "A84A7B449956244ADE1A34957AC8482E4A35": { "t": "Tint Character", "info": "" },
+    "5D13814F17C08347CC3A8E6035F066387EDF": { "t": "Pixelate", "info": "" },
+    "70AE20137F27D2479A396E82B65007349EBB": { "t": "Character Effect", "info": "" },
+    "A7D5AB0202170747798B8E660B4B9533C9E3": { "t": "Text Effect", "info": "" },
+    "4B8174D66AE0F543726A38B7125531F45309": { "t": "Movie Effect", "info": "" },
+    "6198D6F77638734D3A490AC0FC92ABDBCF85": { "t": "Word Wrap", "info": "" },
+    "455E5A13363D6541B089A788FFFD0B306A1A": { "t": "Space Based", "info": "" },
+    "47E0A2D738A2994B2A682B076F7F66D1D693": { "t": "Japanese", "info": "" },
+    "BBCEB6F835D7B64D737970208F950EB8403E": { "t": "Round", "info": "" },
+    "6E4629373750674D117834C2DD79EFE13F7F": { "t": "All", "info": "" },
+    "6D22727A87E828466F181BC6F4F53A1C5D60": { "t": "Reset Variables", "info": "" },
+    "4EDC3B627E69F64E4A6A5608181C285AE4E9": { "t": "All Locals", "info": "" },
+    "5C480B30066EE64A313ABE7257E84D418C01": { "t": "Pause Timer", "info": "" },
+    "017F89827C2D884E6D9B8105CD6A5D369A48": { "t": "Resume Timer", "info": "" },
+    "27BFCDE278D1A84A31688DC79BEC7585E6E0": { "t": "Thumb Width", "info": "" },
+    "38A570AE23F865440F5BF8B6BAA24A252CEB": { "t": "Thumb Height", "info": "" },
+    "2983646A2E7A344B6429830460A50DA4FB4A": { "t": "Background:", "info": "" },
+    "2B7BB7394B9AA74F8088761162A2777FB8A9": { "t": "Disable Auto-Replay", "info": "" },
+    "2F786E0037B3684307780746FF079D38FED0": { "t": "Small Caps", "info": "" },
+    "6BC927E074D6D5444789F8C2CD10EB878CB6": { "t": "Strikethrough", "info": "" },
+    "C298654F16C9004DA49AB941FCC39F9690D0": { "t": "Stop Sound", "info": "" },
+    "AE4EB76B4C65D849B14886B2CEC9D4DA5523": { "t": "Bind Value:", "info": "" },
+    "EE07B2825823B5485849F2570AC946F075DD": { "t": "To:", "info": "" },
+    "71416A6700EBC542C16B1584F0DF6F369566": { "t": "Actions", "info": "" },
+    "2D17A8195E24F34F438812609C2EB18B90D3": { "t": "Jump To Label", "info": "" },
+    "438BA3C82B9D874CE2298B6861119D2ED3C4": { "t": "Bind Value", "info": "" },
+    "4306212A555084449B88E746B758FB1394BD": { "t": "Join List", "info": "" },
+    "5EC0B50E2CCE884F7F6B2F1710861916B671": { "t": "Game Script Exporter", "info": "" },
+	"5EC0B50E2CCE884F7F6B2F1710861916B671": { "t": "Game Script Exporter", "info": "" },
+    "87EB1EBA46DD6647752A156848C9AA4D2303": { "t": "Helps to export all game scripts as .js or .coffee files for use with an external script editor. See Help File topic 'External Script Editor'.", "info": "" },
+    "046D47368578A64E291ACD17822645839F9D": { "t": "Game Scripts successfully exported!", "info": "" },
+    "B25AC7145946274BB7082E715ACBDF88C97E": { "t": "The selected output folder does not exist.", "info": "" },
+    "DA05F3F13AB2D440D45A003010559AEC33CF": { "t": "Output Path:", "info": "" },
+    "AA5349463467E9465F5B83E7F3A382ED0784": { "t": "Export as JavaScript", "info": "" },
+    "8598B97443835347F259F2D44ED8A45F1300": { "t": "Text to List", "info": "" },
+    "ABA86DA776CB164D894A994661709D6E46A0": { "t": "Separator", "info": "" },
+    "11FE738E780BF34E4D8BD23850B9AF9B0A56": { "t": "Line Spacing", "info": "" },
+    "CE85A6DF5E89E7408F88ADA170EACC37597F": { "t": "Line Height", "info": "" },
+    "545347F2128B744B499AF0A4572AE835CC2B": { "t": "Line Padding", "info": "" },
+    "B938DEDB8247F5408A38A4D5C6FC614F47E1": { "t": "Padding", "info": "" },
+    "25C73FA61E1E554CCF4A21E7949AAA95CDBE": { "t": "Paragraph Spacing", "info": "" },
+    "7BEF6F866AB46246D829DE67FB78924B40EB": { "t": "Use Character Color", "info": "" },
+    "03E58B338957C243F219AC39A11114BCC841": { "t": "Cell Color:", "info": "" },
+    "3877592061E621407F4895C129FFF7B7EA87": { "t": "Processing Data Records", "info": "" },
+    "6465C5F65A78A941631890B4630EC1921B4F": { "t": "Processing Scenes", "info": "" },
+    "B81D706E0357244D86489CA4E9FE2D066A63": { "t": "Processing %s...", "info": "" },
+    "A728D646787FF34C3248979130E929CFCBEA": { "t": "Android Deployment", "info": "" },
+    "C746AB6B64828049C559F8166BE46DB1B2D8": { "t": "Key Store:", "info": "" },
+    "AB1892CF24E06348542B34C92F67C6565EBB": { "t": "Key Store Password:", "info": "" },
+    "00101D823696B044E05B3F8405A97A32B146": { "t": "Key Alias:", "info": "" },
+    "789020F53FCF5247287975C25C67526614EA": { "t": "Key Password:", "info": "" },
+    "E933A0452063474A6E7AE961970EB98B09C9": { "t": "License Key:", "info": "" },
+    "A365FDA678489046CE4A9F767682E8CF21BD": { "t": "Play Store License Key:", "info": "" },
+    "336451503CA173443F98FC81D2E5D8C91B9B": { "t": "Use APK Expansion File", "info": "" },
+    "ACDEC2AB6B73A54B424A7EC72881A4A222EB": { "t": "Use Play Store Expansion File", "info": "" },
+    "9B8E728C2830C54871795FD0576BA220E39A": { "t": "Decimal Variable", "info": "" },
+    "6E0E9D13035F054AAC699D245D477F6645DC": { "t": "Live2D Settings", "info": "" },
+    "7B137A744F7C174D5B193598362C66DDBB84": { "t": "Live2D Parameter", "info": "" },
+    "F4BFA4C84CD22442948A4E97B8F2704F7521": { "t": "Character Defaults", "info": "" },
+    "E6937E90514C37424D7B636147FDDEFB1CBB": { "t": "Breath Intensity", "info": "" },
+	"40EA095D062F9546FD4B42253E2CCCA666D7": { "t": "Idle Intensity", "info": "" },
+    "90791FCC34EDE440309BC978DC6D67A038F0": { "t": "Lip-Sync Sensitivity", "info": "" },
+    "CCF9701A250AA748B74ACF9186F86CE54DFA": { "t": "Eye Blink", "info": "" },
+    "49D635AA7F533945031961C84E53DA47FC4A": { "t": "Closed Motion", "info": "" },
+    "80666DBD4B6550418F2ABD277A1D721274A3": { "t": "Closing Motion", "info": "" },
+    "AAC691DE7A7AA744C07987D1895C7BA401DC": { "t": "Opening Motion", "info": "" },
+    "C76658282586E94FE9295E495AD4C284D70E": { "t": "Debug View", "info": "" },
+    "79D2B99A737436464D8AE23194A70844086A": { "t": "Rename All References", "info": "" },
+    "BCADE71C53EDB140D85A762489B00A37730C": { "t": "Idle Intensity:", "info": "" },
+    "7197F01A8B70D642125A03467866A7B3BE63": { "t": "Breath Intensity:", "info": "" },
+    "289719097B8337459D08BAF48EE642483968": { "t": "Lip-Sync Sensitivity:", "info": "" },
+    "B03973C66D0CD7419A49B52082C0791903A3": { "t": "Single Instance", "info": "" },
+    "B25B5E9D4ABED04A23699C871A5205FCAE31": { "t": "Prefix:", "info": "" },
+    "5590382131361846FE4BB554CD186CDCADE1": { "t": "Suffix:", "info": "" },
+    "AD4572E7600DE6411B681756AEA87A33C9A4": { "t": "Position Anchor", "info": "" },
+    "AD9901E101C5554B3A1AE46246C2299A25D4": { "t": "Top-Right", "info": "" },
+    "603421F76B57E844654AABA2EE9BB1052A53": { "t": "Bottom-Right", "info": "" },
+    "21643F3A1F70D945DE2932239588BE7E0A4B": { "t": "Bottom-Left", "info": "" },
+    "D7C5B0CB4112B74D0A5937F288305900EE57": { "t": "Visual Type", "info": "" },
+    "3E0C4FA07623E34F3908D417D8F8B4FD63D3": { "t": "Image", "info": "" },
+    "2586E6655FB193421B6A3E43620E3ADB0D93": { "t": "Tiling Image", "info": "" },
+    "43AB4A768C7E8447B41AF3275AB85714F14D": { "t": "Frame", "info": "" },
+    "FD7EF6A29DCE65415D6B8733997391E98142": { "t": "Three-Part Image", "info": "" },
+    "892EDC432CBA6542A64A3E266BAC9C430DD1": { "t": "Quad", "info": "" },
+    "944E53CE38010343CF28707302BA2FF54ABD": { "t": "Join Scene", "info": "" },
+    "9A85901717E9C14C952955616EA96882EF43": { "t": "Fade-In", "info": "" },
+    "311ADD75702FA84E37297E5657A84067413A": { "t": "Open", "info": "" },
+    "BC4DFF3B1A9953463A7BE1E9FA84DF33D265": { "t": "Control Flow", "info": "" },
+    "0982629273001344698BD7512598CADED0B4": { "t": "Conditional Branch", "info": "" },
+    "F891A99C6C33364D583BBBA74E1CB73F0BAE": { "t": "Timers", "info": "" },
+    "AEB0463C403244454D5838451B328881EFFA": { "t": "User Interaction", "info": "" },
+    "10532DB34986144EED48AC058CB1D33B179B": { "t": "Save & Load", "info": "" },
+    "271150F15AF34549943BCE034E6B8B439297": { "t": "Data", "info": "" },
+    "7F2E596F36975540830ACF8248644620D341": { "t": "Message Area", "info": "" },
+    "9AF5EB1036128446C29B9F30DF6BFC248B2F": { "t": "Group", "info": "" },
+    "0A4893A329DCA346739AB8435EDB8EE843AD": { "t": "It seems you installed/uninstalled or activated/deactivated extensions. Do you want to save and reload your project now so the changes can take effect?", "info": "" },
+    "08DCEE6324F3474ACF4ACC8542B7E63C7C64": { "t": "Aborted", "info": "" },
+    "2277419244158240EF7A4CE2663128001AAD": { "t": "An extension with the same ID(%s) and version(%s) is aleady installed.", "info": "" },
+    "CCD1A3022884964EC72B4C315F97D7F4FF3E": { "t": "Organization:", "info": "" },
+    "809C12E18BF0464D681933D7F88E860A6A7C": { "t": "Do you really want to reload your current project? Unsaved changes will be lost.", "info": "" },
+    "3A5DC90A12A0A648DF5BC638B0B407AAF2D5": { "t": "Custom Views:", "info": "" },
+    "48DBCD931F04A2428B5B7717BA5E99302B05": { "t": "The selected document is not a custom view.", "info": "" },
+    "4B4D0E0D3F43E44B84583868083C8C79B973": { "t": "Reload Project", "info": "" },
+    "E110CF2C3DE4154BFD586BB8FB2210EFBBE6": { "t": "Access", "info": "" },
+    "1F61FF138D26A248296A90D6385BA256EF31": { "t": "Conversion", "info": "" },
+    "499F821A3A6E764627192618B66F3B07368F": { "t": "Modification", "info": "" },
+    "9D2A7D706E347140081B6629FF18DCD11405": { "t": "Camera", "info": "" },
+    "3821D5611242A9442D597146E7D807708DE1": { "t": "Scene Control", "info": "" },
+    "B377402B9CFE46427A199532C210242722AE": { "t": "ADV Style", "info": "" },
+    "46F125F05E61C74FE92831665515EA9B9CD9": { "t": "NVL Style", "info": "" },
+    "998C2E345494F8404709B3A52A932F2C2B59": { "t": "Menu Only", "info": "" },
+    "DDBC466C06C4C449EE489256DA79461BEDA2": { "t": "Game - Skip", "info": "" },
+    "3D664CCA2BACB84555885FA7D2507662CC00": { "t": "Beginner's Guide", "info": "" },
+    "E83415475C0F37404E4AD6A3A7CDE7B45253": { "t": "Random", "info": "" },
+    "CCE1D54E6C1C2347DE6BA161805011F03142": { "t": "Thickness", "info": "" },
+    "D3F006541FBD774BC38B21E1A1A20078669B": { "t": "Corner Size", "info": "" },
+    "5C9BCC49216FB248B05975385EED334397D5": { "t": "Please check the Help File for more information.",  "info": "" },
+    "860083A58A6EE44E0279F6F8CEEA5201E2F5": { "t": "Any Key", "info": "" },
+	"00A9E2314B1EC8430F6884A52B3DF1130FBC": { "t": "Any Button", "info": "" },
+	"F806BE367A72A54DE66A861438BDC0D43C0C": { "t": "Any Input", "info": "" },
+	"6573D0D639E326443169D455940DBDBE260C": { "t": "Key - Cancel", "info": "" },
+	"7BF2A20B1EFA08462D184603EB6E0DFEFF78": { "t": "Key - Help", "info": "" },
+	"348773472DC23746492958E858768C473D08": { "t": "Key - Backspace", "info": "" },
+	"A6B2EA6C3CE4D343CE1B7B85377A110F6AAE": { "t": "Key - Tab", "info": "" },
+	"4E9F97AB8ECA72497F3B7EC41CFFA693F0D1": { "t": "Key - Clear", "info": "" },
+	"D65CF3D338D8C9419288CD6847043C260769": { "t": "Key - Return", "info": "" },
+	"B3CA3F181914684AFA19A552960FA8BBFBB6": { "t": "Key - Enter", "info": "" },
+	"6E0579B7053C93443019C0E61971546EDEAC": { "t": "Key - Shift", "info": "" },
+	"45AFB25982D687438B78B1262ED7F3136B87": { "t": "Key - Control", "info": "" },
+	"3D25EC89734C614C0A8BCBD6B3781798E914": { "t": "Key - Alt", "info": "" },
+	"7A7958E01BA9294ACE29041519F6B826CCAE": { "t": "Key - Pause", "info": "" },
+	"7693086E83272842309B85277A1914ACE946": { "t": "Key - Caps Loc", "info": "" },
+	"CE83DB0E6393984DF37A20E182D1DE6C6F3A": { "t": "Key - Caps Lock", "info": "" },
+	"5FA15C5A1DA8A54C6868C9C706AC68C8ADB1": { "t": "Key - Escape", "info": "" },
+	"7C5389928CA6844DF46A00151200A009E067": { "t": "Key - Space", "info": "" },
+	"48A67E156245C541CD2A98B09B94D90E46B2": { "t": "Key - Page Up", "info": "" },
+	"9CC483351E5762447E6BCD64D971E8F12022": { "t": "Key - Page Down", "info": "" },
+	"3DCB590D43160944D32AD87549EB0E3722B7": { "t": "Key - End", "info": "" },
+	"82E83B5228CBA94C3F694883743301604D71": { "t": "Key - Home", "info": "" },
+	"6539A9B900A92444E62862169C739C497B03": { "t": "Key - Left", "info": "" },
+	"F706E31D21395943AA4805416A62F6F4D967": { "t": "Key - Up", "info": "" },
+	"408283167686D244FC1A8958939203BD5D66": { "t": "Key - Right", "info": "" },
+	"1FEF049A334B674F60388AC5CF096316F459": { "t": "Key - Down", "info": "" },
+	"035FFAC94DF00147B66B2297C927DBE950AC": { "t": "Key - Print Screen", "info": "" },
+	"BD3F33D43D23A8457C187C9588E72C4DCEB1": { "t": "Key - Insert", "info": "" },
+	"D11D13701594384D6D6A4462D3CC54F08999": { "t": "Key - Delete", "info": "" },
+	"428C36074C60C945B4795B94D487D3E798CE": { "t": "Key - 0", "info": "" },
+	"172A40BE01C04142DB9B1DB74B877F6330A7": { "t": "Key - 1", "info": "" },
+	"8348BD50319475438949034940DDD0BDD8D9": { "t": "Key - 2", "info": "" },
+	"929F6F0C2F4DC340D7182354134470C5CB3C": { "t": "Key - 3", "info": "" },
+	"33CECD203AD8504B0298C731DE5E59D4B3F4": { "t": "Key - 4", "info": "" },
+	"54DF09EC285204467C2984B6C9897FA29252": { "t": "Key - 5", "info": "" },
+	"64DD6A4A0133F444CA5A5E3149E454F3D5A1": { "t": "Key - 6", "info": "" },
+	"E8D378D0141FE846B739ECA1F60A0A16EFB3": { "t": "Key - 7", "info": "" },
+	"1CF90F1C9F4F45403C8A7C12586E4F7DA359": { "t": "Key - 8", "info": "" },
+	"D04FAF793410184145396E605649E4733EF5": { "t": "Key - 9", "info": "" },
+	"50FA944A5E1A484F50390EE10E53804D93A9": { "t": "Key - Semicolon", "info": "" },
+	"744267A1656FD34A3428A363B83750488BAA": { "t": "Key - Equals", "info": "" },
+	"6184936338FC7542F4899C462BE44A4B0391": { "t": "Key - A", "info": "" },
+	"1B6FB43710BC9449F55BDA071E500B840002": { "t": "Key - B", "info": "" },
+	"6A0CCE1A2AA793466819F6D2633BCCD3C92C": { "t": "Key - C", "info": "" },
+	"1647D11C4E2E5844F169D5505601719C3312": { "t": "Key - D", "info": "" },
+	"C9D39AEB3A01274BFB49A4810EB8CDAD9368": { "t": "Key - E", "info": "" },
+	"3D6A132A0FFA444ABE1AA52285AEF41CF085": { "t": "Key - F", "info": "" },
+	"81C1EA9568CCF44B617B78F4B24411FB8867": { "t": "Key - G", "info": "" },
+	"511682003850F443134B1AB5BFF33F6E19F3": { "t": "Key - H", "info": "" },
+	"3754D5514F8C7248663957E394B8510A5440": { "t": "Key - I", "info": "" },
+	"6E7C98799BB896465E69787958E43B57E65D": { "t": "Key - J", "info": "" },
+	"B1B6F5AA297ED34EAB481DF8E17A4DF16E71": { "t": "Key - K", "info": "" },
+	"48F90DAC21D1B043FD3ABD0822708AE32D09": { "t": "Key - L", "info": "" },
+	"4783A9533D3EA247B61AC2328C707D2B960C": { "t": "Key - M", "info": "" },
+	"414C333D99FD494C420B61A8923060C220E0": { "t": "Key - N", "info": "" },
+	"7EF9FBE47705F048F479B083D49E5A1093F6": { "t": "Key - O", "info": "" },
+	"D6E0A4F45E124943C21B4D142FBF74579C1B": { "t": "Key - P", "info": "" },
+	"D18FDBB15FDC3847B459D7668D8DA88F3ACC": { "t": "Key - Q", "info": "" },
+	"808EC2806C587344601A277834616EDE0057": { "t": "Key - R", "info": "" },
+	"B25FAB1F2BD8D94D2D8806D90A45C9BC772E": { "t": "Key - S", "info": "" },
+	"5DB59BB10200884AFD3A40761CF1054E322E": { "t": "Key - T", "info": "" },
+	"03DD54029F4CC446B19B3DD5D6E61FBDEF49": { "t": "Key - U", "info": "" },
+	"01BEA02A26D5734DFC9BA52382F2179782C6": { "t": "Key - V", "info": "" },
+	"2D028AF66FFED74E5E2B0A58EBD2481902FF": { "t": "Key - W", "info": "" },
+	"0D98D8978BD05145206B76C7632D3D9F918A": { "t": "Key - X", "info": "" },
+	"8C27F5BD93C60446E7299EC1165C1100B21E": { "t": "Key - Y", "info": "" },
+	"E9EF6635341DB243B92BC0D97B13B753EEAF": { "t": "Key - Z", "info": "" },
+	"CD39745D283623447F4B5247B6F5CD9DA832": { "t": "Key - Context Menu", "info": "" },
+	"3BD491D4403E584490998348091F510F7A86": { "t": "Key - Numpad 0", "info": "" },
+	"4AFFF3151CF1C14B9C39BD47B39018825992": { "t": "Key - Numpad 1", "info": "" },
+	"C856209B3110444AEE48676265EA52E0099F": { "t": "Key - Numpad 2", "info": "" },
+	"D8FAEAED50D5B54AD38B0E87862124F2CEB4": { "t": "Key - Numpad 3", "info": "" },
+	"03217B65377CD64B14986EF130138D36ACED": { "t": "Key - Numpad 4", "info": "" },
+	"3C9E451808B4204A3018D510B156CDABE080": { "t": "Key - Numpad 5", "info": "" },
+	"AF9C250F9478314734284191D20E6D65A39F": { "t": "Key - Numpad 6", "info": "" },
+	"A126BB9F8F3E2843D1791511557A157DEA86": { "t": "Key - Numpad 7", "info": "" },
+	"9B543F5A26CD974ACD68A934700E296DAD68": { "t": "Key - Numpad 8", "info": "" },
+	"9C2737C82CB7F74F6408F4A1B61CE6006722": { "t": "Key - Numpad 9", "info": "" },
+	"A31AD6678F224146C2293874225974593347": { "t": "Key - Multiply", "info": "" },
+	"C4AC4D950F9A184DF9490A865FFCC8225E36": { "t": "Key - Add", "info": "" },
+	"9D9A7C9B0E066042BC7901B0B4E212C2DB0A": { "t": "Key - Separator", "info": "" },
+	"9370062F55F8C144811B5F933F27B2A36F88": { "t": "Key - Subtract", "info": "" },
+	"DE79C8043DFA3443B9284A9225937947ABCE": { "t": "Key - Decimal", "info": "" },
+	"C70B30EA506F1445B46B5D54C83E4DB35873": { "t": "Key - Divide", "info": "" },
+	"966BBF827C15D147F668B84783BB10212F78": { "t": "Key - F1", "info": "" },
+	"DE1757AF8431A64964899F122998D1908BE4": { "t": "Key - F2", "info": "" },
+	"CE3FAEA58F53D34D589B7F3524D042D1450C": { "t": "Key - F3", "info": "" },
+	"8F3AD8DC2D94C747B08BD873CBD046FF814E": { "t": "Key - F4", "info": "" },
+	"E228694D651ED14AB18A5728E71E56DBBAD4": { "t": "Key - F5", "info": "" },
+	"B6A9AE708907874931886BE50E54D2C185A2": { "t": "Key - F6", "info": "" },
+	"E559C0D71759E946CD48116851EB9DA5D9B6": { "t": "Key - F7", "info": "" },
+	"879ADE965419A64D005B7D4858C720AF3707": { "t": "Key - F8", "info": "" },
+	"4B5902CF1B63384B469873E13E2E8CB9FC64": { "t": "Key - F9", "info": "" },
+	"5C92179B0BAA8343952B3FA46647714FB451": { "t": "Key - F10", "info": "" },
+	"5FF080C478C6634D82183AD35D9B30AC5B60": { "t": "Key - F11", "info": "" },
+	"9D580AEC784F78436D8BDE41384DE85CA483": { "t": "Key - F12", "info": "" },
+	"0B3F13DF1879044D9F8B55947A85DBBC15F7": { "t": "Key - F13", "info": "" },
+	"7CB108BD49D96941BF7A9145F6F7CB976E08": { "t": "Key - F14", "info": "" },
+	"35CD6CF5725A3545074881E2B0876B5EFF8E": { "t": "Key - F15", "info": "" },
+	"49DE469966F1284B2E689A237085BDAA8BA0": { "t": "Key - F16", "info": "" },
+	"C74C42E53719C2427759B4B84CED14C2CFD3": { "t": "Key - F17", "info": "" },
+	"119AAA1B702CE645E68A8313DF553C3570BA": { "t": "Key - F18", "info": "" },
+	"C81AB1E94AC286460E7A5A55F6938A0C3587": { "t": "Key - F19", "info": "" },
+	"2324712A2D44234D493981B35500DDD0BF3F": { "t": "Key - F20", "info": "" },
+	"A3DB430F33ECE143212B77B2E6D730A07752": { "t": "Key - F21", "info": "" },
+	"F7C1FCB851D16443B01B9CA7DDC103FDA6F2": { "t": "Key - F22", "info": "" },
+	"3F45CA5E9A3128472F6852151D2475926E93": { "t": "Key - F23", "info": "" },
+	"7DD97AA88B24A8496718EDB3707C6E2F7EBD": { "t": "Key - F24", "info": "" },
+	"0A1B28CB60343844DE38AA64EA081C8E487B": { "t": "Key - Num Lock", "info": "" },
+	"808660E58502064B1859B1420456B942FDF2": { "t": "Key - Scroll Lock", "info": "" },
+	"03CE4836162D91485108377486B0F04E6A1D": { "t": "Key - Comma", "info": "" },
+	"EF03C785270C0645931A4E61D3FBA8190DE5": { "t": "Key - Period", "info": "" },
+	"7A777E9669DBB54EC76872912A1761F17949": { "t": "Key - Slash", "info": "" },
+	"308E73D7182903476A782497F5B9BCA265BE": { "t": "Key - Back Quote", "info": "" },
+	"D94EA05F245AA34DA0194227B28395171F08": { "t": "Key - Open Bracket", "info": "" },
+	"E52CF5C015D1E347662943B4AE0660AF3B8B": { "t": "Key - Back Slash", "info": "" },
+	"D123CABB1D6AE9462D787D86F14E7B1523D7": { "t": "Key - Close Bracket", "info": "" },
+	"A1BCA694910C42484618AD644616C92B67AE": { "t": "Key - Quote", "info": "" },
+	"7C98F4771AD77740DB88B6052D0878E7C034": { "t": "Key - Meta", "info": "" },
+	"5275A5DD38964749530B76C5A2A5C0B0381D": { "t": "Slot:", "info": "" },
+	"A594D5F8613EB54F79095420D7A592900766": { "t": "Quit Visual Novel Maker", "info": "" },
+	"A656990A40DCB745BA199F53B74826F4B323": { "t": "To", "info": "play time to" },
+    "0BB08C7B26984045683905F29CEE9D90D4A7": { "t": "To", "info": "pause time to" },
+    "222E404665D7494C6C9A68D7ECB6A11D7DAD": { "t": "Audio Resources", "info": "" }
+}}}

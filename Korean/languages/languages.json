@@ -6,6 +6,5 @@
     { "name": "Portugal / Brazil", "bundle": "system.pt", "alias": "pt" },
     { "name": "Japanese", "bundle": "system.jp", "alias": "jp" },    
     { "name": "Traditional Chinese", "bundle": "system.zh_tw", "alias": "zh_tw" },
-    { "name": "Simplified Chinese", "bundle": "system.zh_cn", "alias": "zh_cn" },    
-	{ "name": "한국어", "bundle": "system.ko", "alias": "ko" }
+    { "name": "Simplified Chinese", "bundle": "system.zh_cn", "alias": "zh_cn" }
 ]
