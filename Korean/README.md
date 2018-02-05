@@ -1,9 +1,6 @@
 ## 이미지 매핑 핫스팟 좌표
 [구글 스프레드시트](https://docs.google.com/spreadsheets/d/1Wzdr7V8R3-jjvBFf1EJiAmM_EHg66rbNzSsvvarp1N8/edit?usp=sharing)
 
-## 패치 적용 방법
-![description](./images/description.jpg)
-
 ## Change Log
 - 2017-12-01 17:27 (KST) - 'Live2D 설정' 커맨드에서 눈을 깜빡이는 설정하는 부분 수정(Eye Blink, Closed Motion, Closing Motion, Opening Motion)
 - 2017-12-02 11:48 (KST) - Any (자동 회전) -> 임의로 선택
@@ -44,4 +41,10 @@ AAC691DE7A7AA744C07987D1895C7BA401DC - "눈을 뜨는데 걸리는 시간" -> �
 FD7EF6A29DCE65415D6B8733997391E98142 - "Three-Part 이미지" -> 3-파트 이미지
 AEB0463C403244454D5838451B328881EFFA - "사용자 상호 작용" -> 사용자 조작
 이외 새로운 번역 추가 (1.0.144 기반)
+
 ```
+
+2018-02-05T13:26:52.009Z - 버그로 인하여 패치 적용 방법을 영어(English)에 덮어쓰는 걸로 변경했습니다.
+
+## 패치 적용 방법
+![description](./images/description.jpg)
