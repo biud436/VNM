@@ -1,9 +1,12 @@
 /**
- * RS_YoutubePlayer (v1.0.0)
+ * RS_YoutubePlayer (v1.0.1)
  * ====================================================
  * Change Log
  * ====================================================
  * 2018.08.23 (v1.0.0) - First Release.
+ * 2018.08.24 (v1.0.1) : 
+ * - Now Youtube Player would control parameters using Record Manager.
+ * - Youtube Player could return as the previous scene after finished the video.
  */
 var Imported = Imported || {};
 Imported.RS_YoutubePlayer = true;
@@ -92,7 +95,11 @@ function onPlayerStateChange (event) {
       YTPlayer.callPlayer('seekTo', [0, true]);
     } else {
       console.log("YT.PlayerState.ENDED 감지됨");
-      YTPlayer.onEnd();
+      return (function() {
+        return setTimeout(function() {
+          YTPlayer.onEnd();
+        });
+      })();
     }
     break;
     case YT.PlayerState.PLAYING: // 재생 중
@@ -124,11 +131,20 @@ function onPlayerStateChange (event) {
   var quality = 'hd720';
   RS.YoutubePlayer.Params.viewSize = 'Normal';
   RS.YoutubePlayer.Params.isLooping = false;
-
   RS.YoutubePlayer.Params.videoWidth = 560;
   RS.YoutubePlayer.Params.videoHeight = 315;
-  // RS.YoutubePlayer.Params.videoWidth = parseInt($PARAMS.resolution.width) - 16;
-  // RS.YoutubePlayer.Params.videoHeight = parseInt($PARAMS.resolution.height) - 9;
+
+  (function() {
+
+    if(RecordManager.youtubePlayer && RecordManager.youtubePlayer[0]) {
+      var item = RecordManager.youtubePlayer[0];
+      RS.YoutubePlayer.Params.videoWidth = parseInt(item.videoWidth);
+      RS.YoutubePlayer.Params.videoHeight = parseInt(item.videoHeight);
+      quality = item.quality;
+      RS.YoutubePlayer.Params.isLooping = (item.isLooping === 1);
+    }
+
+  })();
   
   //================================================================
   // YTPlayer for JQuery
@@ -210,6 +226,7 @@ function onPlayerStateChange (event) {
     if(this._ytPlayer[0]) {
       this._ytPlayer.remove();
     }
+    this._init = false;
   };
   
   YTPlayer.stopVideo = function() {
@@ -242,7 +259,7 @@ function onPlayerStateChange (event) {
     if(!this._iframe) return false;
     if(!this._iframe[0]) return false;
     if(!this._iframe[0].contentWindow) return false;
-    return true;
+    return this._init;
   };
   
   YTPlayer.isPlaying = function() {
@@ -339,8 +356,19 @@ function onPlayerStateChange (event) {
     return (youtubePlayer[0] && youtubePlayer.css("opacity") > 0);
   };
 
-  YTPlayer.onEnd = (function() {
-  })();
+  YTPlayer.onEnd = function() {};
+
+  YTPlayer.updateFrame = function() {
+    gs.Main.updateFrame();
+    if(YTPlayer.isOnPlayer() && YTPlayer.isVideoVisible()) {
+      YTPlayer.requestUpdateFrame();
+    }
+  };
+
+  YTPlayer.requestUpdateFrame = function() {
+    var id = window.requestAnimationFrame(YTPlayer.updateFrame);
+    return id;
+  };
 
   //================================================================
   // Component_PlayingYoutubeGameScene
@@ -378,8 +406,10 @@ function onPlayerStateChange (event) {
       var h = $PARAMS.resolution.height || 600;
       YTPlayer.initialize(w, h);        
       YTPlayer.playYoutube(src);
+      return setTimeout(function() {
+        YTPlayer.requestUpdateFrame();
+      }, 100);
     };
-  
     Component_PlayingYoutubeGameScene.prototype.prepareVisual = function() {
       if(YTPlayer.isOnPlayer()) {
         console.log("유튜브 플레이어 초기화 완료");
