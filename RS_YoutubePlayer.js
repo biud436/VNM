@@ -1,5 +1,5 @@
 /**
-* RS_YoutubePlayer (v1.0.1)
+* RS_YoutubePlayer (v1.0.2)
 * ====================================================
 * Change Log
 * ====================================================
@@ -8,6 +8,7 @@
 * - Now Youtube Player would control parameters using Record Manager.
 * - Youtube Player could return as the previous scene after finished the video.
 * - Added setSize method.
+* 2018.08.24 (v1.0.2) - Supported for Action-based UI.
 */
 var Imported = Imported || {};
 Imported.RS_YoutubePlayer = true;
@@ -26,9 +27,14 @@ function YTPlayer() {
 //
 //
 function onYouTubeIframeAPIReady() {
+    
+    if(RecordManager.youtubePlayer && RecordManager.youtubePlayer[0]) {    
+        var item = RecordManager.youtubePlayer[0];
+    }
+    
     player = new YT.Player('ytplayer-iframe', {
-        height: '560',
-        width: '315',
+        height: item.videoWidth || 560,
+        width: item.videoHeight || 315,
         videoId: 'BIbpYySZ-2Q',
         fs: 1,
         autoplay: 1,
@@ -134,6 +140,7 @@ function onPlayerStateChange (event) {
     RS.YoutubePlayer.Params.isLooping = false;
     RS.YoutubePlayer.Params.videoWidth = 560;
     RS.YoutubePlayer.Params.videoHeight = 315;
+    RS.YoutubePlayer.Params.callbackTime = 2000;
     
     (function() {
         
@@ -143,6 +150,7 @@ function onPlayerStateChange (event) {
             RS.YoutubePlayer.Params.videoHeight = parseInt(item.videoHeight);
             quality = item.quality;
             RS.YoutubePlayer.Params.isLooping = (item.isLooping === 1);
+            RS.YoutubePlayer.Params.callbackTime = parseInt(item.callbackTime) || 2000;
         }
         
     })();
@@ -158,14 +166,17 @@ function onPlayerStateChange (event) {
         var viewMode = RS.YoutubePlayer.Params.viewSize;
         this._init = false;
         this._status = -1;
+        
         this._ytPlayer = jQuery('<div>');
         this._ytPlayer.attr("id", 'ytplayer');
         this._ytPlayer.attr("width", (viewMode === 'Fullscreen' ) ? `${width - tw}px` : '560px');
         this._ytPlayer.attr("height", (viewMode === 'Fullscreen' ) ? `${height - th}px` : '315px');
         jQuery("body").append(this._ytPlayer);
         this._tag = document.createElement('script');
-        this._tag.src = "https://www.youtube.com/iframe_api";
+        this._tag.src = "https://www.youtube.com/iframe_api";            
+        
         this.createIframe();
+        
     };
     
     YTPlayer.createIframe = function () {
@@ -192,7 +203,9 @@ function onPlayerStateChange (event) {
         this._iframe.css("position", "absolute");
         this._iframe.css("width", width);
         this._iframe.css("height", height);
-        this._ytPlayer.append(this._iframe);
+        if(this._ytPlayer) {
+            this._ytPlayer.append(this._iframe);
+        }
     };
     
     YTPlayer.preVideo = function(src) {
@@ -226,14 +239,15 @@ function onPlayerStateChange (event) {
         }
         if(this._ytPlayer[0]) {
             this._ytPlayer.remove();
+            this._ytPlayer = null;
         }
         this._init = false;
     };
     
     YTPlayer.stopVideo = function() {
-        if(!this._iframe) this.createIframe();
+        if(!this._iframe) return;
         this._iframe.css("opacity", "0.0");
-        this._iframe.css("z-index", -1);
+        this._iframe.css("z-index", "0");
         jQuery("canvas").css("opacity", "1.0");
         this.callPlayer("stopVideo");
     };
@@ -259,7 +273,8 @@ function onPlayerStateChange (event) {
     YTPlayer.isOnPlayer = function() {
         if(!this._iframe) return false;
         if(!this._iframe[0]) return false;
-        if(!this._iframe[0].contentWindow) return false;
+        if(!this._iframe[0].contentWindow) return false
+        if(!this._ytPlayer) return false;
         return this._init;
     };
     
@@ -371,13 +386,16 @@ function onPlayerStateChange (event) {
     
     class Component_PlayingYoutubeGameScene extends vn.Component_GameSceneBehavior
     {
-        
+     
+        initialize() {
+            super.initialize();       
+        }
+
         playYoutubeVideo(src) {
             let w = $PARAMS.resolution.width || 800;
             let h = $PARAMS.resolution.height || 600;
-            YTPlayer.initialize(w, h);        
+            YTPlayer.initialize(w, h);
             YTPlayer.playYoutube(src);
-
             return setTimeout(function() {
                 YTPlayer.requestUpdateFrame();
             }, 100);      
@@ -404,7 +422,6 @@ function onPlayerStateChange (event) {
         }
         
         dispose() {
-            YTPlayer.removeAllElement();
             super.dispose();
         }
         
@@ -457,7 +474,7 @@ function onPlayerStateChange (event) {
                     // 포커스를 되찾는다.
                     Graphics.canvas.focus();   
                     window.focus();
-                }, 2000);
+                }, RS.YoutubePlayer.Params.callbackTime);
             }.bind(this);
             
             // 씬의 기능도 컴포넌트로 분리되어있음을 알아야 한다.
@@ -470,5 +487,5 @@ function onPlayerStateChange (event) {
     }
 
     gs.Component_CommandInterpreter = Component_CommandInterpreterForYoutube;
- 
+    
 })();
