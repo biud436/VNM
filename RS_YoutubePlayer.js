@@ -7,6 +7,7 @@
 * 2018.08.24 (v1.0.1) : 
 * - Now Youtube Player would control parameters using Record Manager.
 * - Youtube Player could return as the previous scene after finished the video.
+* - Added setSize method.
 */
 var Imported = Imported || {};
 Imported.RS_YoutubePlayer = true;
@@ -336,6 +337,7 @@ function onPlayerStateChange (event) {
         lastStep = setInterval(function() {
             YTPlayer.callPlayer('playVideo');
             YTPlayer.callPlayer('setLoop', [RS.YoutubePlayer.Params.isLooping]);
+            YTPlayer.callPlayer('setSize', [RS.YoutubePlayer.Params.videoWidth, RS.YoutubePlayer.Params.videoHeight]);
             YTPlayer.callPlayer('setPlaybackQuality', [quality]);
             YTPlayer.callPlayer('seekTo', [startSecond, true]);
             if(YTPlayer.isOnPlayer()) {
